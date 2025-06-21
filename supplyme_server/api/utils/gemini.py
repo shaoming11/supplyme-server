@@ -1,37 +1,37 @@
 from google import genai
-from dotenv import load_dotenv
 import os
-import requests
-
-load_dotenv() # Load variables from .env
 
 api_key = os.getenv('API_KEY')
 
 client = genai.Client(api_key=api_key)
 
 def generateEmbedding(text):
-    api_endpoint = "https://gemini.googleapis.com/v1/projects/your-project-id/locations/your-location/models/your-model-id:embedText"
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": "Bearer your-api-key"
-    }
-    data = {
-        "text": text
-    }
-    response = requests.post(api_endpoint, headers=headers, json=data)
-    response = client.models.generate_content(
-    model="gemini-2.5-flash", contents="Explain how AI works in a few words"
-    )
-    if response.status_code == 200:
-        return response.json()["embedding"]
-    else:
-        raise Exception("Failed to generate embedding")
+    result = client.models.embed_content(
+            model="gemini-embedding-exp-03-07",
+            contents=text)
+
+    return result
 
 def findHSCode(text):
-    pass
+    response = client.models.generate_content(
+        model="gemini-2.5-flash-lite-preview-06-17", contents=f"What is the most likely HS code for the product described below (only return the HS code without any other message): \n\n[\n{text}\n]?"
+    )
+    return response
+
+def findProductName(text):
+    response = client.models.generate_content(
+        model="gemini-2.5-flash-lite-preview-06-17", contents=f"What is the most likely product name for the product described below (only return the name of the product): \n\n[\n{text}\n]?"
+    )
+    return response
 
 def generateCompanyDescription(companyName):
-    pass
+    response = client.models.generate_content(
+        model="gemini-2.5-pro", contents=f"Could you describe the company listed below (only list what this company does by providing a brief description) \n\n[\n{companyName}\n]?"
+    )
+    return response
 
 def generateSupplierDescription(companyName):
-    pass
+    response = client.models.generate_content(
+        model="gemini-2.5-pro", contents=f"Could you describe what products the company listed below supplies (only list products) \n\n[\n{companyName}\n]?"
+    )
+    return response
