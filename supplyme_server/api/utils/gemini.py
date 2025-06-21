@@ -4,8 +4,8 @@ def generateEmbedding(text):
 def findHSCode(text):
     pass
 
-def generateCompanyDescription(campanyName):
+def generateCompanyDescription(companyName):
     pass
 
-def generateSupplierDescription(campanyName):
+def generateSupplierDescription(companyName):
     pass
