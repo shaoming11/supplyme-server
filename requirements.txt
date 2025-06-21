@@ -1,0 +1,5 @@
+django
+djangorestframework
+google-genai
+numpy
+pandas
