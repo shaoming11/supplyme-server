@@ -3,3 +3,4 @@ djangorestframework
 google-genai
 numpy
 pandas
+mongoengine
