@@ -4,3 +4,9 @@ google-genai
 numpy
 pandas
 mongoengine
+beautifulsoup4
+requests
+aiohttp
+asyncio
+selenium
+selenium-stealth
