@@ -33,7 +33,7 @@ class GetResults(APIView):
                     "country": supplier["country"]
                 })
         
-        return Response(results)
+        return Response({"HScode": findHSCode(prompt), "companies": results})
 
 def index(request):
     return render(request, "index.html")
