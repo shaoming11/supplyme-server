@@ -8,7 +8,7 @@ This repository contains the back end of the project.
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 SupplyMe allows business owners to type a natural-language prompt like:
 
@@ -22,7 +22,7 @@ This is converted into a vector and semantically searched using **Google Gemini*
 
 ---
 
-## ✨ Features
+## Features
 - Searching manufacturers by company
 - Viewing descriptions and details on manufacturers
 - Contact information of manufacturers
@@ -36,7 +36,7 @@ To run the app locally, clone this repository
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer         | Technology           |
 |---------------|----------------------|
