@@ -1,0 +1,2089 @@
+[
+  {
+    "company": "Apple",
+    "import_yeti_url": "https://www.importyeti.com/company/apple"
+  },
+  {
+    "company": "Walmart",
+    "import_yeti_url": "https://www.importyeti.com/company/walmart"
+  },
+  {
+    "company": "Amazon",
+    "import_yeti_url": "https://www.importyeti.com/company/amazon"
+  },
+  {
+    "company": "Microsoft",
+    "import_yeti_url": "https://www.importyeti.com/company/microsoft"
+  },
+  {
+    "company": "Tesla",
+    "import_yeti_url": "https://www.importyeti.com/company/tesla"
+  },
+  {
+    "company": "Meta",
+    "import_yeti_url": "https://www.importyeti.com/company/meta"
+  },
+  {
+    "company": "Google",
+    "import_yeti_url": "https://www.importyeti.com/company/google"
+  },
+  {
+    "company": "Ford",
+    "import_yeti_url": "https://www.importyeti.com/company/ford"
+  },
+  {
+    "company": "General Motors",
+    "import_yeti_url": "https://www.importyeti.com/company/general-motors"
+  },
+  {
+    "company": "Target",
+    "import_yeti_url": "https://www.importyeti.com/company/target"
+  },
+  {
+    "company": "Home Depot",
+    "import_yeti_url": "https://www.importyeti.com/company/home-depot"
+  },
+  {
+    "company": "Costco",
+    "import_yeti_url": "https://www.importyeti.com/company/costco"
+  },
+  {
+    "company": "Nike",
+    "import_yeti_url": "https://www.importyeti.com/company/nike"
+  },
+  {
+    "company": "Adidas",
+    "import_yeti_url": "https://www.importyeti.com/company/adidas"
+  },
+  {
+    "company": "Under Armour",
+    "import_yeti_url": "https://www.importyeti.com/company/under-armour"
+  },
+  {
+    "company": "Best Buy",
+    "import_yeti_url": "https://www.importyeti.com/company/best-buy"
+  },
+  {
+    "company": "Dell",
+    "import_yeti_url": "https://www.importyeti.com/company/dell"
+  },
+  {
+    "company": "HP",
+    "import_yeti_url": "https://www.importyeti.com/company/hp"
+  },
+  {
+    "company": "Intel",
+    "import_yeti_url": "https://www.importyeti.com/company/intel"
+  },
+  {
+    "company": "AMD",
+    "import_yeti_url": "https://www.importyeti.com/company/amd"
+  },
+  {
+    "company": "NVIDIA",
+    "import_yeti_url": "https://www.importyeti.com/company/nvidia"
+  },
+  {
+    "company": "Qualcomm",
+    "import_yeti_url": "https://www.importyeti.com/company/qualcomm"
+  },
+  {
+    "company": "Cisco",
+    "import_yeti_url": "https://www.importyeti.com/company/cisco"
+  },
+  {
+    "company": "IBM",
+    "import_yeti_url": "https://www.importyeti.com/company/ibm"
+  },
+  {
+    "company": "Oracle",
+    "import_yeti_url": "https://www.importyeti.com/company/oracle"
+  },
+  {
+    "company": "Salesforce",
+    "import_yeti_url": "https://www.importyeti.com/company/salesforce"
+  },
+  {
+    "company": "Starbucks",
+    "import_yeti_url": "https://www.importyeti.com/company/starbucks"
+  },
+  {
+    "company": "McDonald's",
+    "import_yeti_url": "https://www.importyeti.com/company/mcdonalds"
+  },
+  {
+    "company": "Coca-Cola",
+    "import_yeti_url": "https://www.importyeti.com/company/coca-cola"
+  },
+  {
+    "company": "PepsiCo",
+    "import_yeti_url": "https://www.importyeti.com/company/pepsico"
+  },
+  {
+    "company": "Procter & Gamble",
+    "import_yeti_url": "https://www.importyeti.com/company/procter-gamble"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "import_yeti_url": "https://www.importyeti.com/company/johnson-johnson"
+  },
+  {
+    "company": "Pfizer",
+    "import_yeti_url": "https://www.importyeti.com/company/pfizer"
+  },
+  {
+    "company": "Merck",
+    "import_yeti_url": "https://www.importyeti.com/company/merck"
+  },
+  {
+    "company": "Abbott",
+    "import_yeti_url": "https://www.importyeti.com/company/abbott"
+  },
+  {
+    "company": "Bristol Myers Squibb",
+    "import_yeti_url": "https://www.importyeti.com/company/bristol-myers-squibb"
+  },
+  {
+    "company": "Eli Lilly",
+    "import_yeti_url": "https://www.importyeti.com/company/eli-lilly"
+  },
+  {
+    "company": "AbbVie",
+    "import_yeti_url": "https://www.importyeti.com/company/abbvie"
+  },
+  {
+    "company": "Gilead Sciences",
+    "import_yeti_url": "https://www.importyeti.com/company/gilead-sciences"
+  },
+  {
+    "company": "Amgen",
+    "import_yeti_url": "https://www.importyeti.com/company/amgen"
+  },
+  {
+    "company": "Biogen",
+    "import_yeti_url": "https://www.importyeti.com/company/biogen"
+  },
+  {
+    "company": "Moderna",
+    "import_yeti_url": "https://www.importyeti.com/company/moderna"
+  },
+  {
+    "company": "Regeneron",
+    "import_yeti_url": "https://www.importyeti.com/company/regeneron"
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "import_yeti_url": "https://www.importyeti.com/company/vertex-pharmaceuticals"
+  },
+  {
+    "company": "Macy's",
+    "import_yeti_url": "https://www.importyeti.com/company/macys"
+  },
+  {
+    "company": "Nordstrom",
+    "import_yeti_url": "https://www.importyeti.com/company/nordstrom"
+  },
+  {
+    "company": "Kohl's",
+    "import_yeti_url": "https://www.importyeti.com/company/kohls"
+  },
+  {
+    "company": "JCPenney",
+    "import_yeti_url": "https://www.importyeti.com/company/jcpenney"
+  },
+  {
+    "company": "Sears",
+    "import_yeti_url": "https://www.importyeti.com/company/sears"
+  },
+  {
+    "company": "TJ Maxx",
+    "import_yeti_url": "https://www.importyeti.com/company/tj-maxx"
+  },
+  {
+    "company": "Ross Dress for Less",
+    "import_yeti_url": "https://www.importyeti.com/company/ross-dress-for-less"
+  },
+  {
+    "company": "Burlington",
+    "import_yeti_url": "https://www.importyeti.com/company/burlington"
+  },
+  {
+    "company": "Gap",
+    "import_yeti_url": "https://www.importyeti.com/company/gap"
+  },
+  {
+    "company": "Old Navy",
+    "import_yeti_url": "https://www.importyeti.com/company/old-navy"
+  },
+  {
+    "company": "Banana Republic",
+    "import_yeti_url": "https://www.importyeti.com/company/banana-republic"
+  },
+  {
+    "company": "American Eagle",
+    "import_yeti_url": "https://www.importyeti.com/company/american-eagle"
+  },
+  {
+    "company": "Abercrombie & Fitch",
+    "import_yeti_url": "https://www.importyeti.com/company/abercrombie-fitch"
+  },
+  {
+    "company": "Hollister",
+    "import_yeti_url": "https://www.importyeti.com/company/hollister"
+  },
+  {
+    "company": "Urban Outfitters",
+    "import_yeti_url": "https://www.importyeti.com/company/urban-outfitters"
+  },
+  {
+    "company": "Forever 21",
+    "import_yeti_url": "https://www.importyeti.com/company/forever-21"
+  },
+  {
+    "company": "H&M",
+    "import_yeti_url": "https://www.importyeti.com/company/hm"
+  },
+  {
+    "company": "Zara",
+    "import_yeti_url": "https://www.importyeti.com/company/zara"
+  },
+  {
+    "company": "Uniqlo",
+    "import_yeti_url": "https://www.importyeti.com/company/uniqlo"
+  },
+  {
+    "company": "Victoria's Secret",
+    "import_yeti_url": "https://www.importyeti.com/company/victorias-secret"
+  },
+  {
+    "company": "Bath & Body Works",
+    "import_yeti_url": "https://www.importyeti.com/company/bath-body-works"
+  },
+  {
+    "company": "Levi Strauss",
+    "import_yeti_url": "https://www.importyeti.com/company/levi-strauss"
+  },
+  {
+    "company": "Ralph Lauren",
+    "import_yeti_url": "https://www.importyeti.com/company/ralph-lauren"
+  },
+  {
+    "company": "Tommy Hilfiger",
+    "import_yeti_url": "https://www.importyeti.com/company/tommy-hilfiger"
+  },
+  {
+    "company": "Calvin Klein",
+    "import_yeti_url": "https://www.importyeti.com/company/calvin-klein"
+  },
+  {
+    "company": "Guess",
+    "import_yeti_url": "https://www.importyeti.com/company/guess"
+  },
+  {
+    "company": "Michael Kors",
+    "import_yeti_url": "https://www.importyeti.com/company/michael-kors"
+  },
+  {
+    "company": "Coach",
+    "import_yeti_url": "https://www.importyeti.com/company/coach"
+  },
+  {
+    "company": "Kate Spade",
+    "import_yeti_url": "https://www.importyeti.com/company/kate-spade"
+  },
+  {
+    "company": "Tory Burch",
+    "import_yeti_url": "https://www.importyeti.com/company/tory-burch"
+  },
+  {
+    "company": "Tiffany & Co",
+    "import_yeti_url": "https://www.importyeti.com/company/tiffany-co"
+  },
+  {
+    "company": "Pandora",
+    "import_yeti_url": "https://www.importyeti.com/company/pandora"
+  },
+  {
+    "company": "Skechers",
+    "import_yeti_url": "https://www.importyeti.com/company/skechers"
+  },
+  {
+    "company": "New Balance",
+    "import_yeti_url": "https://www.importyeti.com/company/new-balance"
+  },
+  {
+    "company": "Converse",
+    "import_yeti_url": "https://www.importyeti.com/company/converse"
+  },
+  {
+    "company": "Vans",
+    "import_yeti_url": "https://www.importyeti.com/company/vans"
+  },
+  {
+    "company": "Reebok",
+    "import_yeti_url": "https://www.importyeti.com/company/reebok"
+  },
+  {
+    "company": "Puma",
+    "import_yeti_url": "https://www.importyeti.com/company/puma"
+  },
+  {
+    "company": "Crocs",
+    "import_yeti_url": "https://www.importyeti.com/company/crocs"
+  },
+  {
+    "company": "Timberland",
+    "import_yeti_url": "https://www.importyeti.com/company/timberland"
+  },
+  {
+    "company": "UGG",
+    "import_yeti_url": "https://www.importyeti.com/company/ugg"
+  },
+  {
+    "company": "Dr. Martens",
+    "import_yeti_url": "https://www.importyeti.com/company/dr-martens"
+  },
+  {
+    "company": "Birkenstock",
+    "import_yeti_url": "https://www.importyeti.com/company/birkenstock"
+  },
+  {
+    "company": "Foot Locker",
+    "import_yeti_url": "https://www.importyeti.com/company/foot-locker"
+  },
+  {
+    "company": "Finish Line",
+    "import_yeti_url": "https://www.importyeti.com/company/finish-line"
+  },
+  {
+    "company": "Dick's Sporting Goods",
+    "import_yeti_url": "https://www.importyeti.com/company/dicks-sporting-goods"
+  },
+  {
+    "company": "Sports Authority",
+    "import_yeti_url": "https://www.importyeti.com/company/sports-authority"
+  },
+  {
+    "company": "Academy Sports",
+    "import_yeti_url": "https://www.importyeti.com/company/academy-sports"
+  },
+  {
+    "company": "Big 5 Sporting Goods",
+    "import_yeti_url": "https://www.importyeti.com/company/big-5-sporting-goods"
+  },
+  {
+    "company": "REI",
+    "import_yeti_url": "https://www.importyeti.com/company/rei"
+  },
+  {
+    "company": "Patagonia",
+    "import_yeti_url": "https://www.importyeti.com/company/patagonia"
+  },
+  {
+    "company": "North Face",
+    "import_yeti_url": "https://www.importyeti.com/company/north-face"
+  },
+  {
+    "company": "Columbia",
+    "import_yeti_url": "https://www.importyeti.com/company/columbia"
+  },
+  {
+    "company": "Lululemon",
+    "import_yeti_url": "https://www.importyeti.com/company/lululemon"
+  },
+  {
+    "company": "Athleta",
+    "import_yeti_url": "https://www.importyeti.com/company/athleta"
+  },
+  {
+    "company": "Peloton",
+    "import_yeti_url": "https://www.importyeti.com/company/peloton"
+  },
+  {
+    "company": "NordicTrack",
+    "import_yeti_url": "https://www.importyeti.com/company/nordictrack"
+  },
+  {
+    "company": "Bowflex",
+    "import_yeti_url": "https://www.importyeti.com/company/bowflex"
+  },
+  {
+    "company": "Nautilus",
+    "import_yeti_url": "https://www.importyeti.com/company/nautilus"
+  },
+  {
+    "company": "Life Fitness",
+    "import_yeti_url": "https://www.importyeti.com/company/life-fitness"
+  },
+  {
+    "company": "Precor",
+    "import_yeti_url": "https://www.importyeti.com/company/precor"
+  },
+  {
+    "company": "Matrix Fitness",
+    "import_yeti_url": "https://www.importyeti.com/company/matrix-fitness"
+  },
+  {
+    "company": "Schwinn",
+    "import_yeti_url": "https://www.importyeti.com/company/schwinn"
+  },
+  {
+    "company": "Trek",
+    "import_yeti_url": "https://www.importyeti.com/company/trek"
+  },
+  {
+    "company": "Specialized",
+    "import_yeti_url": "https://www.importyeti.com/company/specialized"
+  },
+  {
+    "company": "Giant",
+    "import_yeti_url": "https://www.importyeti.com/company/giant"
+  },
+  {
+    "company": "Cannondale",
+    "import_yeti_url": "https://www.importyeti.com/company/cannondale"
+  },
+  {
+    "company": "Scott",
+    "import_yeti_url": "https://www.importyeti.com/company/scott"
+  },
+  {
+    "company": "Huffy",
+    "import_yeti_url": "https://www.importyeti.com/company/huffy"
+  },
+  {
+    "company": "Radio Flyer",
+    "import_yeti_url": "https://www.importyeti.com/company/radio-flyer"
+  },
+  {
+    "company": "Razor",
+    "import_yeti_url": "https://www.importyeti.com/company/razor"
+  },
+  {
+    "company": "Segway",
+    "import_yeti_url": "https://www.importyeti.com/company/segway"
+  },
+  {
+    "company": "Harley-Davidson",
+    "import_yeti_url": "https://www.importyeti.com/company/harley-davidson"
+  },
+  {
+    "company": "Indian Motorcycle",
+    "import_yeti_url": "https://www.importyeti.com/company/indian-motorcycle"
+  },
+  {
+    "company": "Polaris",
+    "import_yeti_url": "https://www.importyeti.com/company/polaris"
+  },
+  {
+    "company": "Can-Am",
+    "import_yeti_url": "https://www.importyeti.com/company/can-am"
+  },
+  {
+    "company": "Arctic Cat",
+    "import_yeti_url": "https://www.importyeti.com/company/arctic-cat"
+  },
+  {
+    "company": "Ski-Doo",
+    "import_yeti_url": "https://www.importyeti.com/company/ski-doo"
+  },
+  {
+    "company": "Sea-Doo",
+    "import_yeti_url": "https://www.importyeti.com/company/sea-doo"
+  },
+  {
+    "company": "Yamaha Motor",
+    "import_yeti_url": "https://www.importyeti.com/company/yamaha-motor"
+  },
+  {
+    "company": "Kawasaki Motors",
+    "import_yeti_url": "https://www.importyeti.com/company/kawasaki-motors"
+  },
+  {
+    "company": "Honda Motor America",
+    "import_yeti_url": "https://www.importyeti.com/company/honda-motor-america"
+  },
+  {
+    "company": "Suzuki Motor America",
+    "import_yeti_url": "https://www.importyeti.com/company/suzuki-motor-america"
+  },
+  {
+    "company": "BMW of North America",
+    "import_yeti_url": "https://www.importyeti.com/company/bmw-of-north-america"
+  },
+  {
+    "company": "Mercedes-Benz USA",
+    "import_yeti_url": "https://www.importyeti.com/company/mercedes-benz-usa"
+  },
+  {
+    "company": "Audi of America",
+    "import_yeti_url": "https://www.importyeti.com/company/audi-of-america"
+  },
+  {
+    "company": "Volkswagen of America",
+    "import_yeti_url": "https://www.importyeti.com/company/volkswagen-of-america"
+  },
+  {
+    "company": "Porsche Cars North America",
+    "import_yeti_url": "https://www.importyeti.com/company/porsche-cars-north-america"
+  },
+  {
+    "company": "Jaguar Land Rover North America",
+    "import_yeti_url": "https://www.importyeti.com/company/jaguar-land-rover-north-america"
+  },
+  {
+    "company": "Volvo Cars USA",
+    "import_yeti_url": "https://www.importyeti.com/company/volvo-cars-usa"
+  },
+  {
+    "company": "Subaru of America",
+    "import_yeti_url": "https://www.importyeti.com/company/subaru-of-america"
+  },
+  {
+    "company": "Mazda North American Operations",
+    "import_yeti_url": "https://www.importyeti.com/company/mazda-north-american-operations"
+  },
+  {
+    "company": "Mitsubishi Motors North America",
+    "import_yeti_url": "https://www.importyeti.com/company/mitsubishi-motors-north-america"
+  },
+  {
+    "company": "Acura",
+    "import_yeti_url": "https://www.importyeti.com/company/acura"
+  },
+  {
+    "company": "Infiniti USA",
+    "import_yeti_url": "https://www.importyeti.com/company/infiniti-usa"
+  },
+  {
+    "company": "Lexus",
+    "import_yeti_url": "https://www.importyeti.com/company/lexus"
+  },
+  {
+    "company": "Genesis Motors",
+    "import_yeti_url": "https://www.importyeti.com/company/genesis-motors"
+  },
+  {
+    "company": "Hyundai Motor America",
+    "import_yeti_url": "https://www.importyeti.com/company/hyundai-motor-america"
+  },
+  {
+    "company": "Kia Motors America",
+    "import_yeti_url": "https://www.importyeti.com/company/kia-motors-america"
+  },
+  {
+    "company": "Nissan North America",
+    "import_yeti_url": "https://www.importyeti.com/company/nissan-north-america"
+  },
+  {
+    "company": "Toyota Motor North America",
+    "import_yeti_url": "https://www.importyeti.com/company/toyota-motor-north-america"
+  },
+  {
+    "company": "Rivian",
+    "import_yeti_url": "https://www.importyeti.com/company/rivian"
+  },
+  {
+    "company": "Lucid Motors",
+    "import_yeti_url": "https://www.importyeti.com/company/lucid-motors"
+  },
+  {
+    "company": "Fisker",
+    "import_yeti_url": "https://www.importyeti.com/company/fisker"
+  },
+  {
+    "company": "Polestar",
+    "import_yeti_url": "https://www.importyeti.com/company/polestar"
+  },
+  {
+    "company": "Canoo",
+    "import_yeti_url": "https://www.importyeti.com/company/canoo"
+  },
+  {
+    "company": "Lordstown Motors",
+    "import_yeti_url": "https://www.importyeti.com/company/lordstown-motors"
+  },
+  {
+    "company": "Faraday Future",
+    "import_yeti_url": "https://www.importyeti.com/company/faraday-future"
+  },
+  {
+    "company": "VinFast",
+    "import_yeti_url": "https://www.importyeti.com/company/vinfast"
+  },
+  {
+    "company": "Stellantis North America",
+    "import_yeti_url": "https://www.importyeti.com/company/stellantis-north-america"
+  },
+  {
+    "company": "Chrysler",
+    "import_yeti_url": "https://www.importyeti.com/company/chrysler"
+  },
+  {
+    "company": "Dodge",
+    "import_yeti_url": "https://www.importyeti.com/company/dodge"
+  },
+  {
+    "company": "Jeep",
+    "import_yeti_url": "https://www.importyeti.com/company/jeep"
+  },
+  {
+    "company": "Ram Trucks",
+    "import_yeti_url": "https://www.importyeti.com/company/ram-trucks"
+  },
+  {
+    "company": "Cadillac",
+    "import_yeti_url": "https://www.importyeti.com/company/cadillac"
+  },
+  {
+    "company": "Chevrolet",
+    "import_yeti_url": "https://www.importyeti.com/company/chevrolet"
+  },
+  {
+    "company": "GMC",
+    "import_yeti_url": "https://www.importyeti.com/company/gmc"
+  },
+  {
+    "company": "Buick",
+    "import_yeti_url": "https://www.importyeti.com/company/buick"
+  },
+  {
+    "company": "Lincoln",
+    "import_yeti_url": "https://www.importyeti.com/company/lincoln"
+  },
+  {
+    "company": "AutoZone",
+    "import_yeti_url": "https://www.importyeti.com/company/autozone"
+  },
+  {
+    "company": "O'Reilly Auto Parts",
+    "import_yeti_url": "https://www.importyeti.com/company/oreilly-auto-parts"
+  },
+  {
+    "company": "Advance Auto Parts",
+    "import_yeti_url": "https://www.importyeti.com/company/advance-auto-parts"
+  },
+  {
+    "company": "NAPA Auto Parts",
+    "import_yeti_url": "https://www.importyeti.com/company/napa-auto-parts"
+  },
+  {
+    "company": "Pep Boys",
+    "import_yeti_url": "https://www.importyeti.com/company/pep-boys"
+  },
+  {
+    "company": "Valvoline",
+    "import_yeti_url": "https://www.importyeti.com/company/valvoline"
+  },
+  {
+    "company": "Jiffy Lube",
+    "import_yeti_url": "https://www.importyeti.com/company/jiffy-lube"
+  },
+  {
+    "company": "Midas",
+    "import_yeti_url": "https://www.importyeti.com/company/midas"
+  },
+  {
+    "company": "Meineke",
+    "import_yeti_url": "https://www.importyeti.com/company/meineke"
+  },
+  {
+    "company": "Firestone",
+    "import_yeti_url": "https://www.importyeti.com/company/firestone"
+  },
+  {
+    "company": "Goodyear",
+    "import_yeti_url": "https://www.importyeti.com/company/goodyear"
+  },
+  {
+    "company": "Michelin North America",
+    "import_yeti_url": "https://www.importyeti.com/company/michelin-north-america"
+  },
+  {
+    "company": "Bridgestone Americas",
+    "import_yeti_url": "https://www.importyeti.com/company/bridgestone-americas"
+  },
+  {
+    "company": "Continental Tire Americas",
+    "import_yeti_url": "https://www.importyeti.com/company/continental-tire-americas"
+  },
+  {
+    "company": "Pirelli North America",
+    "import_yeti_url": "https://www.importyeti.com/company/pirelli-north-america"
+  },
+  {
+    "company": "Yokohama Tire",
+    "import_yeti_url": "https://www.importyeti.com/company/yokohama-tire"
+  },
+  {
+    "company": "Hankook Tire America",
+    "import_yeti_url": "https://www.importyeti.com/company/hankook-tire-america"
+  },
+  {
+    "company": "Kumho Tire USA",
+    "import_yeti_url": "https://www.importyeti.com/company/kumho-tire-usa"
+  },
+  {
+    "company": "Toyo Tire USA",
+    "import_yeti_url": "https://www.importyeti.com/company/toyo-tire-usa"
+  },
+  {
+    "company": "Falken Tire",
+    "import_yeti_url": "https://www.importyeti.com/company/falken-tire"
+  },
+  {
+    "company": "BFGoodrich",
+    "import_yeti_url": "https://www.importyeti.com/company/bfgoodrich"
+  },
+  {
+    "company": "Uniroyal",
+    "import_yeti_url": "https://www.importyeti.com/company/uniroyal"
+  },
+  {
+    "company": "General Tire",
+    "import_yeti_url": "https://www.importyeti.com/company/general-tire"
+  },
+  {
+    "company": "Cooper Tire",
+    "import_yeti_url": "https://www.importyeti.com/company/cooper-tire"
+  },
+  {
+    "company": "Nexen Tire America",
+    "import_yeti_url": "https://www.importyeti.com/company/nexen-tire-america"
+  },
+  {
+    "company": "Nitto Tire",
+    "import_yeti_url": "https://www.importyeti.com/company/nitto-tire"
+  },
+  {
+    "company": "Federal Tire",
+    "import_yeti_url": "https://www.importyeti.com/company/federal-tire"
+  },
+  {
+    "company": "Sumitomo Tire",
+    "import_yeti_url": "https://www.importyeti.com/company/sumitomo-tire"
+  },
+  {
+    "company": "Dunlop Tire",
+    "import_yeti_url": "https://www.importyeti.com/company/dunlop-tire"
+  },
+  {
+    "company": "Lowe's",
+    "import_yeti_url": "https://www.importyeti.com/company/lowes"
+  },
+  {
+    "company": "Menards",
+    "import_yeti_url": "https://www.importyeti.com/company/menards"
+  },
+  {
+    "company": "Ace Hardware",
+    "import_yeti_url": "https://www.importyeti.com/company/ace-hardware"
+  },
+  {
+    "company": "True Value",
+    "import_yeti_url": "https://www.importyeti.com/company/true-value"
+  },
+  {
+    "company": "Harbor Freight Tools",
+    "import_yeti_url": "https://www.importyeti.com/company/harbor-freight-tools"
+  },
+  {
+    "company": "Northern Tool",
+    "import_yeti_url": "https://www.importyeti.com/company/northern-tool"
+  },
+  {
+    "company": "Tractor Supply",
+    "import_yeti_url": "https://www.importyeti.com/company/tractor-supply"
+  },
+  {
+    "company": "Rural King",
+    "import_yeti_url": "https://www.importyeti.com/company/rural-king"
+  },
+  {
+    "company": "Fleet Farm",
+    "import_yeti_url": "https://www.importyeti.com/company/fleet-farm"
+  },
+  {
+    "company": "Atwood's",
+    "import_yeti_url": "https://www.importyeti.com/company/atwoods"
+  },
+  {
+    "company": "Blain's Farm & Fleet",
+    "import_yeti_url": "https://www.importyeti.com/company/blains-farm-fleet"
+  },
+  {
+    "company": "Bomgaars",
+    "import_yeti_url": "https://www.importyeti.com/company/bomgaars"
+  },
+  {
+    "company": "Orscheln Farm & Home",
+    "import_yeti_url": "https://www.importyeti.com/company/orscheln-farm-home"
+  },
+  {
+    "company": "Southern States",
+    "import_yeti_url": "https://www.importyeti.com/company/southern-states"
+  },
+  {
+    "company": "Cal Ranch",
+    "import_yeti_url": "https://www.importyeti.com/company/cal-ranch"
+  },
+  {
+    "company": "Farm & Home",
+    "import_yeti_url": "https://www.importyeti.com/company/farm-home"
+  },
+  {
+    "company": "Gander Outdoors",
+    "import_yeti_url": "https://www.importyeti.com/company/gander-outdoors"
+  },
+  {
+    "company": "Sportsman's Warehouse",
+    "import_yeti_url": "https://www.importyeti.com/company/sportsmans-warehouse"
+  },
+  {
+    "company": "Bass Pro Shops",
+    "import_yeti_url": "https://www.importyeti.com/company/bass-pro-shops"
+  },
+  {
+    "company": "Cabela's",
+    "import_yeti_url": "https://www.importyeti.com/company/cabelas"
+  },
+  {
+    "company": "Scheels",
+    "import_yeti_url": "https://www.importyeti.com/company/scheels"
+  },
+  {
+    "company": "Big 5",
+    "import_yeti_url": "https://www.importyeti.com/company/big-5"
+  },
+  {
+    "company": "Hibbett Sports",
+    "import_yeti_url": "https://www.importyeti.com/company/hibbett-sports"
+  },
+  {
+    "company": "Modell's",
+    "import_yeti_url": "https://www.importyeti.com/company/modells"
+  },
+  {
+    "company": "Eastern Mountain Sports",
+    "import_yeti_url": "https://www.importyeti.com/company/eastern-mountain-sports"
+  },
+  {
+    "company": "Moosejaw",
+    "import_yeti_url": "https://www.importyeti.com/company/moosejaw"
+  },
+  {
+    "company": "Backcountry",
+    "import_yeti_url": "https://www.importyeti.com/company/backcountry"
+  },
+  {
+    "company": "Steep & Cheap",
+    "import_yeti_url": "https://www.importyeti.com/company/steep-cheap"
+  },
+  {
+    "company": "Campmor",
+    "import_yeti_url": "https://www.importyeti.com/company/campmor"
+  },
+  {
+    "company": "L.L.Bean",
+    "import_yeti_url": "https://www.importyeti.com/company/llbean"
+  },
+  {
+    "company": "Eddie Bauer",
+    "import_yeti_url": "https://www.importyeti.com/company/eddie-bauer"
+  },
+  {
+    "company": "Lands' End",
+    "import_yeti_url": "https://www.importyeti.com/company/lands-end"
+  },
+  {
+    "company": "Orvis",
+    "import_yeti_url": "https://www.importyeti.com/company/orvis"
+  },
+  {
+    "company": "Duluth Trading",
+    "import_yeti_url": "https://www.importyeti.com/company/duluth-trading"
+  },
+  {
+    "company": "Carhartt",
+    "import_yeti_url": "https://www.importyeti.com/company/carhartt"
+  },
+  {
+    "company": "Dickies",
+    "import_yeti_url": "https://www.importyeti.com/company/dickies"
+  },
+  {
+    "company": "Wrangler",
+    "import_yeti_url": "https://www.importyeti.com/company/wrangler"
+  },
+  {
+    "company": "Lee",
+    "import_yeti_url": "https://www.importyeti.com/company/lee"
+  },
+  {
+    "company": "True Religion",
+    "import_yeti_url": "https://www.importyeti.com/company/true-religion"
+  },
+  {
+    "company": "7 For All Mankind",
+    "import_yeti_url": "https://www.importyeti.com/company/7-for-all-mankind"
+  },
+  {
+    "company": "Citizens of Humanity",
+    "import_yeti_url": "https://www.importyeti.com/company/citizens-of-humanity"
+  },
+  {
+    "company": "AG Jeans",
+    "import_yeti_url": "https://www.importyeti.com/company/ag-jeans"
+  },
+  {
+    "company": "Joe's Jeans",
+    "import_yeti_url": "https://www.importyeti.com/company/joes-jeans"
+  },
+  {
+    "company": "Lucky Brand",
+    "import_yeti_url": "https://www.importyeti.com/company/lucky-brand"
+  },
+  {
+    "company": "Paige",
+    "import_yeti_url": "https://www.importyeti.com/company/paige"
+  },
+  {
+    "company": "Frame",
+    "import_yeti_url": "https://www.importyeti.com/company/frame"
+  },
+  {
+    "company": "J Brand",
+    "import_yeti_url": "https://www.importyeti.com/company/j-brand"
+  },
+  {
+    "company": "Rock Revival",
+    "import_yeti_url": "https://www.importyeti.com/company/rock-revival"
+  },
+  {
+    "company": "Miss Me",
+    "import_yeti_url": "https://www.importyeti.com/company/miss-me"
+  },
+  {
+    "company": "Buckle",
+    "import_yeti_url": "https://www.importyeti.com/company/buckle"
+  },
+  {
+    "company": "American Apparel",
+    "import_yeti_url": "https://www.importyeti.com/company/american-apparel"
+  },
+  {
+    "company": "Fruit of the Loom",
+    "import_yeti_url": "https://www.importyeti.com/company/fruit-of-the-loom"
+  },
+  {
+    "company": "Hanes",
+    "import_yeti_url": "https://www.importyeti.com/company/hanes"
+  },
+  {
+    "company": "Gildan",
+    "import_yeti_url": "https://www.importyeti.com/company/gildan"
+  },
+  {
+    "company": "Jockey",
+    "import_yeti_url": "https://www.importyeti.com/company/jockey"
+  },
+  {
+    "company": "Calvin Klein Underwear",
+    "import_yeti_url": "https://www.importyeti.com/company/calvin-klein-underwear"
+  },
+  {
+    "company": "Tommy John",
+    "import_yeti_url": "https://www.importyeti.com/company/tommy-john"
+  },
+  {
+    "company": "MeUndies",
+    "import_yeti_url": "https://www.importyeti.com/company/meundies"
+  },
+  {
+    "company": "Bombas",
+    "import_yeti_url": "https://www.importyeti.com/company/bombas"
+  },
+  {
+    "company": "Stance",
+    "import_yeti_url": "https://www.importyeti.com/company/stance"
+  },
+  {
+    "company": "Smartwool",
+    "import_yeti_url": "https://www.importyeti.com/company/smartwool"
+  },
+  {
+    "company": "Darn Tough",
+    "import_yeti_url": "https://www.importyeti.com/company/darn-tough"
+  },
+  {
+    "company": "Thorlos",
+    "import_yeti_url": "https://www.importyeti.com/company/thorlos"
+  },
+  {
+    "company": "Balega",
+    "import_yeti_url": "https://www.importyeti.com/company/balega"
+  },
+  {
+    "company": "Feetures",
+    "import_yeti_url": "https://www.importyeti.com/company/feetures"
+  },
+  {
+    "company": "Wigwam",
+    "import_yeti_url": "https://www.importyeti.com/company/wigwam"
+  },
+  {
+    "company": "Farm to Feet",
+    "import_yeti_url": "https://www.importyeti.com/company/farm-to-feet"
+  },
+  {
+    "company": "Point6",
+    "import_yeti_url": "https://www.importyeti.com/company/point6"
+  },
+  {
+    "company": "Icebreaker",
+    "import_yeti_url": "https://www.importyeti.com/company/icebreaker"
+  },
+  {
+    "company": "Minus33",
+    "import_yeti_url": "https://www.importyeti.com/company/minus33"
+  },
+  {
+    "company": "Wool & Prince",
+    "import_yeti_url": "https://www.importyeti.com/company/wool-prince"
+  },
+  {
+    "company": "Unbound Merino",
+    "import_yeti_url": "https://www.importyeti.com/company/unbound-merino"
+  },
+  {
+    "company": "Western Rise",
+    "import_yeti_url": "https://www.importyeti.com/company/western-rise"
+  },
+  {
+    "company": "Outlier",
+    "import_yeti_url": "https://www.importyeti.com/company/outlier"
+  },
+  {
+    "company": "Ministry of Supply",
+    "import_yeti_url": "https://www.importyeti.com/company/ministry-of-supply"
+  },
+  {
+    "company": "Seagale",
+    "import_yeti_url": "https://www.importyeti.com/company/seagale"
+  },
+  {
+    "company": "Rhone",
+    "import_yeti_url": "https://www.importyeti.com/company/rhone"
+  },
+  {
+    "company": "Outdoor Research",
+    "import_yeti_url": "https://www.importyeti.com/company/outdoor-research"
+  },
+  {
+    "company": "Arc'teryx",
+    "import_yeti_url": "https://www.importyeti.com/company/arcteryx"
+  },
+  {
+    "company": "Mammut",
+    "import_yeti_url": "https://www.importyeti.com/company/mammut"
+  },
+  {
+    "company": "Mountain Hardwear",
+    "import_yeti_url": "https://www.importyeti.com/company/mountain-hardwear"
+  },
+  {
+    "company": "Marmot",
+    "import_yeti_url": "https://www.importyeti.com/company/marmot"
+  },
+  {
+    "company": "Black Diamond",
+    "import_yeti_url": "https://www.importyeti.com/company/black-diamond"
+  },
+  {
+    "company": "Petzl",
+    "import_yeti_url": "https://www.importyeti.com/company/petzl"
+  },
+  {
+    "company": "MSR",
+    "import_yeti_url": "https://www.importyeti.com/company/msr"
+  },
+  {
+    "company": "Therm-a-Rest",
+    "import_yeti_url": "https://www.importyeti.com/company/therm-a-rest"
+  },
+  {
+    "company": "Big Agnes",
+    "import_yeti_url": "https://www.importyeti.com/company/big-agnes"
+  },
+  {
+    "company": "Nemo Equipment",
+    "import_yeti_url": "https://www.importyeti.com/company/nemo-equipment"
+  },
+  {
+    "company": "Sea to Summit",
+    "import_yeti_url": "https://www.importyeti.com/company/sea-to-summit"
+  },
+  {
+    "company": "Exped",
+    "import_yeti_url": "https://www.importyeti.com/company/exped"
+  },
+  {
+    "company": "Klymit",
+    "import_yeti_url": "https://www.importyeti.com/company/klymit"
+  },
+  {
+    "company": "REI Co-op",
+    "import_yeti_url": "https://www.importyeti.com/company/rei-co-op"
+  },
+  {
+    "company": "Kelty",
+    "import_yeti_url": "https://www.importyeti.com/company/kelty"
+  },
+  {
+    "company": "Osprey",
+    "import_yeti_url": "https://www.importyeti.com/company/osprey"
+  },
+  {
+    "company": "Gregory",
+    "import_yeti_url": "https://www.importyeti.com/company/gregory"
+  },
+  {
+    "company": "Deuter",
+    "import_yeti_url": "https://www.importyeti.com/company/deuter"
+  },
+  {
+    "company": "Mystery Ranch",
+    "import_yeti_url": "https://www.importyeti.com/company/mystery-ranch"
+  },
+  {
+    "company": "Granite Gear",
+    "import_yeti_url": "https://www.importyeti.com/company/granite-gear"
+  },
+  {
+    "company": "Hyperlite Mountain Gear",
+    "import_yeti_url": "https://www.importyeti.com/company/hyperlite-mountain-gear"
+  },
+  {
+    "company": "Zpacks",
+    "import_yeti_url": "https://www.importyeti.com/company/zpacks"
+  },
+  {
+    "company": "Gossamer Gear",
+    "import_yeti_url": "https://www.importyeti.com/company/gossamer-gear"
+  },
+  {
+    "company": "ULA Equipment",
+    "import_yeti_url": "https://www.importyeti.com/company/ula-equipment"
+  },
+  {
+    "company": "Six Moon Designs",
+    "import_yeti_url": "https://www.importyeti.com/company/six-moon-designs"
+  },
+  {
+    "company": "Tarptent",
+    "import_yeti_url": "https://www.importyeti.com/company/tarptent"
+  },
+  {
+    "company": "Hilleberg",
+    "import_yeti_url": "https://www.importyeti.com/company/hilleberg"
+  },
+  {
+    "company": "Mountain Safety Research",
+    "import_yeti_url": "https://www.importyeti.com/company/mountain-safety-research"
+  },
+  {
+    "company": "Jetboil",
+    "import_yeti_url": "https://www.importyeti.com/company/jetboil"
+  },
+  {
+    "company": "Primus",
+    "import_yeti_url": "https://www.importyeti.com/company/primus"
+  },
+  {
+    "company": "Optimus",
+    "import_yeti_url": "https://www.importyeti.com/company/optimus"
+  },
+  {
+    "company": "Coleman",
+    "import_yeti_url": "https://www.importyeti.com/company/coleman"
+  },
+  {
+    "company": "Eureka",
+    "import_yeti_url": "https://www.importyeti.com/company/eureka"
+  },
+  {
+    "company": "Core Equipment",
+    "import_yeti_url": "https://www.importyeti.com/company/core-equipment"
+  },
+  {
+    "company": "ALPS Mountaineering",
+    "import_yeti_url": "https://www.importyeti.com/company/alps-mountaineering"
+  },
+  {
+    "company": "Kelty Cosmic",
+    "import_yeti_url": "https://www.importyeti.com/company/kelty-cosmic"
+  },
+  {
+    "company": "Teton Sports",
+    "import_yeti_url": "https://www.importyeti.com/company/teton-sports"
+  },
+  {
+    "company": "Wenzel",
+    "import_yeti_url": "https://www.importyeti.com/company/wenzel"
+  },
+  {
+    "company": "Kodiak Canvas",
+    "import_yeti_url": "https://www.importyeti.com/company/kodiak-canvas"
+  },
+  {
+    "company": "Springbar",
+    "import_yeti_url": "https://www.importyeti.com/company/springbar"
+  },
+  {
+    "company": "Cabela's Alaskan Guide",
+    "import_yeti_url": "https://www.importyeti.com/company/cabelas-alaskan-guide"
+  },
+  {
+    "company": "Bass Pro Shops Redhead",
+    "import_yeti_url": "https://www.importyeti.com/company/bass-pro-shops-redhead"
+  },
+  {
+    "company": "White River Fly Shop",
+    "import_yeti_url": "https://www.importyeti.com/company/white-river-fly-shop"
+  },
+  {
+    "company": "Natural Reflections",
+    "import_yeti_url": "https://www.importyeti.com/company/natural-reflections"
+  },
+  {
+    "company": "Game Winner",
+    "import_yeti_url": "https://www.importyeti.com/company/game-winner"
+  },
+  {
+    "company": "Ascend",
+    "import_yeti_url": "https://www.importyeti.com/company/ascend"
+  },
+  {
+    "company": "World Wide Sportsman",
+    "import_yeti_url": "https://www.importyeti.com/company/world-wide-sportsman"
+  },
+  {
+    "company": "Johnny Morris",
+    "import_yeti_url": "https://www.importyeti.com/company/johnny-morris"
+  },
+  {
+    "company": "Tracker",
+    "import_yeti_url": "https://www.importyeti.com/company/tracker"
+  },
+  {
+    "company": "Nitro",
+    "import_yeti_url": "https://www.importyeti.com/company/nitro"
+  },
+  {
+    "company": "Sun Tracker",
+    "import_yeti_url": "https://www.importyeti.com/company/sun-tracker"
+  },
+  {
+    "company": "Tahoe",
+    "import_yeti_url": "https://www.importyeti.com/company/tahoe"
+  },
+  {
+    "company": "Lowe Boats",
+    "import_yeti_url": "https://www.importyeti.com/company/lowe-boats"
+  },
+  {
+    "company": "Alumacraft",
+    "import_yeti_url": "https://www.importyeti.com/company/alumacraft"
+  },
+  {
+    "company": "Crestliner",
+    "import_yeti_url": "https://www.importyeti.com/company/crestliner"
+  },
+  {
+    "company": "Ranger Boats",
+    "import_yeti_url": "https://www.importyeti.com/company/ranger-boats"
+  },
+  {
+    "company": "Stratos",
+    "import_yeti_url": "https://www.importyeti.com/company/stratos"
+  },
+  {
+    "company": "Champion Boats",
+    "import_yeti_url": "https://www.importyeti.com/company/champion-boats"
+  },
+  {
+    "company": "Triton",
+    "import_yeti_url": "https://www.importyeti.com/company/triton"
+  },
+  {
+    "company": "Skeeter",
+    "import_yeti_url": "https://www.importyeti.com/company/skeeter"
+  },
+  {
+    "company": "Bass Cat",
+    "import_yeti_url": "https://www.importyeti.com/company/bass-cat"
+  },
+  {
+    "company": "Phoenix Bass Boats",
+    "import_yeti_url": "https://www.importyeti.com/company/phoenix-bass-boats"
+  },
+  {
+    "company": "Xpress Boats",
+    "import_yeti_url": "https://www.importyeti.com/company/xpress-boats"
+  },
+  {
+    "company": "War Eagle",
+    "import_yeti_url": "https://www.importyeti.com/company/war-eagle"
+  },
+  {
+    "company": "SeaArk",
+    "import_yeti_url": "https://www.importyeti.com/company/seaark"
+  },
+  {
+    "company": "Tracker Pro Guide",
+    "import_yeti_url": "https://www.importyeti.com/company/tracker-pro-guide"
+  },
+  {
+    "company": "Grizzly",
+    "import_yeti_url": "https://www.importyeti.com/company/grizzly"
+  },
+  {
+    "company": "Fisher",
+    "import_yeti_url": "https://www.importyeti.com/company/fisher"
+  },
+  {
+    "company": "Smoker Craft",
+    "import_yeti_url": "https://www.importyeti.com/company/smoker-craft"
+  },
+  {
+    "company": "Starcraft",
+    "import_yeti_url": "https://www.importyeti.com/company/starcraft"
+  },
+  {
+    "company": "Sylvan",
+    "import_yeti_url": "https://www.importyeti.com/company/sylvan"
+  },
+  {
+    "company": "Misty Harbor",
+    "import_yeti_url": "https://www.importyeti.com/company/misty-harbor"
+  },
+  {
+    "company": "Aqua Patio",
+    "import_yeti_url": "https://www.importyeti.com/company/aqua-patio"
+  },
+  {
+    "company": "Playcraft",
+    "import_yeti_url": "https://www.importyeti.com/company/playcraft"
+  },
+  {
+    "company": "Premier",
+    "import_yeti_url": "https://www.importyeti.com/company/premier"
+  },
+  {
+    "company": "Sweetwater",
+    "import_yeti_url": "https://www.importyeti.com/company/sweetwater"
+  },
+  {
+    "company": "Bennington",
+    "import_yeti_url": "https://www.importyeti.com/company/bennington"
+  },
+  {
+    "company": "Harris",
+    "import_yeti_url": "https://www.importyeti.com/company/harris"
+  },
+  {
+    "company": "Manitou",
+    "import_yeti_url": "https://www.importyeti.com/company/manitou"
+  },
+  {
+    "company": "Crest",
+    "import_yeti_url": "https://www.importyeti.com/company/crest"
+  },
+  {
+    "company": "JC TriToon",
+    "import_yeti_url": "https://www.importyeti.com/company/jc-tritoon"
+  },
+  {
+    "company": "Regency",
+    "import_yeti_url": "https://www.importyeti.com/company/regency"
+  },
+  {
+    "company": "South Bay",
+    "import_yeti_url": "https://www.importyeti.com/company/south-bay"
+  },
+  {
+    "company": "Avalon",
+    "import_yeti_url": "https://www.importyeti.com/company/avalon"
+  },
+  {
+    "company": "Forest River",
+    "import_yeti_url": "https://www.importyeti.com/company/forest-river"
+  },
+  {
+    "company": "Thor Industries",
+    "import_yeti_url": "https://www.importyeti.com/company/thor-industries"
+  },
+  {
+    "company": "Winnebago",
+    "import_yeti_url": "https://www.importyeti.com/company/winnebago"
+  },
+  {
+    "company": "Airstream",
+    "import_yeti_url": "https://www.importyeti.com/company/airstream"
+  },
+  {
+    "company": "Jayco",
+    "import_yeti_url": "https://www.importyeti.com/company/jayco"
+  },
+  {
+    "company": "Keystone RV",
+    "import_yeti_url": "https://www.importyeti.com/company/keystone-rv"
+  },
+  {
+    "company": "Dutchmen",
+    "import_yeti_url": "https://www.importyeti.com/company/dutchmen"
+  },
+  {
+    "company": "Heartland RV",
+    "import_yeti_url": "https://www.importyeti.com/company/heartland-rv"
+  },
+  {
+    "company": "Grand Design",
+    "import_yeti_url": "https://www.importyeti.com/company/grand-design"
+  },
+  {
+    "company": "Coachmen",
+    "import_yeti_url": "https://www.importyeti.com/company/coachmen"
+  },
+  {
+    "company": "Fleetwood RV",
+    "import_yeti_url": "https://www.importyeti.com/company/fleetwood-rv"
+  },
+  {
+    "company": "Newmar",
+    "import_yeti_url": "https://www.importyeti.com/company/newmar"
+  },
+  {
+    "company": "Holiday Rambler",
+    "import_yeti_url": "https://www.importyeti.com/company/holiday-rambler"
+  },
+  {
+    "company": "Monaco",
+    "import_yeti_url": "https://www.importyeti.com/company/monaco"
+  },
+  {
+    "company": "Itasca",
+    "import_yeti_url": "https://www.importyeti.com/company/itasca"
+  },
+  {
+    "company": "Tiffin",
+    "import_yeti_url": "https://www.importyeti.com/company/tiffin"
+  },
+  {
+    "company": "Entegra Coach",
+    "import_yeti_url": "https://www.importyeti.com/company/entegra-coach"
+  },
+  {
+    "company": "Spartan Motors",
+    "import_yeti_url": "https://www.importyeti.com/company/spartan-motors"
+  },
+  {
+    "company": "REV Group",
+    "import_yeti_url": "https://www.importyeti.com/company/rev-group"
+  },
+  {
+    "company": "Lance Camper",
+    "import_yeti_url": "https://www.importyeti.com/company/lance-camper"
+  },
+  {
+    "company": "Northwood Manufacturing",
+    "import_yeti_url": "https://www.importyeti.com/company/northwood-manufacturing"
+  },
+  {
+    "company": "Palomino RV",
+    "import_yeti_url": "https://www.importyeti.com/company/palomino-rv"
+  },
+  {
+    "company": "Sunset Park RV",
+    "import_yeti_url": "https://www.importyeti.com/company/sunset-park-rv"
+  },
+  {
+    "company": "Gulf Stream Coach",
+    "import_yeti_url": "https://www.importyeti.com/company/gulf-stream-coach"
+  },
+  {
+    "company": "Prime Time Manufacturing",
+    "import_yeti_url": "https://www.importyeti.com/company/prime-time-manufacturing"
+  },
+  {
+    "company": "CrossRoads RV",
+    "import_yeti_url": "https://www.importyeti.com/company/crossroads-rv"
+  },
+  {
+    "company": "Highland Ridge RV",
+    "import_yeti_url": "https://www.importyeti.com/company/highland-ridge-rv"
+  },
+  {
+    "company": "KZ RV",
+    "import_yeti_url": "https://www.importyeti.com/company/kz-rv"
+  },
+  {
+    "company": "Venture RV",
+    "import_yeti_url": "https://www.importyeti.com/company/venture-rv"
+  },
+  {
+    "company": "Outdoors RV",
+    "import_yeti_url": "https://www.importyeti.com/company/outdoors-rv"
+  },
+  {
+    "company": "InTech RV",
+    "import_yeti_url": "https://www.importyeti.com/company/intech-rv"
+  },
+  {
+    "company": "Little Guy Trailers",
+    "import_yeti_url": "https://www.importyeti.com/company/little-guy-trailers"
+  },
+  {
+    "company": "Taxa Outdoors",
+    "import_yeti_url": "https://www.importyeti.com/company/taxa-outdoors"
+  },
+  {
+    "company": "Escapod",
+    "import_yeti_url": "https://www.importyeti.com/company/escapod"
+  },
+  {
+    "company": "Opus Campers",
+    "import_yeti_url": "https://www.importyeti.com/company/opus-campers"
+  },
+  {
+    "company": "Track Trailer",
+    "import_yeti_url": "https://www.importyeti.com/company/track-trailer"
+  },
+  {
+    "company": "Conqueror UEV",
+    "import_yeti_url": "https://www.importyeti.com/company/conqueror-uev"
+  },
+  {
+    "company": "MOBI",
+    "import_yeti_url": "https://www.importyeti.com/company/mobi"
+  },
+  {
+    "company": "Sherpa",
+    "import_yeti_url": "https://www.importyeti.com/company/sherpa"
+  },
+  {
+    "company": "Black Series",
+    "import_yeti_url": "https://www.importyeti.com/company/black-series"
+  },
+  {
+    "company": "Bruder EXP",
+    "import_yeti_url": "https://www.importyeti.com/company/bruder-exp"
+  },
+  {
+    "company": "Patriot Campers",
+    "import_yeti_url": "https://www.importyeti.com/company/patriot-campers"
+  },
+  {
+    "company": "XVenture",
+    "import_yeti_url": "https://www.importyeti.com/company/xventure"
+  },
+  {
+    "company": "Turtleback Trailers",
+    "import_yeti_url": "https://www.importyeti.com/company/turtleback-trailers"
+  },
+  {
+    "company": "Schutt Sports",
+    "import_yeti_url": "https://www.importyeti.com/company/schutt-sports"
+  },
+  {
+    "company": "Riddell",
+    "import_yeti_url": "https://www.importyeti.com/company/riddell"
+  },
+  {
+    "company": "Xenith",
+    "import_yeti_url": "https://www.importyeti.com/company/xenith"
+  },
+  {
+    "company": "VICIS",
+    "import_yeti_url": "https://www.importyeti.com/company/vicis"
+  },
+  {
+    "company": "Rawlings",
+    "import_yeti_url": "https://www.importyeti.com/company/rawlings"
+  },
+  {
+    "company": "Wilson",
+    "import_yeti_url": "https://www.importyeti.com/company/wilson"
+  },
+  {
+    "company": "Louisville Slugger",
+    "import_yeti_url": "https://www.importyeti.com/company/louisville-slugger"
+  },
+  {
+    "company": "Easton",
+    "import_yeti_url": "https://www.importyeti.com/company/easton"
+  },
+  {
+    "company": "DeMarini",
+    "import_yeti_url": "https://www.importyeti.com/company/demarini"
+  },
+  {
+    "company": "Marucci",
+    "import_yeti_url": "https://www.importyeti.com/company/marucci"
+  },
+  {
+    "company": "Axe Bat",
+    "import_yeti_url": "https://www.importyeti.com/company/axe-bat"
+  },
+  {
+    "company": "Old Hickory",
+    "import_yeti_url": "https://www.importyeti.com/company/old-hickory"
+  },
+  {
+    "company": "Sam Bat",
+    "import_yeti_url": "https://www.importyeti.com/company/sam-bat"
+  },
+  {
+    "company": "MaxBat",
+    "import_yeti_url": "https://www.importyeti.com/company/maxbat"
+  },
+  {
+    "company": "Chandler Bats",
+    "import_yeti_url": "https://www.importyeti.com/company/chandler-bats"
+  },
+  {
+    "company": "Tucci Lumber",
+    "import_yeti_url": "https://www.importyeti.com/company/tucci-lumber"
+  },
+  {
+    "company": "Phoenix Bats",
+    "import_yeti_url": "https://www.importyeti.com/company/phoenix-bats"
+  },
+  {
+    "company": "Carolina Clubs",
+    "import_yeti_url": "https://www.importyeti.com/company/carolina-clubs"
+  },
+  {
+    "company": "Buck Knives",
+    "import_yeti_url": "https://www.importyeti.com/company/buck-knives"
+  },
+  {
+    "company": "Gerber",
+    "import_yeti_url": "https://www.importyeti.com/company/gerber"
+  },
+  {
+    "company": "Benchmade",
+    "import_yeti_url": "https://www.importyeti.com/company/benchmade"
+  },
+  {
+    "company": "Spyderco",
+    "import_yeti_url": "https://www.importyeti.com/company/spyderco"
+  },
+  {
+    "company": "CRKT",
+    "import_yeti_url": "https://www.importyeti.com/company/crkt"
+  },
+  {
+    "company": "Kershaw",
+    "import_yeti_url": "https://www.importyeti.com/company/kershaw"
+  },
+  {
+    "company": "Zero Tolerance",
+    "import_yeti_url": "https://www.importyeti.com/company/zero-tolerance"
+  },
+  {
+    "company": "Cold Steel",
+    "import_yeti_url": "https://www.importyeti.com/company/cold-steel"
+  },
+  {
+    "company": "SOG",
+    "import_yeti_url": "https://www.importyeti.com/company/sog"
+  },
+  {
+    "company": "ESEE",
+    "import_yeti_url": "https://www.importyeti.com/company/esee"
+  },
+  {
+    "company": "Tops Knives",
+    "import_yeti_url": "https://www.importyeti.com/company/tops-knives"
+  },
+  {
+    "company": "Ka-Bar",
+    "import_yeti_url": "https://www.importyeti.com/company/ka-bar"
+  },
+  {
+    "company": "Ontario Knife",
+    "import_yeti_url": "https://www.importyeti.com/company/ontario-knife"
+  },
+  {
+    "company": "Leatherman",
+    "import_yeti_url": "https://www.importyeti.com/company/leatherman"
+  },
+  {
+    "company": "Victorinox",
+    "import_yeti_url": "https://www.importyeti.com/company/victorinox"
+  },
+  {
+    "company": "Swiss Army",
+    "import_yeti_url": "https://www.importyeti.com/company/swiss-army"
+  },
+  {
+    "company": "Wenger",
+    "import_yeti_url": "https://www.importyeti.com/company/wenger"
+  },
+  {
+    "company": "Opinel",
+    "import_yeti_url": "https://www.importyeti.com/company/opinel"
+  },
+  {
+    "company": "Case",
+    "import_yeti_url": "https://www.importyeti.com/company/case"
+  },
+  {
+    "company": "Rough Ryder",
+    "import_yeti_url": "https://www.importyeti.com/company/rough-ryder"
+  },
+  {
+    "company": "Great Eastern Cutlery",
+    "import_yeti_url": "https://www.importyeti.com/company/great-eastern-cutlery"
+  },
+  {
+    "company": "Queen Cutlery",
+    "import_yeti_url": "https://www.importyeti.com/company/queen-cutlery"
+  },
+  {
+    "company": "Schrade",
+    "import_yeti_url": "https://www.importyeti.com/company/schrade"
+  },
+  {
+    "company": "Old Timer",
+    "import_yeti_url": "https://www.importyeti.com/company/old-timer"
+  },
+  {
+    "company": "Uncle Henry",
+    "import_yeti_url": "https://www.importyeti.com/company/uncle-henry"
+  },
+  {
+    "company": "Imperial",
+    "import_yeti_url": "https://www.importyeti.com/company/imperial"
+  },
+  {
+    "company": "Camillus",
+    "import_yeti_url": "https://www.importyeti.com/company/camillus"
+  },
+  {
+    "company": "Boker",
+    "import_yeti_url": "https://www.importyeti.com/company/boker"
+  },
+  {
+    "company": "Hen & Rooster",
+    "import_yeti_url": "https://www.importyeti.com/company/hen-rooster"
+  },
+  {
+    "company": "Bear & Son",
+    "import_yeti_url": "https://www.importyeti.com/company/bear-son"
+  },
+  {
+    "company": "Frost Cutlery",
+    "import_yeti_url": "https://www.importyeti.com/company/frost-cutlery"
+  },
+  {
+    "company": "Smith & Wesson",
+    "import_yeti_url": "https://www.importyeti.com/company/smith-wesson"
+  },
+  {
+    "company": "Remington Arms",
+    "import_yeti_url": "https://www.importyeti.com/company/remington-arms"
+  },
+  {
+    "company": "Winchester",
+    "import_yeti_url": "https://www.importyeti.com/company/winchester"
+  },
+  {
+    "company": "Mossberg",
+    "import_yeti_url": "https://www.importyeti.com/company/mossberg"
+  },
+  {
+    "company": "Marlin",
+    "import_yeti_url": "https://www.importyeti.com/company/marlin"
+  },
+  {
+    "company": "Savage Arms",
+    "import_yeti_url": "https://www.importyeti.com/company/savage-arms"
+  },
+  {
+    "company": "Ruger",
+    "import_yeti_url": "https://www.importyeti.com/company/ruger"
+  },
+  {
+    "company": "Sig Sauer",
+    "import_yeti_url": "https://www.importyeti.com/company/sig-sauer"
+  },
+  {
+    "company": "Glock",
+    "import_yeti_url": "https://www.importyeti.com/company/glock"
+  },
+  {
+    "company": "Springfield Armory",
+    "import_yeti_url": "https://www.importyeti.com/company/springfield-armory"
+  },
+  {
+    "company": "Daniel Defense",
+    "import_yeti_url": "https://www.importyeti.com/company/daniel-defense"
+  },
+  {
+    "company": "Colt",
+    "import_yeti_url": "https://www.importyeti.com/company/colt"
+  },
+  {
+    "company": "Kimber",
+    "import_yeti_url": "https://www.importyeti.com/company/kimber"
+  },
+  {
+    "company": "Tikka",
+    "import_yeti_url": "https://www.importyeti.com/company/tikka"
+  },
+  {
+    "company": "Weatherby",
+    "import_yeti_url": "https://www.importyeti.com/company/weatherby"
+  },
+  {
+    "company": "Browning",
+    "import_yeti_url": "https://www.importyeti.com/company/browning"
+  },
+  {
+    "company": "Beretta USA",
+    "import_yeti_url": "https://www.importyeti.com/company/beretta-usa"
+  },
+  {
+    "company": "Benelli USA",
+    "import_yeti_url": "https://www.importyeti.com/company/benelli-usa"
+  },
+  {
+    "company": "Stoeger",
+    "import_yeti_url": "https://www.importyeti.com/company/stoeger"
+  },
+  {
+    "company": "Franchi",
+    "import_yeti_url": "https://www.importyeti.com/company/franchi"
+  },
+  {
+    "company": "Charles Daly",
+    "import_yeti_url": "https://www.importyeti.com/company/charles-daly"
+  },
+  {
+    "company": "TriStar Arms",
+    "import_yeti_url": "https://www.importyeti.com/company/tristar-arms"
+  },
+  {
+    "company": "CZ-USA",
+    "import_yeti_url": "https://www.importyeti.com/company/cz-usa"
+  },
+  {
+    "company": "H&K USA",
+    "import_yeti_url": "https://www.importyeti.com/company/hk-usa"
+  },
+  {
+    "company": "FN America",
+    "import_yeti_url": "https://www.importyeti.com/company/fn-america"
+  },
+  {
+    "company": "Walther Arms",
+    "import_yeti_url": "https://www.importyeti.com/company/walther-arms"
+  },
+  {
+    "company": "Taurus USA",
+    "import_yeti_url": "https://www.importyeti.com/company/taurus-usa"
+  },
+  {
+    "company": "Rossi USA",
+    "import_yeti_url": "https://www.importyeti.com/company/rossi-usa"
+  },
+  {
+    "company": "Heritage Manufacturing",
+    "import_yeti_url": "https://www.importyeti.com/company/heritage-manufacturing"
+  },
+  {
+    "company": "Rock Island Armory",
+    "import_yeti_url": "https://www.importyeti.com/company/rock-island-armory"
+  },
+  {
+    "company": "Hi-Point",
+    "import_yeti_url": "https://www.importyeti.com/company/hi-point"
+  },
+  {
+    "company": "Kel-Tec",
+    "import_yeti_url": "https://www.importyeti.com/company/kel-tec"
+  },
+  {
+    "company": "SCCY",
+    "import_yeti_url": "https://www.importyeti.com/company/sccy"
+  },
+  {
+    "company": "Canik USA",
+    "import_yeti_url": "https://www.importyeti.com/company/canik-usa"
+  },
+  {
+    "company": "Palmetto State Armory",
+    "import_yeti_url": "https://www.importyeti.com/company/palmetto-state-armory"
+  },
+  {
+    "company": "Anderson Manufacturing",
+    "import_yeti_url": "https://www.importyeti.com/company/anderson-manufacturing"
+  },
+  {
+    "company": "Aero Precision",
+    "import_yeti_url": "https://www.importyeti.com/company/aero-precision"
+  },
+  {
+    "company": "BCM",
+    "import_yeti_url": "https://www.importyeti.com/company/bcm"
+  },
+  {
+    "company": "LaRue Tactical",
+    "import_yeti_url": "https://www.importyeti.com/company/larue-tactical"
+  },
+  {
+    "company": "Knight's Armament",
+    "import_yeti_url": "https://www.importyeti.com/company/knights-armament"
+  },
+  {
+    "company": "LWRC International",
+    "import_yeti_url": "https://www.importyeti.com/company/lwrc-international"
+  },
+  {
+    "company": "PWS",
+    "import_yeti_url": "https://www.importyeti.com/company/pws"
+  },
+  {
+    "company": "Noveske",
+    "import_yeti_url": "https://www.importyeti.com/company/noveske"
+  },
+  {
+    "company": "Wilson Combat",
+    "import_yeti_url": "https://www.importyeti.com/company/wilson-combat"
+  },
+  {
+    "company": "Les Baer",
+    "import_yeti_url": "https://www.importyeti.com/company/les-baer"
+  },
+  {
+    "company": "Ed Brown",
+    "import_yeti_url": "https://www.importyeti.com/company/ed-brown"
+  },
+  {
+    "company": "Nighthawk Custom",
+    "import_yeti_url": "https://www.importyeti.com/company/nighthawk-custom"
+  },
+  {
+    "company": "STI International",
+    "import_yeti_url": "https://www.importyeti.com/company/sti-international"
+  },
+  {
+    "company": "Staccato",
+    "import_yeti_url": "https://www.importyeti.com/company/staccato"
+  },
+  {
+    "company": "Cabot Guns",
+    "import_yeti_url": "https://www.importyeti.com/company/cabot-guns"
+  },
+  {
+    "company": "Christensen Arms",
+    "import_yeti_url": "https://www.importyeti.com/company/christensen-arms"
+  },
+  {
+    "company": "Bergara USA",
+    "import_yeti_url": "https://www.importyeti.com/company/bergara-usa"
+  },
+  {
+    "company": "Proof Research",
+    "import_yeti_url": "https://www.importyeti.com/company/proof-research"
+  },
+  {
+    "company": "Seekins Precision",
+    "import_yeti_url": "https://www.importyeti.com/company/seekins-precision"
+  },
+  {
+    "company": "GA Precision",
+    "import_yeti_url": "https://www.importyeti.com/company/ga-precision"
+  },
+  {
+    "company": "Barrett",
+    "import_yeti_url": "https://www.importyeti.com/company/barrett"
+  },
+  {
+    "company": "Accuracy International",
+    "import_yeti_url": "https://www.importyeti.com/company/accuracy-international"
+  },
+  {
+    "company": "Desert Tech",
+    "import_yeti_url": "https://www.importyeti.com/company/desert-tech"
+  },
+  {
+    "company": "McMillan",
+    "import_yeti_url": "https://www.importyeti.com/company/mcmillan"
+  },
+  {
+    "company": "Cadex Defence",
+    "import_yeti_url": "https://www.importyeti.com/company/cadex-defence"
+  },
+  {
+    "company": "Masterpiece Arms",
+    "import_yeti_url": "https://www.importyeti.com/company/masterpiece-arms"
+  },
+  {
+    "company": "Excel Arms",
+    "import_yeti_url": "https://www.importyeti.com/company/excel-arms"
+  },
+  {
+    "company": "TNW Firearms",
+    "import_yeti_url": "https://www.importyeti.com/company/tnw-firearms"
+  },
+  {
+    "company": "Just Right Carbines",
+    "import_yeti_url": "https://www.importyeti.com/company/just-right-carbines"
+  },
+  {
+    "company": "Quarterchoise",
+    "import_yeti_url": "https://www.importyeti.com/company/quarterchoise"
+  },
+  {
+    "company": "CMMG",
+    "import_yeti_url": "https://www.importyeti.com/company/cmmg"
+  },
+  {
+    "company": "Radical Firearms",
+    "import_yeti_url": "https://www.importyeti.com/company/radical-firearms"
+  },
+  {
+    "company": "Bear Creek Arsenal",
+    "import_yeti_url": "https://www.importyeti.com/company/bear-creek-arsenal"
+  },
+  {
+    "company": "Del-Ton",
+    "import_yeti_url": "https://www.importyeti.com/company/del-ton"
+  },
+  {
+    "company": "Diamondback Firearms",
+    "import_yeti_url": "https://www.importyeti.com/company/diamondback-firearms"
+  },
+  {
+    "company": "ATI",
+    "import_yeti_url": "https://www.importyeti.com/company/ati"
+  },
+  {
+    "company": "Century Arms",
+    "import_yeti_url": "https://www.importyeti.com/company/century-arms"
+  },
+  {
+    "company": "IO Inc",
+    "import_yeti_url": "https://www.importyeti.com/company/io-inc"
+  },
+  {
+    "company": "PSA AK",
+    "import_yeti_url": "https://www.importyeti.com/company/psa-ak"
+  },
+  {
+    "company": "Riley Defense",
+    "import_yeti_url": "https://www.importyeti.com/company/riley-defense"
+  }]

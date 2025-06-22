@@ -1,0 +1,5997 @@
+[
+  {
+    "company_name": "ByteDance",
+    "importyeti_url": "https://www.importyeti.com/company/bytedance",
+    "company_country": "China"
+  },
+  {
+    "company_name": "SpaceX",
+    "importyeti_url": "https://www.importyeti.com/company/spacex",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "SHEIN",
+    "importyeti_url": "https://www.importyeti.com/company/shein",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Stripe",
+    "importyeti_url": "https://www.importyeti.com/company/stripe",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Canva",
+    "importyeti_url": "https://www.importyeti.com/company/canva",
+    "company_country": "Australia"
+  },
+  {
+    "company_name": "Checkout.com",
+    "importyeti_url": "https://www.importyeti.com/company/checkoutcom",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Instacart",
+    "importyeti_url": "https://www.importyeti.com/company/instacart",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Databricks",
+    "importyeti_url": "https://www.importyeti.com/company/databricks",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Revolut",
+    "importyeti_url": "https://www.importyeti.com/company/revolut",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Epic Games",
+    "importyeti_url": "https://www.importyeti.com/company/epic-games",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "FTX",
+    "importyeti_url": "https://www.importyeti.com/company/ftx",
+    "company_country": "Bahamas"
+  },
+  {
+    "company_name": "Fanatics",
+    "importyeti_url": "https://www.importyeti.com/company/fanatics",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Chime",
+    "importyeti_url": "https://www.importyeti.com/company/chime",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "BYJU's",
+    "importyeti_url": "https://www.importyeti.com/company/byjus",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Xiaohongshu",
+    "importyeti_url": "https://www.importyeti.com/company/xiaohongshu",
+    "company_country": "China"
+  },
+  {
+    "company_name": "J&T Express",
+    "importyeti_url": "https://www.importyeti.com/company/j-t-express",
+    "company_country": "Indonesia"
+  },
+  {
+    "company_name": "Miro",
+    "importyeti_url": "https://www.importyeti.com/company/miro",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Yuanfudao",
+    "importyeti_url": "https://www.importyeti.com/company/yuanfudao",
+    "company_country": "China"
+  },
+  {
+    "company_name": "DJI Innovations",
+    "importyeti_url": "https://www.importyeti.com/company/dji-innovations",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Discord",
+    "importyeti_url": "https://www.importyeti.com/company/discord",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "goPuff",
+    "importyeti_url": "https://www.importyeti.com/company/gopuff",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Yuanqi Senlin",
+    "importyeti_url": "https://www.importyeti.com/company/yuanqi-senlin",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Ripple",
+    "importyeti_url": "https://www.importyeti.com/company/ripple",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Blockchain.com",
+    "importyeti_url": "https://www.importyeti.com/company/blockchaincom",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Plaid",
+    "importyeti_url": "https://www.importyeti.com/company/plaid",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "OpenSea",
+    "importyeti_url": "https://www.importyeti.com/company/opensea",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Celonis",
+    "importyeti_url": "https://www.importyeti.com/company/celonis",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Grammarly",
+    "importyeti_url": "https://www.importyeti.com/company/grammarly",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Devoted Health",
+    "importyeti_url": "https://www.importyeti.com/company/devoted-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Faire",
+    "importyeti_url": "https://www.importyeti.com/company/faire",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Brex",
+    "importyeti_url": "https://www.importyeti.com/company/brex",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "JUUL Labs",
+    "importyeti_url": "https://www.importyeti.com/company/juul-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Bitmain Technologies",
+    "importyeti_url": "https://www.importyeti.com/company/bitmain-technologies",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Biosplice Therapeutics",
+    "importyeti_url": "https://www.importyeti.com/company/biosplice-therapeutics",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "GoodLeap",
+    "importyeti_url": "https://www.importyeti.com/company/goodleap",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Xingsheng Selected",
+    "importyeti_url": "https://www.importyeti.com/company/xingsheng-selected",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Deel",
+    "importyeti_url": "https://www.importyeti.com/company/deel",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Getir",
+    "importyeti_url": "https://www.importyeti.com/company/getir",
+    "company_country": "Turkey"
+  },
+  {
+    "company_name": "Airtable",
+    "importyeti_url": "https://www.importyeti.com/company/airtable",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ZongMu Technology",
+    "importyeti_url": "https://www.importyeti.com/company/zongmu-technology",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Rippling",
+    "importyeti_url": "https://www.importyeti.com/company/rippling",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Global Switch",
+    "importyeti_url": "https://www.importyeti.com/company/global-switch",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Bolt",
+    "importyeti_url": "https://www.importyeti.com/company/bolt",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Alchemy",
+    "importyeti_url": "https://www.importyeti.com/company/alchemy",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Weilong",
+    "importyeti_url": "https://www.importyeti.com/company/weilong",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Swiggy",
+    "importyeti_url": "https://www.importyeti.com/company/swiggy",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Lalamove",
+    "importyeti_url": "https://www.importyeti.com/company/lalamove",
+    "company_country": "Hong Kong"
+  },
+  {
+    "company_name": "Gusto",
+    "importyeti_url": "https://www.importyeti.com/company/gusto",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Chehaoduo",
+    "importyeti_url": "https://www.importyeti.com/company/chehaoduo",
+    "company_country": "China"
+  },
+  {
+    "company_name": "reddit",
+    "importyeti_url": "https://www.importyeti.com/company/reddit",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Talkdesk",
+    "importyeti_url": "https://www.importyeti.com/company/talkdesk",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Notion Labs",
+    "importyeti_url": "https://www.importyeti.com/company/notion-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Thrasio",
+    "importyeti_url": "https://www.importyeti.com/company/thrasio",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Digital Currency Group",
+    "importyeti_url": "https://www.importyeti.com/company/digital-currency-group",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "KuCoin",
+    "importyeti_url": "https://www.importyeti.com/company/kucoin",
+    "company_country": "Seychelles"
+  },
+  {
+    "company_name": "OutSystems",
+    "importyeti_url": "https://www.importyeti.com/company/outsystems",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ServiceTitan",
+    "importyeti_url": "https://www.importyeti.com/company/servicetitan",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "HEYTEA",
+    "importyeti_url": "https://www.importyeti.com/company/heytea",
+    "company_country": "China"
+  },
+  {
+    "company_name": "N26",
+    "importyeti_url": "https://www.importyeti.com/company/n26",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Klaviyo",
+    "importyeti_url": "https://www.importyeti.com/company/klaviyo",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "TripActions",
+    "importyeti_url": "https://www.importyeti.com/company/tripactions",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Northvolt",
+    "importyeti_url": "https://www.importyeti.com/company/northvolt",
+    "company_country": "Sweden"
+  },
+  {
+    "company_name": "Tanium",
+    "importyeti_url": "https://www.importyeti.com/company/tanium",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Niantic",
+    "importyeti_url": "https://www.importyeti.com/company/niantic",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "OYO Rooms",
+    "importyeti_url": "https://www.importyeti.com/company/oyo-rooms",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Rapyd",
+    "importyeti_url": "https://www.importyeti.com/company/rapyd",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Kavak",
+    "importyeti_url": "https://www.importyeti.com/company/kavak",
+    "company_country": "Mexico"
+  },
+  {
+    "company_name": "Snyk",
+    "importyeti_url": "https://www.importyeti.com/company/snyk",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Nuro",
+    "importyeti_url": "https://www.importyeti.com/company/nuro",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Chainalysis",
+    "importyeti_url": "https://www.importyeti.com/company/chainalysis",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pony.ai",
+    "importyeti_url": "https://www.importyeti.com/company/ponyai",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Personio",
+    "importyeti_url": "https://www.importyeti.com/company/personio",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Anduril",
+    "importyeti_url": "https://www.importyeti.com/company/anduril",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "SumUp",
+    "importyeti_url": "https://www.importyeti.com/company/sumup",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Bolt",
+    "importyeti_url": "https://www.importyeti.com/company/bolt",
+    "company_country": "Estonia"
+  },
+  {
+    "company_name": "Lacework",
+    "importyeti_url": "https://www.importyeti.com/company/lacework",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Tipalti",
+    "importyeti_url": "https://www.importyeti.com/company/tipalti",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Tempus",
+    "importyeti_url": "https://www.importyeti.com/company/tempus",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Ramp",
+    "importyeti_url": "https://www.importyeti.com/company/ramp",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Dream11",
+    "importyeti_url": "https://www.importyeti.com/company/dream11",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Fireblocks",
+    "importyeti_url": "https://www.importyeti.com/company/fireblocks",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Flexport",
+    "importyeti_url": "https://www.importyeti.com/company/flexport",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "FalconX",
+    "importyeti_url": "https://www.importyeti.com/company/falconx",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Caris Life Sciences",
+    "importyeti_url": "https://www.importyeti.com/company/caris-life-sciences",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Dapper Labs",
+    "importyeti_url": "https://www.importyeti.com/company/dapper-labs",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "Hopin",
+    "importyeti_url": "https://www.importyeti.com/company/hopin",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Netskope",
+    "importyeti_url": "https://www.importyeti.com/company/netskope",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Razorpay",
+    "importyeti_url": "https://www.importyeti.com/company/razorpay",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Automattic",
+    "importyeti_url": "https://www.importyeti.com/company/automattic",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Carta",
+    "importyeti_url": "https://www.importyeti.com/company/carta",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Scale AI",
+    "importyeti_url": "https://www.importyeti.com/company/scale-ai",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Argo AI",
+    "importyeti_url": "https://www.importyeti.com/company/argo-ai",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Gong",
+    "importyeti_url": "https://www.importyeti.com/company/gong",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Gemini",
+    "importyeti_url": "https://www.importyeti.com/company/gemini",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "We Doctor",
+    "importyeti_url": "https://www.importyeti.com/company/we-doctor",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Ro",
+    "importyeti_url": "https://www.importyeti.com/company/ro",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ConsenSys",
+    "importyeti_url": "https://www.importyeti.com/company/consensys",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Automation Anywhere",
+    "importyeti_url": "https://www.importyeti.com/company/automation-anywhere",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "1Password",
+    "importyeti_url": "https://www.importyeti.com/company/1password",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "Klarna",
+    "importyeti_url": "https://www.importyeti.com/company/klarna",
+    "company_country": "Sweden"
+  },
+  {
+    "company_name": "Ziroom",
+    "importyeti_url": "https://www.importyeti.com/company/ziroom",
+    "company_country": "China"
+  },
+  {
+    "company_name": "SVOLT",
+    "importyeti_url": "https://www.importyeti.com/company/svolt",
+    "company_country": "China"
+  },
+  {
+    "company_name": "National Stock Exchange of India",
+    "importyeti_url": "https://www.importyeti.com/company/national-stock-exchange-of-india",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Mollie",
+    "importyeti_url": "https://www.importyeti.com/company/mollie",
+    "company_country": "Netherlands"
+  },
+  {
+    "company_name": "Ola Cabs",
+    "importyeti_url": "https://www.importyeti.com/company/ola-cabs",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Doctolib",
+    "importyeti_url": "https://www.importyeti.com/company/doctolib",
+    "company_country": "France"
+  },
+  {
+    "company_name": "CRED",
+    "importyeti_url": "https://www.importyeti.com/company/cred",
+    "company_country": "India"
+  },
+  {
+    "company_name": "DataRobot",
+    "importyeti_url": "https://www.importyeti.com/company/datarobot",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Upgrade",
+    "importyeti_url": "https://www.importyeti.com/company/upgrade",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Hinge Health",
+    "importyeti_url": "https://www.importyeti.com/company/hinge-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Black Unicorn Factory",
+    "importyeti_url": "https://www.importyeti.com/company/black-unicorn-factory",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Benchling",
+    "importyeti_url": "https://www.importyeti.com/company/benchling",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Royole Corporation",
+    "importyeti_url": "https://www.importyeti.com/company/royole-corporation",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Better.com",
+    "importyeti_url": "https://www.importyeti.com/company/bettercom",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Wiz",
+    "importyeti_url": "https://www.importyeti.com/company/wiz",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "iCapital Network",
+    "importyeti_url": "https://www.importyeti.com/company/icapital-network",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "6Sense",
+    "importyeti_url": "https://www.importyeti.com/company/6sense",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Attentive",
+    "importyeti_url": "https://www.importyeti.com/company/attentive",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Easyhome",
+    "importyeti_url": "https://www.importyeti.com/company/easyhome",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Lianjia",
+    "importyeti_url": "https://www.importyeti.com/company/lianjia",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Vice Media",
+    "importyeti_url": "https://www.importyeti.com/company/vice-media",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Cityblock Health",
+    "importyeti_url": "https://www.importyeti.com/company/cityblock-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Workato",
+    "importyeti_url": "https://www.importyeti.com/company/workato",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Back Market",
+    "importyeti_url": "https://www.importyeti.com/company/back-market",
+    "company_country": "France"
+  },
+  {
+    "company_name": "RELEX",
+    "importyeti_url": "https://www.importyeti.com/company/relex",
+    "company_country": "Finland"
+  },
+  {
+    "company_name": "The Boring Company",
+    "importyeti_url": "https://www.importyeti.com/company/the-boring-company",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Postman",
+    "importyeti_url": "https://www.importyeti.com/company/postman",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "FiveTran",
+    "importyeti_url": "https://www.importyeti.com/company/fivetran",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ContentSquare",
+    "importyeti_url": "https://www.importyeti.com/company/contentsquare",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Trade Republic",
+    "importyeti_url": "https://www.importyeti.com/company/trade-republic",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Rappi",
+    "importyeti_url": "https://www.importyeti.com/company/rappi",
+    "company_country": "Colombia"
+  },
+  {
+    "company_name": "Collibra",
+    "importyeti_url": "https://www.importyeti.com/company/collibra",
+    "company_country": "Belgium"
+  },
+  {
+    "company_name": "OneTrust",
+    "importyeti_url": "https://www.importyeti.com/company/onetrust",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "QuintoAndar",
+    "importyeti_url": "https://www.importyeti.com/company/quintoandar",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "C6 Bank",
+    "importyeti_url": "https://www.importyeti.com/company/c6-bank",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "Flink",
+    "importyeti_url": "https://www.importyeti.com/company/flink",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Hello TransTech",
+    "importyeti_url": "https://www.importyeti.com/company/hello-transtech",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Airwallex",
+    "importyeti_url": "https://www.importyeti.com/company/airwallex",
+    "company_country": "Australia"
+  },
+  {
+    "company_name": "Mambu",
+    "importyeti_url": "https://www.importyeti.com/company/mambu",
+    "company_country": "Netherlands"
+  },
+  {
+    "company_name": "Toss",
+    "importyeti_url": "https://www.importyeti.com/company/toss",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "Horizon Robotics",
+    "importyeti_url": "https://www.importyeti.com/company/horizon-robotics",
+    "company_country": "China"
+  },
+  {
+    "company_name": "WM Motor",
+    "importyeti_url": "https://www.importyeti.com/company/wm-motor",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Howden Group Holdings",
+    "importyeti_url": "https://www.importyeti.com/company/howden-group-holdings",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "SambaNova Systems",
+    "importyeti_url": "https://www.importyeti.com/company/sambanova-systems",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ZEPZ",
+    "importyeti_url": "https://www.importyeti.com/company/zepz",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "OakNorth Bank",
+    "importyeti_url": "https://www.importyeti.com/company/oaknorth-bank",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Moon Active",
+    "importyeti_url": "https://www.importyeti.com/company/moon-active",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "OfBusiness",
+    "importyeti_url": "https://www.importyeti.com/company/ofbusiness",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Cockroach Labs",
+    "importyeti_url": "https://www.importyeti.com/company/cockroach-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pine Labs",
+    "importyeti_url": "https://www.importyeti.com/company/pine-labs",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Qonto",
+    "importyeti_url": "https://www.importyeti.com/company/qonto",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Ola Electric Mobility",
+    "importyeti_url": "https://www.importyeti.com/company/ola-electric-mobility",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Icertis",
+    "importyeti_url": "https://www.importyeti.com/company/icertis",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Hopper",
+    "importyeti_url": "https://www.importyeti.com/company/hopper",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "VerSe Innovation(Dailyhunt)",
+    "importyeti_url": "https://www.importyeti.com/company/verse-innovationdailyhunt",
+    "company_country": "India"
+  },
+  {
+    "company_name": "ShareChat",
+    "importyeti_url": "https://www.importyeti.com/company/sharechat",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Coalition",
+    "importyeti_url": "https://www.importyeti.com/company/coalition",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Grafana Labs",
+    "importyeti_url": "https://www.importyeti.com/company/grafana-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Meesho",
+    "importyeti_url": "https://www.importyeti.com/company/meesho",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Cerebral",
+    "importyeti_url": "https://www.importyeti.com/company/cerebral",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Creditas",
+    "importyeti_url": "https://www.importyeti.com/company/creditas",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "Reify Health",
+    "importyeti_url": "https://www.importyeti.com/company/reify-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Chipone",
+    "importyeti_url": "https://www.importyeti.com/company/chipone",
+    "company_country": "China"
+  },
+  {
+    "company_name": "BetterUp",
+    "importyeti_url": "https://www.importyeti.com/company/betterup",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pleo",
+    "importyeti_url": "https://www.importyeti.com/company/pleo",
+    "company_country": "Denmark"
+  },
+  {
+    "company_name": "SonarSource",
+    "importyeti_url": "https://www.importyeti.com/company/sonarsource",
+    "company_country": "Switzerland"
+  },
+  {
+    "company_name": "Lyra Health",
+    "importyeti_url": "https://www.importyeti.com/company/lyra-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Dataiku",
+    "importyeti_url": "https://www.importyeti.com/company/dataiku",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Checkr",
+    "importyeti_url": "https://www.importyeti.com/company/checkr",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Color",
+    "importyeti_url": "https://www.importyeti.com/company/color",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Lendable",
+    "importyeti_url": "https://www.importyeti.com/company/lendable",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Vinted",
+    "importyeti_url": "https://www.importyeti.com/company/vinted",
+    "company_country": "Lithuania"
+  },
+  {
+    "company_name": "VIPKid",
+    "importyeti_url": "https://www.importyeti.com/company/vipkid",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Socure",
+    "importyeti_url": "https://www.importyeti.com/company/socure",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Monzo",
+    "importyeti_url": "https://www.importyeti.com/company/monzo",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "UBTECH Robotics",
+    "importyeti_url": "https://www.importyeti.com/company/ubtech-robotics",
+    "company_country": "China"
+  },
+  {
+    "company_name": "wefox",
+    "importyeti_url": "https://www.importyeti.com/company/wefox",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Lenskart",
+    "importyeti_url": "https://www.importyeti.com/company/lenskart",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Outreach",
+    "importyeti_url": "https://www.importyeti.com/company/outreach",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "WeRide",
+    "importyeti_url": "https://www.importyeti.com/company/weride",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Guild Education",
+    "importyeti_url": "https://www.importyeti.com/company/guild-education",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Arctic Wolf Networks",
+    "importyeti_url": "https://www.importyeti.com/company/arctic-wolf-networks",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Sorare",
+    "importyeti_url": "https://www.importyeti.com/company/sorare",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Relativity Space",
+    "importyeti_url": "https://www.importyeti.com/company/relativity-space",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Miaoshou Doctor",
+    "importyeti_url": "https://www.importyeti.com/company/miaoshou-doctor",
+    "company_country": "China"
+  },
+  {
+    "company_name": "ThoughtSpot",
+    "importyeti_url": "https://www.importyeti.com/company/thoughtspot",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Globalization Partners",
+    "importyeti_url": "https://www.importyeti.com/company/globalization-partners",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "dbt Labs",
+    "importyeti_url": "https://www.importyeti.com/company/dbt-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "SSENSE",
+    "importyeti_url": "https://www.importyeti.com/company/ssense",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "Dataminr",
+    "importyeti_url": "https://www.importyeti.com/company/dataminr",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "BitPanda",
+    "importyeti_url": "https://www.importyeti.com/company/bitpanda",
+    "company_country": "Austria"
+  },
+  {
+    "company_name": "Weee!",
+    "importyeti_url": "https://www.importyeti.com/company/weee",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Skydance Media",
+    "importyeti_url": "https://www.importyeti.com/company/skydance-media",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Houzz",
+    "importyeti_url": "https://www.importyeti.com/company/houzz",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Yello Mobile",
+    "importyeti_url": "https://www.importyeti.com/company/yello-mobile",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "MEGVII",
+    "importyeti_url": "https://www.importyeti.com/company/megvii",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Greensill",
+    "importyeti_url": "https://www.importyeti.com/company/greensill",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Impossible Foods",
+    "importyeti_url": "https://www.importyeti.com/company/impossible-foods",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Radiology Partners",
+    "importyeti_url": "https://www.importyeti.com/company/radiology-partners",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Next Insurance",
+    "importyeti_url": "https://www.importyeti.com/company/next-insurance",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Patreon",
+    "importyeti_url": "https://www.importyeti.com/company/patreon",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "PointClickCare",
+    "importyeti_url": "https://www.importyeti.com/company/pointclickcare",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "Zapier",
+    "importyeti_url": "https://www.importyeti.com/company/zapier",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Clubhouse",
+    "importyeti_url": "https://www.importyeti.com/company/clubhouse",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "BrowserStack",
+    "importyeti_url": "https://www.importyeti.com/company/browserstack",
+    "company_country": "Ireland"
+  },
+  {
+    "company_name": "Olive",
+    "importyeti_url": "https://www.importyeti.com/company/olive",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Rubrik",
+    "importyeti_url": "https://www.importyeti.com/company/rubrik",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Melio",
+    "importyeti_url": "https://www.importyeti.com/company/melio",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Vuori",
+    "importyeti_url": "https://www.importyeti.com/company/vuori",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ClickUp",
+    "importyeti_url": "https://www.importyeti.com/company/clickup",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Cerebras Systems",
+    "importyeti_url": "https://www.importyeti.com/company/cerebras-systems",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Farmers Business Network",
+    "importyeti_url": "https://www.importyeti.com/company/farmers-business-network",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Branch",
+    "importyeti_url": "https://www.importyeti.com/company/branch",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Aurora Solar",
+    "importyeti_url": "https://www.importyeti.com/company/aurora-solar",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Webflow",
+    "importyeti_url": "https://www.importyeti.com/company/webflow",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Yuga Labs",
+    "importyeti_url": "https://www.importyeti.com/company/yuga-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Digit Insurance",
+    "importyeti_url": "https://www.importyeti.com/company/digit-insurance",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Abnormal Security",
+    "importyeti_url": "https://www.importyeti.com/company/abnormal-security",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Medlinker",
+    "importyeti_url": "https://www.importyeti.com/company/medlinker",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Intarcia Therapeutics",
+    "importyeti_url": "https://www.importyeti.com/company/intarcia-therapeutics",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "StockX",
+    "importyeti_url": "https://www.importyeti.com/company/stockx",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "MessageBird",
+    "importyeti_url": "https://www.importyeti.com/company/messagebird",
+    "company_country": "Netherlands"
+  },
+  {
+    "company_name": "Convoy",
+    "importyeti_url": "https://www.importyeti.com/company/convoy",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Articulate",
+    "importyeti_url": "https://www.importyeti.com/company/articulate",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Dutchie",
+    "importyeti_url": "https://www.importyeti.com/company/dutchie",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Cohesity",
+    "importyeti_url": "https://www.importyeti.com/company/cohesity",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "VAST Data",
+    "importyeti_url": "https://www.importyeti.com/company/vast-data",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "GOAT",
+    "importyeti_url": "https://www.importyeti.com/company/goat",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Noom",
+    "importyeti_url": "https://www.importyeti.com/company/noom",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Redwood Materials",
+    "importyeti_url": "https://www.importyeti.com/company/redwood-materials",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Papaya Global",
+    "importyeti_url": "https://www.importyeti.com/company/papaya-global",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Abogen",
+    "importyeti_url": "https://www.importyeti.com/company/abogen",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Harness",
+    "importyeti_url": "https://www.importyeti.com/company/harness",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Whatnot",
+    "importyeti_url": "https://www.importyeti.com/company/whatnot",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Autograph",
+    "importyeti_url": "https://www.importyeti.com/company/autograph",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Relativity",
+    "importyeti_url": "https://www.importyeti.com/company/relativity",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Whoop",
+    "importyeti_url": "https://www.importyeti.com/company/whoop",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Applied Intuition",
+    "importyeti_url": "https://www.importyeti.com/company/applied-intuition",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Course Hero",
+    "importyeti_url": "https://www.importyeti.com/company/course-hero",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "SpotOn",
+    "importyeti_url": "https://www.importyeti.com/company/spoton",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Otto Bock HealthCare",
+    "importyeti_url": "https://www.importyeti.com/company/otto-bock-healthcare",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Indigo Ag",
+    "importyeti_url": "https://www.importyeti.com/company/indigo-ag",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "HyalRoute",
+    "importyeti_url": "https://www.importyeti.com/company/hyalroute",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "Rec Room",
+    "importyeti_url": "https://www.importyeti.com/company/rec-room",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Commure",
+    "importyeti_url": "https://www.importyeti.com/company/commure",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Mirakl",
+    "importyeti_url": "https://www.importyeti.com/company/mirakl",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Tekion",
+    "importyeti_url": "https://www.importyeti.com/company/tekion",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Celsius Network",
+    "importyeti_url": "https://www.importyeti.com/company/celsius-network",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "GoStudent",
+    "importyeti_url": "https://www.importyeti.com/company/gostudent",
+    "company_country": "Austria"
+  },
+  {
+    "company_name": "Highspot",
+    "importyeti_url": "https://www.importyeti.com/company/highspot",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Handshake",
+    "importyeti_url": "https://www.importyeti.com/company/handshake",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ChargeBee Technologies",
+    "importyeti_url": "https://www.importyeti.com/company/chargebee-technologies",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Flock Safety",
+    "importyeti_url": "https://www.importyeti.com/company/flock-safety",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Helion Energy",
+    "importyeti_url": "https://www.importyeti.com/company/helion-energy",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Acronis",
+    "importyeti_url": "https://www.importyeti.com/company/acronis",
+    "company_country": "Switzerland"
+  },
+  {
+    "company_name": "Unacademy",
+    "importyeti_url": "https://www.importyeti.com/company/unacademy",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Odoo",
+    "importyeti_url": "https://www.importyeti.com/company/odoo",
+    "company_country": "Belgium"
+  },
+  {
+    "company_name": "MoonPay",
+    "importyeti_url": "https://www.importyeti.com/company/moonpay",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Upstox",
+    "importyeti_url": "https://www.importyeti.com/company/upstox",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Improbable",
+    "importyeti_url": "https://www.importyeti.com/company/improbable",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Youxia Motors",
+    "importyeti_url": "https://www.importyeti.com/company/youxia-motors",
+    "company_country": "China"
+  },
+  {
+    "company_name": "OwnBackup",
+    "importyeti_url": "https://www.importyeti.com/company/ownbackup",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Starburst",
+    "importyeti_url": "https://www.importyeti.com/company/starburst",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Starling Bank",
+    "importyeti_url": "https://www.importyeti.com/company/starling-bank",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "ECARX",
+    "importyeti_url": "https://www.importyeti.com/company/ecarx",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Sila Nanotechnologies",
+    "importyeti_url": "https://www.importyeti.com/company/sila-nanotechnologies",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Scopely",
+    "importyeti_url": "https://www.importyeti.com/company/scopely",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Komodo Health",
+    "importyeti_url": "https://www.importyeti.com/company/komodo-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Kurly",
+    "importyeti_url": "https://www.importyeti.com/company/kurly",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "Cars24",
+    "importyeti_url": "https://www.importyeti.com/company/cars24",
+    "company_country": "India"
+  },
+  {
+    "company_name": "BlockDaemon",
+    "importyeti_url": "https://www.importyeti.com/company/blockdaemon",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Dadi Cinema",
+    "importyeti_url": "https://www.importyeti.com/company/dadi-cinema",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Aiven",
+    "importyeti_url": "https://www.importyeti.com/company/aiven",
+    "company_country": "Finland"
+  },
+  {
+    "company_name": "Astera Labs",
+    "importyeti_url": "https://www.importyeti.com/company/astera-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Thumbtack",
+    "importyeti_url": "https://www.importyeti.com/company/thumbtack",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Cedar",
+    "importyeti_url": "https://www.importyeti.com/company/cedar",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Eruditus Executive Education",
+    "importyeti_url": "https://www.importyeti.com/company/eruditus-executive-education",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Blockstream",
+    "importyeti_url": "https://www.importyeti.com/company/blockstream",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "Innovaccer",
+    "importyeti_url": "https://www.importyeti.com/company/innovaccer",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Ironclad",
+    "importyeti_url": "https://www.importyeti.com/company/ironclad",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Skims",
+    "importyeti_url": "https://www.importyeti.com/company/skims",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Eikon Therapeutics",
+    "importyeti_url": "https://www.importyeti.com/company/eikon-therapeutics",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Retool",
+    "importyeti_url": "https://www.importyeti.com/company/retool",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Verkada",
+    "importyeti_url": "https://www.importyeti.com/company/verkada",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "PsiQuantum",
+    "importyeti_url": "https://www.importyeti.com/company/psiquantum",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Udaan",
+    "importyeti_url": "https://www.importyeti.com/company/udaan",
+    "company_country": "India"
+  },
+  {
+    "company_name": "HighRadius",
+    "importyeti_url": "https://www.importyeti.com/company/highradius",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Nuvemshop",
+    "importyeti_url": "https://www.importyeti.com/company/nuvemshop",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "Yixia",
+    "importyeti_url": "https://www.importyeti.com/company/yixia",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Traveloka",
+    "importyeti_url": "https://www.importyeti.com/company/traveloka",
+    "company_country": "Indonesia"
+  },
+  {
+    "company_name": "SouChe Holdings",
+    "importyeti_url": "https://www.importyeti.com/company/souche-holdings",
+    "company_country": "China"
+  },
+  {
+    "company_name": "BGL Group",
+    "importyeti_url": "https://www.importyeti.com/company/bgl-group",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Circle",
+    "importyeti_url": "https://www.importyeti.com/company/circle",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Zuoyebang",
+    "importyeti_url": "https://www.importyeti.com/company/zuoyebang",
+    "company_country": "China"
+  },
+  {
+    "company_name": "FlixMobility",
+    "importyeti_url": "https://www.importyeti.com/company/flixmobility",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Wildlife Studios",
+    "importyeti_url": "https://www.importyeti.com/company/wildlife-studios",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "ApplyBoard",
+    "importyeti_url": "https://www.importyeti.com/company/applyboard",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "Forter",
+    "importyeti_url": "https://www.importyeti.com/company/forter",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Calendly",
+    "importyeti_url": "https://www.importyeti.com/company/calendly",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "BlockFi",
+    "importyeti_url": "https://www.importyeti.com/company/blockfi",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ActiveCampaign",
+    "importyeti_url": "https://www.importyeti.com/company/activecampaign",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "CMR Surgical",
+    "importyeti_url": "https://www.importyeti.com/company/cmr-surgical",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Lucid Software",
+    "importyeti_url": "https://www.importyeti.com/company/lucid-software",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Age of Learning",
+    "importyeti_url": "https://www.importyeti.com/company/age-of-learning",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Carbon Health",
+    "importyeti_url": "https://www.importyeti.com/company/carbon-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Contentful",
+    "importyeti_url": "https://www.importyeti.com/company/contentful",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "LaunchDarkly",
+    "importyeti_url": "https://www.importyeti.com/company/launchdarkly",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Seismic",
+    "importyeti_url": "https://www.importyeti.com/company/seismic",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Gorillas",
+    "importyeti_url": "https://www.importyeti.com/company/gorillas",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Sky Mavis",
+    "importyeti_url": "https://www.importyeti.com/company/sky-mavis",
+    "company_country": "Vietnam"
+  },
+  {
+    "company_name": "Outschool",
+    "importyeti_url": "https://www.importyeti.com/company/outschool",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "TradingView",
+    "importyeti_url": "https://www.importyeti.com/company/tradingview",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Groww",
+    "importyeti_url": "https://www.importyeti.com/company/groww",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Podium",
+    "importyeti_url": "https://www.importyeti.com/company/podium",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Via",
+    "importyeti_url": "https://www.importyeti.com/company/via",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Anchorage Digital",
+    "importyeti_url": "https://www.importyeti.com/company/anchorage-digital",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Inxeption",
+    "importyeti_url": "https://www.importyeti.com/company/inxeption",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Lattice",
+    "importyeti_url": "https://www.importyeti.com/company/lattice",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Flutterwave",
+    "importyeti_url": "https://www.importyeti.com/company/flutterwave",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Amber Group",
+    "importyeti_url": "https://www.importyeti.com/company/amber-group",
+    "company_country": "Hong Kong"
+  },
+  {
+    "company_name": "Cross River Bank",
+    "importyeti_url": "https://www.importyeti.com/company/cross-river-bank",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Remote",
+    "importyeti_url": "https://www.importyeti.com/company/remote",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Sentry",
+    "importyeti_url": "https://www.importyeti.com/company/sentry",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Kraken",
+    "importyeti_url": "https://www.importyeti.com/company/kraken",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "OpenAI",
+    "importyeti_url": "https://www.importyeti.com/company/openai",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Workrise",
+    "importyeti_url": "https://www.importyeti.com/company/workrise",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Loft",
+    "importyeti_url": "https://www.importyeti.com/company/loft",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "Gokin Solar",
+    "importyeti_url": "https://www.importyeti.com/company/gokin-solar",
+    "company_country": "China"
+  },
+  {
+    "company_name": "DriveWealth",
+    "importyeti_url": "https://www.importyeti.com/company/drivewealth",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Alan",
+    "importyeti_url": "https://www.importyeti.com/company/alan",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Meicai",
+    "importyeti_url": "https://www.importyeti.com/company/meicai",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Zipline",
+    "importyeti_url": "https://www.importyeti.com/company/zipline",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Graphcore",
+    "importyeti_url": "https://www.importyeti.com/company/graphcore",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Illumio",
+    "importyeti_url": "https://www.importyeti.com/company/illumio",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "MasterClass",
+    "importyeti_url": "https://www.importyeti.com/company/masterclass",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Dream Games",
+    "importyeti_url": "https://www.importyeti.com/company/dream-games",
+    "company_country": "Turkey"
+  },
+  {
+    "company_name": "Transmit Security",
+    "importyeti_url": "https://www.importyeti.com/company/transmit-security",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Hozon Auto",
+    "importyeti_url": "https://www.importyeti.com/company/hozon-auto",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Tradeshift",
+    "importyeti_url": "https://www.importyeti.com/company/tradeshift",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Nextiva",
+    "importyeti_url": "https://www.importyeti.com/company/nextiva",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Tridge",
+    "importyeti_url": "https://www.importyeti.com/company/tridge",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "o9 Solutions",
+    "importyeti_url": "https://www.importyeti.com/company/o9-solutions",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Thought Machine",
+    "importyeti_url": "https://www.importyeti.com/company/thought-machine",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "BackBase",
+    "importyeti_url": "https://www.importyeti.com/company/backbase",
+    "company_country": "Netherlands"
+  },
+  {
+    "company_name": "ManoMano",
+    "importyeti_url": "https://www.importyeti.com/company/manomano",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Sourcegraph",
+    "importyeti_url": "https://www.importyeti.com/company/sourcegraph",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pendo",
+    "importyeti_url": "https://www.importyeti.com/company/pendo",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Plume",
+    "importyeti_url": "https://www.importyeti.com/company/plume",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Moglix",
+    "importyeti_url": "https://www.importyeti.com/company/moglix",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "Axonius",
+    "importyeti_url": "https://www.importyeti.com/company/axonius",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Xinchao Media",
+    "importyeti_url": "https://www.importyeti.com/company/xinchao-media",
+    "company_country": "China"
+  },
+  {
+    "company_name": "JumpCloud",
+    "importyeti_url": "https://www.importyeti.com/company/jumpcloud",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Unico",
+    "importyeti_url": "https://www.importyeti.com/company/unico",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "Oura",
+    "importyeti_url": "https://www.importyeti.com/company/oura",
+    "company_country": "Finland"
+  },
+  {
+    "company_name": "Eat Just",
+    "importyeti_url": "https://www.importyeti.com/company/eat-just",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Cribl",
+    "importyeti_url": "https://www.importyeti.com/company/cribl",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Jetti Resources",
+    "importyeti_url": "https://www.importyeti.com/company/jetti-resources",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Vista Global",
+    "importyeti_url": "https://www.importyeti.com/company/vista-global",
+    "company_country": "United Arab Emirates"
+  },
+  {
+    "company_name": "BYTON",
+    "importyeti_url": "https://www.importyeti.com/company/byton",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Side",
+    "importyeti_url": "https://www.importyeti.com/company/side",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Infra.Market",
+    "importyeti_url": "https://www.importyeti.com/company/inframarket",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Varo Bank",
+    "importyeti_url": "https://www.importyeti.com/company/varo-bank",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Cato Networks",
+    "importyeti_url": "https://www.importyeti.com/company/cato-networks",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Aura",
+    "importyeti_url": "https://www.importyeti.com/company/aura",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Vercel",
+    "importyeti_url": "https://www.importyeti.com/company/vercel",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Sysdig",
+    "importyeti_url": "https://www.importyeti.com/company/sysdig",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Zetwerk",
+    "importyeti_url": "https://www.importyeti.com/company/zetwerk",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Uniphore",
+    "importyeti_url": "https://www.importyeti.com/company/uniphore",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Somatus",
+    "importyeti_url": "https://www.importyeti.com/company/somatus",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Immutable",
+    "importyeti_url": "https://www.importyeti.com/company/immutable",
+    "company_country": "Australia"
+  },
+  {
+    "company_name": "A24 Films",
+    "importyeti_url": "https://www.importyeti.com/company/a24-films",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "SiFive",
+    "importyeti_url": "https://www.importyeti.com/company/sifive",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Games24x7",
+    "importyeti_url": "https://www.importyeti.com/company/games24x7",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Fetch Rewards",
+    "importyeti_url": "https://www.importyeti.com/company/fetch-rewards",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Coda Payments",
+    "importyeti_url": "https://www.importyeti.com/company/coda-payments",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "DriveNets",
+    "importyeti_url": "https://www.importyeti.com/company/drivenets",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Hibob",
+    "importyeti_url": "https://www.importyeti.com/company/hibob",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Uala",
+    "importyeti_url": "https://www.importyeti.com/company/uala",
+    "company_country": "Argentina"
+  },
+  {
+    "company_name": "Mobile Premier League",
+    "importyeti_url": "https://www.importyeti.com/company/mobile-premier-league",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Cybereason",
+    "importyeti_url": "https://www.importyeti.com/company/cybereason",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Cgtz",
+    "importyeti_url": "https://www.importyeti.com/company/cgtz",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Star Charge",
+    "importyeti_url": "https://www.importyeti.com/company/star-charge",
+    "company_country": "China"
+  },
+  {
+    "company_name": "EquipmentShare",
+    "importyeti_url": "https://www.importyeti.com/company/equipmentshare",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Carbon",
+    "importyeti_url": "https://www.importyeti.com/company/carbon",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Rokt",
+    "importyeti_url": "https://www.importyeti.com/company/rokt",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "PolicyBazaar",
+    "importyeti_url": "https://www.importyeti.com/company/policybazaar",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Paxos",
+    "importyeti_url": "https://www.importyeti.com/company/paxos",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Exabeam",
+    "importyeti_url": "https://www.importyeti.com/company/exabeam",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "BitSight Technologies",
+    "importyeti_url": "https://www.importyeti.com/company/bitsight-technologies",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Trumid",
+    "importyeti_url": "https://www.importyeti.com/company/trumid",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ABL Space Systems",
+    "importyeti_url": "https://www.importyeti.com/company/abl-space-systems",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "HoneyBook",
+    "importyeti_url": "https://www.importyeti.com/company/honeybook",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Beta Technologies",
+    "importyeti_url": "https://www.importyeti.com/company/beta-technologies",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Project44",
+    "importyeti_url": "https://www.importyeti.com/company/project44",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Freenome",
+    "importyeti_url": "https://www.importyeti.com/company/freenome",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ManyPets",
+    "importyeti_url": "https://www.importyeti.com/company/manypets",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Jobandtalent",
+    "importyeti_url": "https://www.importyeti.com/company/jobandtalent",
+    "company_country": "Spain"
+  },
+  {
+    "company_name": "WEMAKEPRICE",
+    "importyeti_url": "https://www.importyeti.com/company/wemakeprice",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "Biren Technology",
+    "importyeti_url": "https://www.importyeti.com/company/biren-technology",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Voodoo",
+    "importyeti_url": "https://www.importyeti.com/company/voodoo",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Shield AI",
+    "importyeti_url": "https://www.importyeti.com/company/shield-ai",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Uptake",
+    "importyeti_url": "https://www.importyeti.com/company/uptake",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Motive",
+    "importyeti_url": "https://www.importyeti.com/company/motive",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Greenlight",
+    "importyeti_url": "https://www.importyeti.com/company/greenlight",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Bowery Farming",
+    "importyeti_url": "https://www.importyeti.com/company/bowery-farming",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "MoMo",
+    "importyeti_url": "https://www.importyeti.com/company/momo",
+    "company_country": "Vietnam"
+  },
+  {
+    "company_name": "Zume",
+    "importyeti_url": "https://www.importyeti.com/company/zume",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Algolia",
+    "importyeti_url": "https://www.importyeti.com/company/algolia",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pattern",
+    "importyeti_url": "https://www.importyeti.com/company/pattern",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Newfront Insurance",
+    "importyeti_url": "https://www.importyeti.com/company/newfront-insurance",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "NuCom Group",
+    "importyeti_url": "https://www.importyeti.com/company/nucom-group",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "MUSINSA",
+    "importyeti_url": "https://www.importyeti.com/company/musinsa",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "Current",
+    "importyeti_url": "https://www.importyeti.com/company/current",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Bitso",
+    "importyeti_url": "https://www.importyeti.com/company/bitso",
+    "company_country": "Mexico"
+  },
+  {
+    "company_name": "Gympass",
+    "importyeti_url": "https://www.importyeti.com/company/gympass",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Dialpad",
+    "importyeti_url": "https://www.importyeti.com/company/dialpad",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "G7 Networks",
+    "importyeti_url": "https://www.importyeti.com/company/g7-networks",
+    "company_country": "China"
+  },
+  {
+    "company_name": "BloomReach",
+    "importyeti_url": "https://www.importyeti.com/company/bloomreach",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Motif FoodWorks",
+    "importyeti_url": "https://www.importyeti.com/company/motif-foodworks",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Huaqin Telecom Technology",
+    "importyeti_url": "https://www.importyeti.com/company/huaqin-telecom-technology",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Accelerant",
+    "importyeti_url": "https://www.importyeti.com/company/accelerant",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Hesai Tech",
+    "importyeti_url": "https://www.importyeti.com/company/hesai-tech",
+    "company_country": "China"
+  },
+  {
+    "company_name": "YITU Technology",
+    "importyeti_url": "https://www.importyeti.com/company/yitu-technology",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Addepar",
+    "importyeti_url": "https://www.importyeti.com/company/addepar",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Qualia",
+    "importyeti_url": "https://www.importyeti.com/company/qualia",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Neo4j",
+    "importyeti_url": "https://www.importyeti.com/company/neo4j",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "CloudWalk",
+    "importyeti_url": "https://www.importyeti.com/company/cloudwalk",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "CoinDCX",
+    "importyeti_url": "https://www.importyeti.com/company/coindcx",
+    "company_country": "India"
+  },
+  {
+    "company_name": "FirstCry",
+    "importyeti_url": "https://www.importyeti.com/company/firstcry",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Eightfold.ai",
+    "importyeti_url": "https://www.importyeti.com/company/eightfoldai",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Urban Company",
+    "importyeti_url": "https://www.importyeti.com/company/urban-company",
+    "company_country": "India"
+  },
+  {
+    "company_name": "ReCharge",
+    "importyeti_url": "https://www.importyeti.com/company/recharge",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Moveworks",
+    "importyeti_url": "https://www.importyeti.com/company/moveworks",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Medable",
+    "importyeti_url": "https://www.importyeti.com/company/medable",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "GoCardless",
+    "importyeti_url": "https://www.importyeti.com/company/gocardless",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Aledade",
+    "importyeti_url": "https://www.importyeti.com/company/aledade",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Forto",
+    "importyeti_url": "https://www.importyeti.com/company/forto",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Jeeves",
+    "importyeti_url": "https://www.importyeti.com/company/jeeves",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Babel Finance",
+    "importyeti_url": "https://www.importyeti.com/company/babel-finance",
+    "company_country": "Hong Kong"
+  },
+  {
+    "company_name": "BeZero",
+    "importyeti_url": "https://www.importyeti.com/company/bezero",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Trendy Group International",
+    "importyeti_url": "https://www.importyeti.com/company/trendy-group-international",
+    "company_country": "Hong Kong"
+  },
+  {
+    "company_name": "GrubMarket",
+    "importyeti_url": "https://www.importyeti.com/company/grubmarket",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "GO1",
+    "importyeti_url": "https://www.importyeti.com/company/go1",
+    "company_country": "Australia"
+  },
+  {
+    "company_name": "Mysten Labs",
+    "importyeti_url": "https://www.importyeti.com/company/mysten-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Avant",
+    "importyeti_url": "https://www.importyeti.com/company/avant",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Tubatu.com",
+    "importyeti_url": "https://www.importyeti.com/company/tubatucom",
+    "company_country": "China"
+  },
+  {
+    "company_name": "BlaBlaCar",
+    "importyeti_url": "https://www.importyeti.com/company/blablacar",
+    "company_country": "France"
+  },
+  {
+    "company_name": "HuiMin",
+    "importyeti_url": "https://www.importyeti.com/company/huimin",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Quora",
+    "importyeti_url": "https://www.importyeti.com/company/quora",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Preferred Networks",
+    "importyeti_url": "https://www.importyeti.com/company/preferred-networks",
+    "company_country": "Japan"
+  },
+  {
+    "company_name": "Formlabs",
+    "importyeti_url": "https://www.importyeti.com/company/formlabs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "4Paradigm",
+    "importyeti_url": "https://www.importyeti.com/company/4paradigm",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Calm",
+    "importyeti_url": "https://www.importyeti.com/company/calm",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Kaseya",
+    "importyeti_url": "https://www.importyeti.com/company/kaseya",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Mafengwo",
+    "importyeti_url": "https://www.importyeti.com/company/mafengwo",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Druva",
+    "importyeti_url": "https://www.importyeti.com/company/druva",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Kujiale",
+    "importyeti_url": "https://www.importyeti.com/company/kujiale",
+    "company_country": "China"
+  },
+  {
+    "company_name": "AppsFlyer",
+    "importyeti_url": "https://www.importyeti.com/company/appsflyer",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Keep",
+    "importyeti_url": "https://www.importyeti.com/company/keep",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Redis Labs",
+    "importyeti_url": "https://www.importyeti.com/company/redis-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Xingyun Group",
+    "importyeti_url": "https://www.importyeti.com/company/xingyun-group",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Unqork",
+    "importyeti_url": "https://www.importyeti.com/company/unqork",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Virta Health",
+    "importyeti_url": "https://www.importyeti.com/company/virta-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ISN",
+    "importyeti_url": "https://www.importyeti.com/company/isn",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Earnix",
+    "importyeti_url": "https://www.importyeti.com/company/earnix",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Guoquan Shihui",
+    "importyeti_url": "https://www.importyeti.com/company/guoquan-shihui",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Clearco",
+    "importyeti_url": "https://www.importyeti.com/company/clearco",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "Hive",
+    "importyeti_url": "https://www.importyeti.com/company/hive",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "KRY",
+    "importyeti_url": "https://www.importyeti.com/company/kry",
+    "company_country": "Sweden"
+  },
+  {
+    "company_name": "Kajabi",
+    "importyeti_url": "https://www.importyeti.com/company/kajabi",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Ethos",
+    "importyeti_url": "https://www.importyeti.com/company/ethos",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "PayFit",
+    "importyeti_url": "https://www.importyeti.com/company/payfit",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Beisen",
+    "importyeti_url": "https://www.importyeti.com/company/beisen",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Pipe",
+    "importyeti_url": "https://www.importyeti.com/company/pipe",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Iterable",
+    "importyeti_url": "https://www.importyeti.com/company/iterable",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Bunq",
+    "importyeti_url": "https://www.importyeti.com/company/bunq",
+    "company_country": "Netherlands"
+  },
+  {
+    "company_name": "Clip",
+    "importyeti_url": "https://www.importyeti.com/company/clip",
+    "company_country": "Mexico"
+  },
+  {
+    "company_name": "Loggi",
+    "importyeti_url": "https://www.importyeti.com/company/loggi",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "MURAL",
+    "importyeti_url": "https://www.importyeti.com/company/mural",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "OCSiAl",
+    "importyeti_url": "https://www.importyeti.com/company/ocsial",
+    "company_country": "Luxembourg"
+  },
+  {
+    "company_name": "XtalPi",
+    "importyeti_url": "https://www.importyeti.com/company/xtalpi",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Divvy Homes",
+    "importyeti_url": "https://www.importyeti.com/company/divvy-homes",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Apeel Sciences",
+    "importyeti_url": "https://www.importyeti.com/company/apeel-sciences",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Opay",
+    "importyeti_url": "https://www.importyeti.com/company/opay",
+    "company_country": "Nigeria"
+  },
+  {
+    "company_name": "Aviatrix",
+    "importyeti_url": "https://www.importyeti.com/company/aviatrix",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "SmartNews",
+    "importyeti_url": "https://www.importyeti.com/company/smartnews",
+    "company_country": "Japan"
+  },
+  {
+    "company_name": "Misfits Market",
+    "importyeti_url": "https://www.importyeti.com/company/misfits-market",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Spring Health",
+    "importyeti_url": "https://www.importyeti.com/company/spring-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Black Sesame Technologies",
+    "importyeti_url": "https://www.importyeti.com/company/black-sesame-technologies",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Advance Intelligence Group",
+    "importyeti_url": "https://www.importyeti.com/company/advance-intelligence-group",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "Modern Treasury",
+    "importyeti_url": "https://www.importyeti.com/company/modern-treasury",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Magic Leap",
+    "importyeti_url": "https://www.importyeti.com/company/magic-leap",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Tier",
+    "importyeti_url": "https://www.importyeti.com/company/tier",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "ClickHouse",
+    "importyeti_url": "https://www.importyeti.com/company/clickhouse",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Mynt",
+    "importyeti_url": "https://www.importyeti.com/company/mynt",
+    "company_country": "Philippines"
+  },
+  {
+    "company_name": "Everlaw",
+    "importyeti_url": "https://www.importyeti.com/company/everlaw",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Zilch",
+    "importyeti_url": "https://www.importyeti.com/company/zilch",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "VerbIT",
+    "importyeti_url": "https://www.importyeti.com/company/verbit",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "StarkWare",
+    "importyeti_url": "https://www.importyeti.com/company/starkware",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Netlify",
+    "importyeti_url": "https://www.importyeti.com/company/netlify",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "SWORD Health",
+    "importyeti_url": "https://www.importyeti.com/company/sword-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "LTK",
+    "importyeti_url": "https://www.importyeti.com/company/ltk",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Trax",
+    "importyeti_url": "https://www.importyeti.com/company/trax",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "Exotec",
+    "importyeti_url": "https://www.importyeti.com/company/exotec",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Dremio",
+    "importyeti_url": "https://www.importyeti.com/company/dremio",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Akulaku",
+    "importyeti_url": "https://www.importyeti.com/company/akulaku",
+    "company_country": "Indonesia"
+  },
+  {
+    "company_name": "Cloudinary",
+    "importyeti_url": "https://www.importyeti.com/company/cloudinary",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Lunar",
+    "importyeti_url": "https://www.importyeti.com/company/lunar",
+    "company_country": "Denmark"
+  },
+  {
+    "company_name": "UpGrad",
+    "importyeti_url": "https://www.importyeti.com/company/upgrad",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Salsify",
+    "importyeti_url": "https://www.importyeti.com/company/salsify",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "CertiK",
+    "importyeti_url": "https://www.importyeti.com/company/certik",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ROX Motor",
+    "importyeti_url": "https://www.importyeti.com/company/rox-motor",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Hugging Face",
+    "importyeti_url": "https://www.importyeti.com/company/hugging-face",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Devo Technology",
+    "importyeti_url": "https://www.importyeti.com/company/devo-technology",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Rimac Automobili",
+    "importyeti_url": "https://www.importyeti.com/company/rimac-automobili",
+    "company_country": "Croatia"
+  },
+  {
+    "company_name": "Geek+",
+    "importyeti_url": "https://www.importyeti.com/company/geek",
+    "company_country": "China"
+  },
+  {
+    "company_name": "21.co",
+    "importyeti_url": "https://www.importyeti.com/company/21co",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Solugen",
+    "importyeti_url": "https://www.importyeti.com/company/solugen",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ZigBang",
+    "importyeti_url": "https://www.importyeti.com/company/zigbang",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "Ankorstore",
+    "importyeti_url": "https://www.importyeti.com/company/ankorstore",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Fenbi Education",
+    "importyeti_url": "https://www.importyeti.com/company/fenbi-education",
+    "company_country": "China"
+  },
+  {
+    "company_name": "InVision",
+    "importyeti_url": "https://www.importyeti.com/company/invision",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "eDaili",
+    "importyeti_url": "https://www.importyeti.com/company/edaili",
+    "company_country": "China"
+  },
+  {
+    "company_name": "MX Technologies",
+    "importyeti_url": "https://www.importyeti.com/company/mx-technologies",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "CoinSwitch Kuber",
+    "importyeti_url": "https://www.importyeti.com/company/coinswitch-kuber",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Acorns",
+    "importyeti_url": "https://www.importyeti.com/company/acorns",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Roofstock",
+    "importyeti_url": "https://www.importyeti.com/company/roofstock",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "thatgamecompany",
+    "importyeti_url": "https://www.importyeti.com/company/thatgamecompany",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ConcertAI",
+    "importyeti_url": "https://www.importyeti.com/company/concertai",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Material Bank",
+    "importyeti_url": "https://www.importyeti.com/company/material-bank",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Volocopter",
+    "importyeti_url": "https://www.importyeti.com/company/volocopter",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "ENOVATE",
+    "importyeti_url": "https://www.importyeti.com/company/enovate",
+    "company_country": "China"
+  },
+  {
+    "company_name": "MEGAZONE",
+    "importyeti_url": "https://www.importyeti.com/company/megazone",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "CFGI",
+    "importyeti_url": "https://www.importyeti.com/company/cfgi",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ZocDoc",
+    "importyeti_url": "https://www.importyeti.com/company/zocdoc",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Diamond Foundry",
+    "importyeti_url": "https://www.importyeti.com/company/diamond-foundry",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "FullStory",
+    "importyeti_url": "https://www.importyeti.com/company/fullstory",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Lightricks",
+    "importyeti_url": "https://www.importyeti.com/company/lightricks",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Opentrons",
+    "importyeti_url": "https://www.importyeti.com/company/opentrons",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Slice",
+    "importyeti_url": "https://www.importyeti.com/company/slice",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Cambrian BioPharma",
+    "importyeti_url": "https://www.importyeti.com/company/cambrian-biopharma",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "AIWAYS",
+    "importyeti_url": "https://www.importyeti.com/company/aiways",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Trulioo",
+    "importyeti_url": "https://www.importyeti.com/company/trulioo",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "Spinny",
+    "importyeti_url": "https://www.importyeti.com/company/spinny",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Crusoe",
+    "importyeti_url": "https://www.importyeti.com/company/crusoe",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Orca Security",
+    "importyeti_url": "https://www.importyeti.com/company/orca-security",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Apus Group",
+    "importyeti_url": "https://www.importyeti.com/company/apus-group",
+    "company_country": "China"
+  },
+  {
+    "company_name": "AlphaSense",
+    "importyeti_url": "https://www.importyeti.com/company/alphasense",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Harry's",
+    "importyeti_url": "https://www.importyeti.com/company/harrys",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "PAX",
+    "importyeti_url": "https://www.importyeti.com/company/pax",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "DispatchHealth",
+    "importyeti_url": "https://www.importyeti.com/company/dispatchhealth",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pax8",
+    "importyeti_url": "https://www.importyeti.com/company/pax8",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Multiverse",
+    "importyeti_url": "https://www.importyeti.com/company/multiverse",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Front",
+    "importyeti_url": "https://www.importyeti.com/company/front",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Redesign Health",
+    "importyeti_url": "https://www.importyeti.com/company/redesign-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Tessera Therapeutics",
+    "importyeti_url": "https://www.importyeti.com/company/tessera-therapeutics",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Uniswap",
+    "importyeti_url": "https://www.importyeti.com/company/uniswap",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "FinAccel",
+    "importyeti_url": "https://www.importyeti.com/company/finaccel",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "Unite Us",
+    "importyeti_url": "https://www.importyeti.com/company/unite-us",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "CircleCI",
+    "importyeti_url": "https://www.importyeti.com/company/circleci",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Wave",
+    "importyeti_url": "https://www.importyeti.com/company/wave",
+    "company_country": "Senegal"
+  },
+  {
+    "company_name": "Vestiaire Collective",
+    "importyeti_url": "https://www.importyeti.com/company/vestiaire-collective",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Dragos",
+    "importyeti_url": "https://www.importyeti.com/company/dragos",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Reltio",
+    "importyeti_url": "https://www.importyeti.com/company/reltio",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "H2O.ai",
+    "importyeti_url": "https://www.importyeti.com/company/h2oai",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ZenBusiness",
+    "importyeti_url": "https://www.importyeti.com/company/zenbusiness",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Carsome",
+    "importyeti_url": "https://www.importyeti.com/company/carsome",
+    "company_country": "Malaysia"
+  },
+  {
+    "company_name": "Productboard",
+    "importyeti_url": "https://www.importyeti.com/company/productboard",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Spotter",
+    "importyeti_url": "https://www.importyeti.com/company/spotter",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Optimism",
+    "importyeti_url": "https://www.importyeti.com/company/optimism",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Incredible Health",
+    "importyeti_url": "https://www.importyeti.com/company/incredible-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Jusfoun Big Data",
+    "importyeti_url": "https://www.importyeti.com/company/jusfoun-big-data",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Transcarent",
+    "importyeti_url": "https://www.importyeti.com/company/transcarent",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "DealShare",
+    "importyeti_url": "https://www.importyeti.com/company/dealshare",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Zhubajie",
+    "importyeti_url": "https://www.importyeti.com/company/zhubajie",
+    "company_country": "China"
+  },
+  {
+    "company_name": "solarisBank",
+    "importyeti_url": "https://www.importyeti.com/company/solarisbank",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "DataStax",
+    "importyeti_url": "https://www.importyeti.com/company/datastax",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Infinidat",
+    "importyeti_url": "https://www.importyeti.com/company/infinidat",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Afiniti",
+    "importyeti_url": "https://www.importyeti.com/company/afiniti",
+    "company_country": "Bermuda"
+  },
+  {
+    "company_name": "Cao Cao Mobility",
+    "importyeti_url": "https://www.importyeti.com/company/cao-cao-mobility",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Clari",
+    "importyeti_url": "https://www.importyeti.com/company/clari",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Tonal",
+    "importyeti_url": "https://www.importyeti.com/company/tonal",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Clio",
+    "importyeti_url": "https://www.importyeti.com/company/clio",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "SafetyCulture",
+    "importyeti_url": "https://www.importyeti.com/company/safetyculture",
+    "company_country": "Australia"
+  },
+  {
+    "company_name": "Monte Carlo",
+    "importyeti_url": "https://www.importyeti.com/company/monte-carlo",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Cresta",
+    "importyeti_url": "https://www.importyeti.com/company/cresta",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Extend",
+    "importyeti_url": "https://www.importyeti.com/company/extend",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Generate Biomedicines",
+    "importyeti_url": "https://www.importyeti.com/company/generate-biomedicines",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Cognite",
+    "importyeti_url": "https://www.importyeti.com/company/cognite",
+    "company_country": "Norway"
+  },
+  {
+    "company_name": "ASAPP",
+    "importyeti_url": "https://www.importyeti.com/company/asapp",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "SmartHR",
+    "importyeti_url": "https://www.importyeti.com/company/smarthr",
+    "company_country": "Japan"
+  },
+  {
+    "company_name": "Mercury",
+    "importyeti_url": "https://www.importyeti.com/company/mercury",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "HomeLight",
+    "importyeti_url": "https://www.importyeti.com/company/homelight",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Truepill",
+    "importyeti_url": "https://www.importyeti.com/company/truepill",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ezCater",
+    "importyeti_url": "https://www.importyeti.com/company/ezcater",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Wayflyer",
+    "importyeti_url": "https://www.importyeti.com/company/wayflyer",
+    "company_country": "Ireland"
+  },
+  {
+    "company_name": "Capitolis",
+    "importyeti_url": "https://www.importyeti.com/company/capitolis",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Nord Security",
+    "importyeti_url": "https://www.importyeti.com/company/nord-security",
+    "company_country": "Lithuania"
+  },
+  {
+    "company_name": "Vanta",
+    "importyeti_url": "https://www.importyeti.com/company/vanta",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Magic Eden",
+    "importyeti_url": "https://www.importyeti.com/company/magic-eden",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pave",
+    "importyeti_url": "https://www.importyeti.com/company/pave",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Promasidor Holdings",
+    "importyeti_url": "https://www.importyeti.com/company/promasidor-holdings",
+    "company_country": "South Africa"
+  },
+  {
+    "company_name": "GalaxySpace",
+    "importyeti_url": "https://www.importyeti.com/company/galaxyspace",
+    "company_country": "China"
+  },
+  {
+    "company_name": "ICON 3D",
+    "importyeti_url": "https://www.importyeti.com/company/icon-3d",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Fresh Life Style Supply Chain Management",
+    "importyeti_url": "https://www.importyeti.com/company/fresh-life-style-supply-chain-management",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Alloy",
+    "importyeti_url": "https://www.importyeti.com/company/alloy",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Baiwang",
+    "importyeti_url": "https://www.importyeti.com/company/baiwang",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Iluvatar CoreX",
+    "importyeti_url": "https://www.importyeti.com/company/iluvatar-corex",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Wenheyou",
+    "importyeti_url": "https://www.importyeti.com/company/wenheyou",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Kitopi",
+    "importyeti_url": "https://www.importyeti.com/company/kitopi",
+    "company_country": "United Arab Emirates"
+  },
+  {
+    "company_name": "Loom",
+    "importyeti_url": "https://www.importyeti.com/company/loom",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Ximalaya FM",
+    "importyeti_url": "https://www.importyeti.com/company/ximalaya-fm",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Carzone",
+    "importyeti_url": "https://www.importyeti.com/company/carzone",
+    "company_country": "China"
+  },
+  {
+    "company_name": "OpenWeb",
+    "importyeti_url": "https://www.importyeti.com/company/openweb",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "bolttech",
+    "importyeti_url": "https://www.importyeti.com/company/bolttech",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "Bilt Rewards",
+    "importyeti_url": "https://www.importyeti.com/company/bilt-rewards",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Mu Sigma",
+    "importyeti_url": "https://www.importyeti.com/company/mu-sigma",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Kushki",
+    "importyeti_url": "https://www.importyeti.com/company/kushki",
+    "company_country": "Ecuador"
+  },
+  {
+    "company_name": "Jasper",
+    "importyeti_url": "https://www.importyeti.com/company/jasper",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Orna Therapeutics",
+    "importyeti_url": "https://www.importyeti.com/company/orna-therapeutics",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "TuJia",
+    "importyeti_url": "https://www.importyeti.com/company/tujia",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Mofang Living",
+    "importyeti_url": "https://www.importyeti.com/company/mofang-living",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Gett",
+    "importyeti_url": "https://www.importyeti.com/company/gett",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "DT Dream",
+    "importyeti_url": "https://www.importyeti.com/company/dt-dream",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Changingedu",
+    "importyeti_url": "https://www.importyeti.com/company/changingedu",
+    "company_country": "China"
+  },
+  {
+    "company_name": "XiaoZhu",
+    "importyeti_url": "https://www.importyeti.com/company/xiaozhu",
+    "company_country": "China"
+  },
+  {
+    "company_name": "JOLLY Information Technology",
+    "importyeti_url": "https://www.importyeti.com/company/jolly-information-technology",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Yijiupi",
+    "importyeti_url": "https://www.importyeti.com/company/yijiupi",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Cambridge Mobile Telematics",
+    "importyeti_url": "https://www.importyeti.com/company/cambridge-mobile-telematics",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Collective Health",
+    "importyeti_url": "https://www.importyeti.com/company/collective-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Strava",
+    "importyeti_url": "https://www.importyeti.com/company/strava",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Zenoti",
+    "importyeti_url": "https://www.importyeti.com/company/zenoti",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "K Health",
+    "importyeti_url": "https://www.importyeti.com/company/k-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Uplight",
+    "importyeti_url": "https://www.importyeti.com/company/uplight",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ID.me",
+    "importyeti_url": "https://www.importyeti.com/company/idme",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Snapdocs",
+    "importyeti_url": "https://www.importyeti.com/company/snapdocs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Chipper Cash",
+    "importyeti_url": "https://www.importyeti.com/company/chipper-cash",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Ledger",
+    "importyeti_url": "https://www.importyeti.com/company/ledger",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Next Silicon",
+    "importyeti_url": "https://www.importyeti.com/company/next-silicon",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "YunQuNa",
+    "importyeti_url": "https://www.importyeti.com/company/yunquna",
+    "company_country": "China"
+  },
+  {
+    "company_name": "impact.com",
+    "importyeti_url": "https://www.importyeti.com/company/impactcom",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "SmartRecruiters",
+    "importyeti_url": "https://www.importyeti.com/company/smartrecruiters",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "NotCo",
+    "importyeti_url": "https://www.importyeti.com/company/notco",
+    "company_country": "Chile"
+  },
+  {
+    "company_name": "Culture Amp",
+    "importyeti_url": "https://www.importyeti.com/company/culture-amp",
+    "company_country": "Australia"
+  },
+  {
+    "company_name": "TaxBit",
+    "importyeti_url": "https://www.importyeti.com/company/taxbit",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pacaso",
+    "importyeti_url": "https://www.importyeti.com/company/pacaso",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "1047 Games",
+    "importyeti_url": "https://www.importyeti.com/company/1047-games",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Matillion",
+    "importyeti_url": "https://www.importyeti.com/company/matillion",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Persona",
+    "importyeti_url": "https://www.importyeti.com/company/persona",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Ascend Money",
+    "importyeti_url": "https://www.importyeti.com/company/ascend-money",
+    "company_country": "Thailand"
+  },
+  {
+    "company_name": "Andela",
+    "importyeti_url": "https://www.importyeti.com/company/andela",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Built",
+    "importyeti_url": "https://www.importyeti.com/company/built",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "candy.com",
+    "importyeti_url": "https://www.importyeti.com/company/candycom",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "CoinList",
+    "importyeti_url": "https://www.importyeti.com/company/coinlist",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Lusha",
+    "importyeti_url": "https://www.importyeti.com/company/lusha",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "CureFit",
+    "importyeti_url": "https://www.importyeti.com/company/curefit",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Olist",
+    "importyeti_url": "https://www.importyeti.com/company/olist",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "Paradox",
+    "importyeti_url": "https://www.importyeti.com/company/paradox",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Airbyte",
+    "importyeti_url": "https://www.importyeti.com/company/airbyte",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "StoreDot",
+    "importyeti_url": "https://www.importyeti.com/company/storedot",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Il Makiage",
+    "importyeti_url": "https://www.importyeti.com/company/il-makiage",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Spendesk",
+    "importyeti_url": "https://www.importyeti.com/company/spendesk",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Veriff",
+    "importyeti_url": "https://www.importyeti.com/company/veriff",
+    "company_country": "Estonia"
+  },
+  {
+    "company_name": "Athelas",
+    "importyeti_url": "https://www.importyeti.com/company/athelas",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ElasticRun",
+    "importyeti_url": "https://www.importyeti.com/company/elasticrun",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Veho",
+    "importyeti_url": "https://www.importyeti.com/company/veho",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Temporal",
+    "importyeti_url": "https://www.importyeti.com/company/temporal",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Fabric",
+    "importyeti_url": "https://www.importyeti.com/company/fabric",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Zeta",
+    "importyeti_url": "https://www.importyeti.com/company/zeta",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Boba",
+    "importyeti_url": "https://www.importyeti.com/company/boba",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Upside",
+    "importyeti_url": "https://www.importyeti.com/company/upside",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Mashgin",
+    "importyeti_url": "https://www.importyeti.com/company/mashgin",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Dock",
+    "importyeti_url": "https://www.importyeti.com/company/dock",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "Prometheus",
+    "importyeti_url": "https://www.importyeti.com/company/prometheus",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "5ire",
+    "importyeti_url": "https://www.importyeti.com/company/5ire",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Yipin Shengxian",
+    "importyeti_url": "https://www.importyeti.com/company/yipin-shengxian",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Bordrin Motors",
+    "importyeti_url": "https://www.importyeti.com/company/bordrin-motors",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Arcadia",
+    "importyeti_url": "https://www.importyeti.com/company/arcadia",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "VTS",
+    "importyeti_url": "https://www.importyeti.com/company/vts",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Shukun Technology",
+    "importyeti_url": "https://www.importyeti.com/company/shukun-technology",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Coocaa",
+    "importyeti_url": "https://www.importyeti.com/company/coocaa",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Juma Peisong",
+    "importyeti_url": "https://www.importyeti.com/company/juma-peisong",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Ouyeel",
+    "importyeti_url": "https://www.importyeti.com/company/ouyeel",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Gymshark",
+    "importyeti_url": "https://www.importyeti.com/company/gymshark",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "M1",
+    "importyeti_url": "https://www.importyeti.com/company/m1",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Aleo",
+    "importyeti_url": "https://www.importyeti.com/company/aleo",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Einride",
+    "importyeti_url": "https://www.importyeti.com/company/einride",
+    "company_country": "Sweden"
+  },
+  {
+    "company_name": "Justworks",
+    "importyeti_url": "https://www.importyeti.com/company/justworks",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Valgen Medtech",
+    "importyeti_url": "https://www.importyeti.com/company/valgen-medtech",
+    "company_country": "China"
+  },
+  {
+    "company_name": "SonderMind",
+    "importyeti_url": "https://www.importyeti.com/company/sondermind",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Amagi",
+    "importyeti_url": "https://www.importyeti.com/company/amagi",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Papa",
+    "importyeti_url": "https://www.importyeti.com/company/papa",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Figment",
+    "importyeti_url": "https://www.importyeti.com/company/figment",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "Envoy",
+    "importyeti_url": "https://www.importyeti.com/company/envoy",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Deliverect",
+    "importyeti_url": "https://www.importyeti.com/company/deliverect",
+    "company_country": "Belgium"
+  },
+  {
+    "company_name": "SparkCognition",
+    "importyeti_url": "https://www.importyeti.com/company/sparkcognition",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Firebolt",
+    "importyeti_url": "https://www.importyeti.com/company/firebolt",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Koudai",
+    "importyeti_url": "https://www.importyeti.com/company/koudai",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Symphony",
+    "importyeti_url": "https://www.importyeti.com/company/symphony",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Yidian Zixun",
+    "importyeti_url": "https://www.importyeti.com/company/yidian-zixun",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Cabify",
+    "importyeti_url": "https://www.importyeti.com/company/cabify",
+    "company_country": "Spain"
+  },
+  {
+    "company_name": "Hive Box",
+    "importyeti_url": "https://www.importyeti.com/company/hive-box",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Away",
+    "importyeti_url": "https://www.importyeti.com/company/away",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Kong",
+    "importyeti_url": "https://www.importyeti.com/company/kong",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Epidemic Sound",
+    "importyeti_url": "https://www.importyeti.com/company/epidemic-sound",
+    "company_country": "Sweden"
+  },
+  {
+    "company_name": "Yotpo",
+    "importyeti_url": "https://www.importyeti.com/company/yotpo",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Rebel Foods",
+    "importyeti_url": "https://www.importyeti.com/company/rebel-foods",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Coda",
+    "importyeti_url": "https://www.importyeti.com/company/coda",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Stash",
+    "importyeti_url": "https://www.importyeti.com/company/stash",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Rad Power Bikes",
+    "importyeti_url": "https://www.importyeti.com/company/rad-power-bikes",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Clarify Health",
+    "importyeti_url": "https://www.importyeti.com/company/clarify-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Bucketplace",
+    "importyeti_url": "https://www.importyeti.com/company/bucketplace",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "Paddle",
+    "importyeti_url": "https://www.importyeti.com/company/paddle",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "OneCard",
+    "importyeti_url": "https://www.importyeti.com/company/onecard",
+    "company_country": "India"
+  },
+  {
+    "company_name": "boAT",
+    "importyeti_url": "https://www.importyeti.com/company/boat",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Phenom People",
+    "importyeti_url": "https://www.importyeti.com/company/phenom-people",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "GupShup",
+    "importyeti_url": "https://www.importyeti.com/company/gupshup",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Degreed",
+    "importyeti_url": "https://www.importyeti.com/company/degreed",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Astranis Space Technologies",
+    "importyeti_url": "https://www.importyeti.com/company/astranis-space-technologies",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Scalable Capital",
+    "importyeti_url": "https://www.importyeti.com/company/scalable-capital",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "VideoAmp",
+    "importyeti_url": "https://www.importyeti.com/company/videoamp",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Panther Labs",
+    "importyeti_url": "https://www.importyeti.com/company/panther-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Salt Security",
+    "importyeti_url": "https://www.importyeti.com/company/salt-security",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Tripledot",
+    "importyeti_url": "https://www.importyeti.com/company/tripledot",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Nimble Rx",
+    "importyeti_url": "https://www.importyeti.com/company/nimble-rx",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Neon",
+    "importyeti_url": "https://www.importyeti.com/company/neon",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "Movable Ink",
+    "importyeti_url": "https://www.importyeti.com/company/movable-ink",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "DeepBlue Technology",
+    "importyeti_url": "https://www.importyeti.com/company/deepblue-technology",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Klook",
+    "importyeti_url": "https://www.importyeti.com/company/klook",
+    "company_country": "Hong Kong"
+  },
+  {
+    "company_name": "Yaoshibang",
+    "importyeti_url": "https://www.importyeti.com/company/yaoshibang",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Epirus",
+    "importyeti_url": "https://www.importyeti.com/company/epirus",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Signifyd",
+    "importyeti_url": "https://www.importyeti.com/company/signifyd",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Jaguar Microsystems",
+    "importyeti_url": "https://www.importyeti.com/company/jaguar-microsystems",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Motorway",
+    "importyeti_url": "https://www.importyeti.com/company/motorway",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "RIDI",
+    "importyeti_url": "https://www.importyeti.com/company/ridi",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "Flipboard",
+    "importyeti_url": "https://www.importyeti.com/company/flipboard",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "GPclub",
+    "importyeti_url": "https://www.importyeti.com/company/gpclub",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "Tongdun Technology",
+    "importyeti_url": "https://www.importyeti.com/company/tongdun-technology",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Athletic Greens",
+    "importyeti_url": "https://www.importyeti.com/company/athletic-greens",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Unisound",
+    "importyeti_url": "https://www.importyeti.com/company/unisound",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Alzheon",
+    "importyeti_url": "https://www.importyeti.com/company/alzheon",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "HeartFlow",
+    "importyeti_url": "https://www.importyeti.com/company/heartflow",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Shiprocket",
+    "importyeti_url": "https://www.importyeti.com/company/shiprocket",
+    "company_country": "India"
+  },
+  {
+    "company_name": "The Brandtech Group",
+    "importyeti_url": "https://www.importyeti.com/company/the-brandtech-group",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "InSightec",
+    "importyeti_url": "https://www.importyeti.com/company/insightec",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Everly Health",
+    "importyeti_url": "https://www.importyeti.com/company/everly-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Manner",
+    "importyeti_url": "https://www.importyeti.com/company/manner",
+    "company_country": "China"
+  },
+  {
+    "company_name": "TalkingData",
+    "importyeti_url": "https://www.importyeti.com/company/talkingdata",
+    "company_country": "China"
+  },
+  {
+    "company_name": "DistroKid",
+    "importyeti_url": "https://www.importyeti.com/company/distrokid",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Konfio",
+    "importyeti_url": "https://www.importyeti.com/company/konfio",
+    "company_country": "Mexico"
+  },
+  {
+    "company_name": "Betterment",
+    "importyeti_url": "https://www.importyeti.com/company/betterment",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Flock Freight",
+    "importyeti_url": "https://www.importyeti.com/company/flock-freight",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "YugaByte",
+    "importyeti_url": "https://www.importyeti.com/company/yugabyte",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Lukka",
+    "importyeti_url": "https://www.importyeti.com/company/lukka",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "TravelPerk",
+    "importyeti_url": "https://www.importyeti.com/company/travelperk",
+    "company_country": "Spain"
+  },
+  {
+    "company_name": "iTrustCapital",
+    "importyeti_url": "https://www.importyeti.com/company/itrustcapital",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Domestika",
+    "importyeti_url": "https://www.importyeti.com/company/domestika",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "CoinTracker",
+    "importyeti_url": "https://www.importyeti.com/company/cointracker",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Loadsmart",
+    "importyeti_url": "https://www.importyeti.com/company/loadsmart",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "TUNGEE",
+    "importyeti_url": "https://www.importyeti.com/company/tungee",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Yubi",
+    "importyeti_url": "https://www.importyeti.com/company/yubi",
+    "company_country": "India"
+  },
+  {
+    "company_name": "LinkTree",
+    "importyeti_url": "https://www.importyeti.com/company/linktree",
+    "company_country": "Australia"
+  },
+  {
+    "company_name": "Island",
+    "importyeti_url": "https://www.importyeti.com/company/island",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Clipboard Health",
+    "importyeti_url": "https://www.importyeti.com/company/clipboard-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Biofourmis",
+    "importyeti_url": "https://www.importyeti.com/company/biofourmis",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "STORD",
+    "importyeti_url": "https://www.importyeti.com/company/stord",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Optibus",
+    "importyeti_url": "https://www.importyeti.com/company/optibus",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Equashield",
+    "importyeti_url": "https://www.importyeti.com/company/equashield",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Intercom",
+    "importyeti_url": "https://www.importyeti.com/company/intercom",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "OVO Energy",
+    "importyeti_url": "https://www.importyeti.com/company/ovo-energy",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Huisuanzhang",
+    "importyeti_url": "https://www.importyeti.com/company/huisuanzhang",
+    "company_country": "China"
+  },
+  {
+    "company_name": "WTOIP",
+    "importyeti_url": "https://www.importyeti.com/company/wtoip",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Greater Bay Technology",
+    "importyeti_url": "https://www.importyeti.com/company/greater-bay-technology",
+    "company_country": "China"
+  },
+  {
+    "company_name": "JMGO",
+    "importyeti_url": "https://www.importyeti.com/company/jmgo",
+    "company_country": "China"
+  },
+  {
+    "company_name": "BigID",
+    "importyeti_url": "https://www.importyeti.com/company/bigid",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Kuaikan Manhua",
+    "importyeti_url": "https://www.importyeti.com/company/kuaikan-manhua",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Marshmallow",
+    "importyeti_url": "https://www.importyeti.com/company/marshmallow",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Honor Technology",
+    "importyeti_url": "https://www.importyeti.com/company/honor-technology",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Mythical Games",
+    "importyeti_url": "https://www.importyeti.com/company/mythical-games",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Incode Technologies",
+    "importyeti_url": "https://www.importyeti.com/company/incode-technologies",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Tackle.io",
+    "importyeti_url": "https://www.importyeti.com/company/tackleio",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Flipdish",
+    "importyeti_url": "https://www.importyeti.com/company/flipdish",
+    "company_country": "Ireland"
+  },
+  {
+    "company_name": "Route",
+    "importyeti_url": "https://www.importyeti.com/company/route",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "CaptivateIQ",
+    "importyeti_url": "https://www.importyeti.com/company/captivateiq",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "airSlate",
+    "importyeti_url": "https://www.importyeti.com/company/airslate",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ClassDojo",
+    "importyeti_url": "https://www.importyeti.com/company/classdojo",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "BrewDog",
+    "importyeti_url": "https://www.importyeti.com/company/brewdog",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Enflame",
+    "importyeti_url": "https://www.importyeti.com/company/enflame",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Shulan Health",
+    "importyeti_url": "https://www.importyeti.com/company/shulan-health",
+    "company_country": "China"
+  },
+  {
+    "company_name": "SeatGeek",
+    "importyeti_url": "https://www.importyeti.com/company/seatgeek",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "EQRx",
+    "importyeti_url": "https://www.importyeti.com/company/eqrx",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Nexii",
+    "importyeti_url": "https://www.importyeti.com/company/nexii",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "inDriver",
+    "importyeti_url": "https://www.importyeti.com/company/indriver",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Spiber",
+    "importyeti_url": "https://www.importyeti.com/company/spiber",
+    "company_country": "Japan"
+  },
+  {
+    "company_name": "Insider",
+    "importyeti_url": "https://www.importyeti.com/company/insider",
+    "company_country": "Turkey"
+  },
+  {
+    "company_name": "Kallyope",
+    "importyeti_url": "https://www.importyeti.com/company/kallyope",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Zip",
+    "importyeti_url": "https://www.importyeti.com/company/zip",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Yiguo",
+    "importyeti_url": "https://www.importyeti.com/company/yiguo",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Fair",
+    "importyeti_url": "https://www.importyeti.com/company/fair",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Glossier",
+    "importyeti_url": "https://www.importyeti.com/company/glossier",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Workhuman",
+    "importyeti_url": "https://www.importyeti.com/company/workhuman",
+    "company_country": "Ireland"
+  },
+  {
+    "company_name": "Qumulo",
+    "importyeti_url": "https://www.importyeti.com/company/qumulo",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Tealium",
+    "importyeti_url": "https://www.importyeti.com/company/tealium",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Public",
+    "importyeti_url": "https://www.importyeti.com/company/public",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pipa Coding",
+    "importyeti_url": "https://www.importyeti.com/company/pipa-coding",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Pilot.com",
+    "importyeti_url": "https://www.importyeti.com/company/pilotcom",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Aibee",
+    "importyeti_url": "https://www.importyeti.com/company/aibee",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Cava Group",
+    "importyeti_url": "https://www.importyeti.com/company/cava-group",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Vectra Networks",
+    "importyeti_url": "https://www.importyeti.com/company/vectra-networks",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Ada Support",
+    "importyeti_url": "https://www.importyeti.com/company/ada-support",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "SmartMore",
+    "importyeti_url": "https://www.importyeti.com/company/smartmore",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Rohlik Group",
+    "importyeti_url": "https://www.importyeti.com/company/rohlik-group",
+    "company_country": "Czech Republic"
+  },
+  {
+    "company_name": "Prime Medicine",
+    "importyeti_url": "https://www.importyeti.com/company/prime-medicine",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "FloQast",
+    "importyeti_url": "https://www.importyeti.com/company/floqast",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "MindTickle",
+    "importyeti_url": "https://www.importyeti.com/company/mindtickle",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "DailyPay",
+    "importyeti_url": "https://www.importyeti.com/company/dailypay",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Offchain Labs",
+    "importyeti_url": "https://www.importyeti.com/company/offchain-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Copado",
+    "importyeti_url": "https://www.importyeti.com/company/copado",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Gem",
+    "importyeti_url": "https://www.importyeti.com/company/gem",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "CarDekho",
+    "importyeti_url": "https://www.importyeti.com/company/cardekho",
+    "company_country": "India"
+  },
+  {
+    "company_name": "MyGlamm",
+    "importyeti_url": "https://www.importyeti.com/company/myglamm",
+    "company_country": "India"
+  },
+  {
+    "company_name": "AgentSync",
+    "importyeti_url": "https://www.importyeti.com/company/agentsync",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pristyn Care",
+    "importyeti_url": "https://www.importyeti.com/company/pristyn-care",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Jokr",
+    "importyeti_url": "https://www.importyeti.com/company/jokr",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Merama",
+    "importyeti_url": "https://www.importyeti.com/company/merama",
+    "company_country": "Mexico"
+  },
+  {
+    "company_name": "SeekOut",
+    "importyeti_url": "https://www.importyeti.com/company/seekout",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "BigPanda",
+    "importyeti_url": "https://www.importyeti.com/company/bigpanda",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Phantom",
+    "importyeti_url": "https://www.importyeti.com/company/phantom",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "LivSpace",
+    "importyeti_url": "https://www.importyeti.com/company/livspace",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Xpressbees",
+    "importyeti_url": "https://www.importyeti.com/company/xpressbees",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Nova Labs",
+    "importyeti_url": "https://www.importyeti.com/company/nova-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Choco",
+    "importyeti_url": "https://www.importyeti.com/company/choco",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Viz.ai",
+    "importyeti_url": "https://www.importyeti.com/company/vizai",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Unit",
+    "importyeti_url": "https://www.importyeti.com/company/unit",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "stori",
+    "importyeti_url": "https://www.importyeti.com/company/stori",
+    "company_country": "Mexico"
+  },
+  {
+    "company_name": "Spectrum Medical",
+    "importyeti_url": "https://www.importyeti.com/company/spectrum-medical",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Swiftly",
+    "importyeti_url": "https://www.importyeti.com/company/swiftly",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "CloudBees",
+    "importyeti_url": "https://www.importyeti.com/company/cloudbees",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "L&P Cosmetic",
+    "importyeti_url": "https://www.importyeti.com/company/l-p-cosmetic",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "Mininglamp Technology",
+    "importyeti_url": "https://www.importyeti.com/company/mininglamp-technology",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Luoji Siwei",
+    "importyeti_url": "https://www.importyeti.com/company/luoji-siwei",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Yimidida",
+    "importyeti_url": "https://www.importyeti.com/company/yimidida",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Modern Health",
+    "importyeti_url": "https://www.importyeti.com/company/modern-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "IRL",
+    "importyeti_url": "https://www.importyeti.com/company/irl",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Tuhu",
+    "importyeti_url": "https://www.importyeti.com/company/tuhu",
+    "company_country": "China"
+  },
+  {
+    "company_name": "SOURCE Global",
+    "importyeti_url": "https://www.importyeti.com/company/source-global",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "LifeMiles",
+    "importyeti_url": "https://www.importyeti.com/company/lifemiles",
+    "company_country": "Colombia"
+  },
+  {
+    "company_name": "Venafi",
+    "importyeti_url": "https://www.importyeti.com/company/venafi",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Guideline",
+    "importyeti_url": "https://www.importyeti.com/company/guideline",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Rebellion Defense",
+    "importyeti_url": "https://www.importyeti.com/company/rebellion-defense",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Elemy",
+    "importyeti_url": "https://www.importyeti.com/company/elemy",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Happy Money",
+    "importyeti_url": "https://www.importyeti.com/company/happy-money",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "TELD",
+    "importyeti_url": "https://www.importyeti.com/company/teld",
+    "company_country": "China"
+  },
+  {
+    "company_name": "DANA",
+    "importyeti_url": "https://www.importyeti.com/company/dana",
+    "company_country": "Indonesia"
+  },
+  {
+    "company_name": "At-Bay",
+    "importyeti_url": "https://www.importyeti.com/company/at-bay",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Visby Medical",
+    "importyeti_url": "https://www.importyeti.com/company/visby-medical",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Invoca",
+    "importyeti_url": "https://www.importyeti.com/company/invoca",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Wasabi",
+    "importyeti_url": "https://www.importyeti.com/company/wasabi",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Flexe",
+    "importyeti_url": "https://www.importyeti.com/company/flexe",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "TangoMe",
+    "importyeti_url": "https://www.importyeti.com/company/tangome",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "AppDirect",
+    "importyeti_url": "https://www.importyeti.com/company/appdirect",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Juanpi",
+    "importyeti_url": "https://www.importyeti.com/company/juanpi",
+    "company_country": "China"
+  },
+  {
+    "company_name": "OVH",
+    "importyeti_url": "https://www.importyeti.com/company/ovh",
+    "company_country": "France"
+  },
+  {
+    "company_name": "GetYourGuide",
+    "importyeti_url": "https://www.importyeti.com/company/getyourguide",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Ivalua",
+    "importyeti_url": "https://www.importyeti.com/company/ivalua",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Sisense",
+    "importyeti_url": "https://www.importyeti.com/company/sisense",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pharmapacks",
+    "importyeti_url": "https://www.importyeti.com/company/pharmapacks",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Sennder",
+    "importyeti_url": "https://www.importyeti.com/company/sennder",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Nexthink",
+    "importyeti_url": "https://www.importyeti.com/company/nexthink",
+    "company_country": "Switzerland"
+  },
+  {
+    "company_name": "Zego",
+    "importyeti_url": "https://www.importyeti.com/company/zego",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Rightway",
+    "importyeti_url": "https://www.importyeti.com/company/rightway",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Sunbit",
+    "importyeti_url": "https://www.importyeti.com/company/sunbit",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Qingting FM",
+    "importyeti_url": "https://www.importyeti.com/company/qingting-fm",
+    "company_country": "China"
+  },
+  {
+    "company_name": "G2",
+    "importyeti_url": "https://www.importyeti.com/company/g2",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Hailo",
+    "importyeti_url": "https://www.importyeti.com/company/hailo",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Caribou",
+    "importyeti_url": "https://www.importyeti.com/company/caribou",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Nowports",
+    "importyeti_url": "https://www.importyeti.com/company/nowports",
+    "company_country": "Mexico"
+  },
+  {
+    "company_name": "People.ai",
+    "importyeti_url": "https://www.importyeti.com/company/peopleai",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Carousell",
+    "importyeti_url": "https://www.importyeti.com/company/carousell",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "apna",
+    "importyeti_url": "https://www.importyeti.com/company/apna",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Karat",
+    "importyeti_url": "https://www.importyeti.com/company/karat",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Enpal",
+    "importyeti_url": "https://www.importyeti.com/company/enpal",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Acko General Insurance",
+    "importyeti_url": "https://www.importyeti.com/company/acko-general-insurance",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Daily Harvest",
+    "importyeti_url": "https://www.importyeti.com/company/daily-harvest",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "The Bank of London",
+    "importyeti_url": "https://www.importyeti.com/company/the-bank-of-london",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Fundbox",
+    "importyeti_url": "https://www.importyeti.com/company/fundbox",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Turing",
+    "importyeti_url": "https://www.importyeti.com/company/turing",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "GlobalBees",
+    "importyeti_url": "https://www.importyeti.com/company/globalbees",
+    "company_country": "India"
+  },
+  {
+    "company_name": "LEAD School",
+    "importyeti_url": "https://www.importyeti.com/company/lead-school",
+    "company_country": "India"
+  },
+  {
+    "company_name": "eSentire",
+    "importyeti_url": "https://www.importyeti.com/company/esentire",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "Beyond Identity",
+    "importyeti_url": "https://www.importyeti.com/company/beyond-identity",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Staffbase",
+    "importyeti_url": "https://www.importyeti.com/company/staffbase",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Chief",
+    "importyeti_url": "https://www.importyeti.com/company/chief",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "IntelyCare",
+    "importyeti_url": "https://www.importyeti.com/company/intelycare",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Teleport",
+    "importyeti_url": "https://www.importyeti.com/company/teleport",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Imply Data",
+    "importyeti_url": "https://www.importyeti.com/company/imply-data",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Material Security",
+    "importyeti_url": "https://www.importyeti.com/company/material-security",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "PhysicsWallah",
+    "importyeti_url": "https://www.importyeti.com/company/physicswallah",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Recover",
+    "importyeti_url": "https://www.importyeti.com/company/recover",
+    "company_country": "Spain"
+  },
+  {
+    "company_name": "Purplle",
+    "importyeti_url": "https://www.importyeti.com/company/purplle",
+    "company_country": "India"
+  },
+  {
+    "company_name": "CAIS",
+    "importyeti_url": "https://www.importyeti.com/company/cais",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Nxin",
+    "importyeti_url": "https://www.importyeti.com/company/nxin",
+    "company_country": "China"
+  },
+  {
+    "company_name": "UISEE Technology",
+    "importyeti_url": "https://www.importyeti.com/company/uisee-technology",
+    "company_country": "China"
+  },
+  {
+    "company_name": "56PINGTAI",
+    "importyeti_url": "https://www.importyeti.com/company/56pingtai",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Cirkul",
+    "importyeti_url": "https://www.importyeti.com/company/cirkul",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Radius Payment Solutions",
+    "importyeti_url": "https://www.importyeti.com/company/radius-payment-solutions",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Rivigo",
+    "importyeti_url": "https://www.importyeti.com/company/rivigo",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Mamaearth",
+    "importyeti_url": "https://www.importyeti.com/company/mamaearth",
+    "company_country": "India"
+  },
+  {
+    "company_name": "0x",
+    "importyeti_url": "https://www.importyeti.com/company/0x",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Jiuxian",
+    "importyeti_url": "https://www.importyeti.com/company/jiuxian",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Instabase",
+    "importyeti_url": "https://www.importyeti.com/company/instabase",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Sendbird",
+    "importyeti_url": "https://www.importyeti.com/company/sendbird",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Density",
+    "importyeti_url": "https://www.importyeti.com/company/density",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Mixpanel",
+    "importyeti_url": "https://www.importyeti.com/company/mixpanel",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Branch",
+    "importyeti_url": "https://www.importyeti.com/company/branch",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Aprogen",
+    "importyeti_url": "https://www.importyeti.com/company/aprogen",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "OrCam Technologies",
+    "importyeti_url": "https://www.importyeti.com/company/orcam-technologies",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Ample",
+    "importyeti_url": "https://www.importyeti.com/company/ample",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "BlackBuck",
+    "importyeti_url": "https://www.importyeti.com/company/blackbuck",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Leap Motor",
+    "importyeti_url": "https://www.importyeti.com/company/leap-motor",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Wheel",
+    "importyeti_url": "https://www.importyeti.com/company/wheel",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Flow",
+    "importyeti_url": "https://www.importyeti.com/company/flow",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Xanadu",
+    "importyeti_url": "https://www.importyeti.com/company/xanadu",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "LINE MAN Wongnai",
+    "importyeti_url": "https://www.importyeti.com/company/line-man-wongnai",
+    "company_country": "Thailand"
+  },
+  {
+    "company_name": "Celestia",
+    "importyeti_url": "https://www.importyeti.com/company/celestia",
+    "company_country": "Liechtenstein"
+  },
+  {
+    "company_name": "Stability AI",
+    "importyeti_url": "https://www.importyeti.com/company/stability-ai",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Vesttoo",
+    "importyeti_url": "https://www.importyeti.com/company/vesttoo",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Satispay",
+    "importyeti_url": "https://www.importyeti.com/company/satispay",
+    "company_country": "Italy"
+  },
+  {
+    "company_name": "Paystand",
+    "importyeti_url": "https://www.importyeti.com/company/paystand",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Turntide Technologies",
+    "importyeti_url": "https://www.importyeti.com/company/turntide-technologies",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "EcoVadis",
+    "importyeti_url": "https://www.importyeti.com/company/ecovadis",
+    "company_country": "France"
+  },
+  {
+    "company_name": "TransferMate",
+    "importyeti_url": "https://www.importyeti.com/company/transfermate",
+    "company_country": "Ireland"
+  },
+  {
+    "company_name": "Lookout",
+    "importyeti_url": "https://www.importyeti.com/company/lookout",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Perimeter 81",
+    "importyeti_url": "https://www.importyeti.com/company/perimeter-81",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Snapdeal",
+    "importyeti_url": "https://www.importyeti.com/company/snapdeal",
+    "company_country": "India"
+  },
+  {
+    "company_name": "TechStyle Fashion Group",
+    "importyeti_url": "https://www.importyeti.com/company/techstyle-fashion-group",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Zebec",
+    "importyeti_url": "https://www.importyeti.com/company/zebec",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "InMobi",
+    "importyeti_url": "https://www.importyeti.com/company/inmobi",
+    "company_country": "India"
+  },
+  {
+    "company_name": "LinkSure Network",
+    "importyeti_url": "https://www.importyeti.com/company/linksure-network",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Red Ventures",
+    "importyeti_url": "https://www.importyeti.com/company/red-ventures",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "BeiBei",
+    "importyeti_url": "https://www.importyeti.com/company/beibei",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Lamabang",
+    "importyeti_url": "https://www.importyeti.com/company/lamabang",
+    "company_country": "China"
+  },
+  {
+    "company_name": "JimuBox",
+    "importyeti_url": "https://www.importyeti.com/company/jimubox",
+    "company_country": "China"
+  },
+  {
+    "company_name": "FXiaoKe",
+    "importyeti_url": "https://www.importyeti.com/company/fxiaoke",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Vox Media",
+    "importyeti_url": "https://www.importyeti.com/company/vox-media",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Mia.com",
+    "importyeti_url": "https://www.importyeti.com/company/miacom",
+    "company_country": "China"
+  },
+  {
+    "company_name": "58 Daojia",
+    "importyeti_url": "https://www.importyeti.com/company/58-daojia",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Womai",
+    "importyeti_url": "https://www.importyeti.com/company/womai",
+    "company_country": "China"
+  },
+  {
+    "company_name": "HuJiang",
+    "importyeti_url": "https://www.importyeti.com/company/hujiang",
+    "company_country": "China"
+  },
+  {
+    "company_name": "iTutorGroup",
+    "importyeti_url": "https://www.importyeti.com/company/itutorgroup",
+    "company_country": "China"
+  },
+  {
+    "company_name": "MindMaze",
+    "importyeti_url": "https://www.importyeti.com/company/mindmaze",
+    "company_country": "Switzerland"
+  },
+  {
+    "company_name": "iCarbonX",
+    "importyeti_url": "https://www.importyeti.com/company/icarbonx",
+    "company_country": "China"
+  },
+  {
+    "company_name": "SMS Assist",
+    "importyeti_url": "https://www.importyeti.com/company/sms-assist",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Kendra Scott",
+    "importyeti_url": "https://www.importyeti.com/company/kendra-scott",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Mobvoi",
+    "importyeti_url": "https://www.importyeti.com/company/mobvoi",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Zhuan Zhuan",
+    "importyeti_url": "https://www.importyeti.com/company/zhuan-zhuan",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Modernizing Medicine",
+    "importyeti_url": "https://www.importyeti.com/company/modernizing-medicine",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Zhaogang",
+    "importyeti_url": "https://www.importyeti.com/company/zhaogang",
+    "company_country": "China"
+  },
+  {
+    "company_name": "DianRong",
+    "importyeti_url": "https://www.importyeti.com/company/dianrong",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Cell C",
+    "importyeti_url": "https://www.importyeti.com/company/cell-c",
+    "company_country": "South Africa"
+  },
+  {
+    "company_name": "YH Global",
+    "importyeti_url": "https://www.importyeti.com/company/yh-global",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Revolution Precrafted",
+    "importyeti_url": "https://www.importyeti.com/company/revolution-precrafted",
+    "company_country": "Philippines"
+  },
+  {
+    "company_name": "WeLab",
+    "importyeti_url": "https://www.importyeti.com/company/welab",
+    "company_country": "Hong Kong"
+  },
+  {
+    "company_name": "Maimai",
+    "importyeti_url": "https://www.importyeti.com/company/maimai",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Dxy.cn",
+    "importyeti_url": "https://www.importyeti.com/company/dxycn",
+    "company_country": "China"
+  },
+  {
+    "company_name": "HMD Global",
+    "importyeti_url": "https://www.importyeti.com/company/hmd-global",
+    "company_country": "Finland"
+  },
+  {
+    "company_name": "Huike Group",
+    "importyeti_url": "https://www.importyeti.com/company/huike-group",
+    "company_country": "China"
+  },
+  {
+    "company_name": "China Cloud",
+    "importyeti_url": "https://www.importyeti.com/company/china-cloud",
+    "company_country": "China"
+  },
+  {
+    "company_name": "LinkDoc Technology",
+    "importyeti_url": "https://www.importyeti.com/company/linkdoc-technology",
+    "company_country": "China"
+  },
+  {
+    "company_name": "MediaMath",
+    "importyeti_url": "https://www.importyeti.com/company/mediamath",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Movile",
+    "importyeti_url": "https://www.importyeti.com/company/movile",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "Pat McGrath Labs",
+    "importyeti_url": "https://www.importyeti.com/company/pat-mcgrath-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Wacai",
+    "importyeti_url": "https://www.importyeti.com/company/wacai",
+    "company_country": "China"
+  },
+  {
+    "company_name": "FlashEx",
+    "importyeti_url": "https://www.importyeti.com/company/flashex",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Banma Network Technologies",
+    "importyeti_url": "https://www.importyeti.com/company/banma-network-technologies",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Tresata",
+    "importyeti_url": "https://www.importyeti.com/company/tresata",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Momenta",
+    "importyeti_url": "https://www.importyeti.com/company/momenta",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Hosjoy",
+    "importyeti_url": "https://www.importyeti.com/company/hosjoy",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Omio",
+    "importyeti_url": "https://www.importyeti.com/company/omio",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "TERMINUS Technology",
+    "importyeti_url": "https://www.importyeti.com/company/terminus-technology",
+    "company_country": "China"
+  },
+  {
+    "company_name": "BitFury",
+    "importyeti_url": "https://www.importyeti.com/company/bitfury",
+    "company_country": "Netherlands"
+  },
+  {
+    "company_name": "REEF Technology",
+    "importyeti_url": "https://www.importyeti.com/company/reef-technology",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Globality",
+    "importyeti_url": "https://www.importyeti.com/company/globality",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Ynsect",
+    "importyeti_url": "https://www.importyeti.com/company/ynsect",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Intellifusion",
+    "importyeti_url": "https://www.importyeti.com/company/intellifusion",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Poizon",
+    "importyeti_url": "https://www.importyeti.com/company/poizon",
+    "company_country": "China"
+  },
+  {
+    "company_name": "SITECH DEV",
+    "importyeti_url": "https://www.importyeti.com/company/sitech-dev",
+    "company_country": "China"
+  },
+  {
+    "company_name": "KnowBox",
+    "importyeti_url": "https://www.importyeti.com/company/knowbox",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Yanolja",
+    "importyeti_url": "https://www.importyeti.com/company/yanolja",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "Meero",
+    "importyeti_url": "https://www.importyeti.com/company/meero",
+    "company_country": "France"
+  },
+  {
+    "company_name": "Ibotta",
+    "importyeti_url": "https://www.importyeti.com/company/ibotta",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "C2FO",
+    "importyeti_url": "https://www.importyeti.com/company/c2fo",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Numbrs",
+    "importyeti_url": "https://www.importyeti.com/company/numbrs",
+    "company_country": "Switzerland"
+  },
+  {
+    "company_name": "EBANX",
+    "importyeti_url": "https://www.importyeti.com/company/ebanx",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "KK Group",
+    "importyeti_url": "https://www.importyeti.com/company/kk-group",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Alto Pharmacy",
+    "importyeti_url": "https://www.importyeti.com/company/alto-pharmacy",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Hotmart",
+    "importyeti_url": "https://www.importyeti.com/company/hotmart",
+    "company_country": "Netherlands"
+  },
+  {
+    "company_name": "Emerging Markets Property Group",
+    "importyeti_url": "https://www.importyeti.com/company/emerging-markets-property-group",
+    "company_country": "United Arab Emirates"
+  },
+  {
+    "company_name": "Quizlet",
+    "importyeti_url": "https://www.importyeti.com/company/quizlet",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Orca Bio",
+    "importyeti_url": "https://www.importyeti.com/company/orca-bio",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Infobip",
+    "importyeti_url": "https://www.importyeti.com/company/infobip",
+    "company_country": "Croatia"
+  },
+  {
+    "company_name": "Zwift",
+    "importyeti_url": "https://www.importyeti.com/company/zwift",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Playco",
+    "importyeti_url": "https://www.importyeti.com/company/playco",
+    "company_country": "Japan"
+  },
+  {
+    "company_name": "Gousto",
+    "importyeti_url": "https://www.importyeti.com/company/gousto",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Alation",
+    "importyeti_url": "https://www.importyeti.com/company/alation",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Boom Supersonic",
+    "importyeti_url": "https://www.importyeti.com/company/boom-supersonic",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Quantum Metric",
+    "importyeti_url": "https://www.importyeti.com/company/quantum-metric",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "News Break",
+    "importyeti_url": "https://www.importyeti.com/company/news-break",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "MadeiraMadeira",
+    "importyeti_url": "https://www.importyeti.com/company/madeiramadeira",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "PPRO",
+    "importyeti_url": "https://www.importyeti.com/company/ppro",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Splashtop",
+    "importyeti_url": "https://www.importyeti.com/company/splashtop",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Flash Express",
+    "importyeti_url": "https://www.importyeti.com/company/flash-express",
+    "company_country": "Thailand"
+  },
+  {
+    "company_name": "Axiom Space",
+    "importyeti_url": "https://www.importyeti.com/company/axiom-space",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Locus Robotics",
+    "importyeti_url": "https://www.importyeti.com/company/locus-robotics",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Standard",
+    "importyeti_url": "https://www.importyeti.com/company/standard",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "WeBull",
+    "importyeti_url": "https://www.importyeti.com/company/webull",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Skydio",
+    "importyeti_url": "https://www.importyeti.com/company/skydio",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Newsela",
+    "importyeti_url": "https://www.importyeti.com/company/newsela",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Aqua Security",
+    "importyeti_url": "https://www.importyeti.com/company/aqua-security",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "PatSnap",
+    "importyeti_url": "https://www.importyeti.com/company/patsnap",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "Evidation",
+    "importyeti_url": "https://www.importyeti.com/company/evidation",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Sidecar Health",
+    "importyeti_url": "https://www.importyeti.com/company/sidecar-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Feedzai",
+    "importyeti_url": "https://www.importyeti.com/company/feedzai",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Yunxuetang",
+    "importyeti_url": "https://www.importyeti.com/company/yunxuetang",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Cameo",
+    "importyeti_url": "https://www.importyeti.com/company/cameo",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Hyperchain",
+    "importyeti_url": "https://www.importyeti.com/company/hyperchain",
+    "company_country": "China"
+  },
+  {
+    "company_name": "The Zebra",
+    "importyeti_url": "https://www.importyeti.com/company/the-zebra",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Clearcover",
+    "importyeti_url": "https://www.importyeti.com/company/clearcover",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Groq",
+    "importyeti_url": "https://www.importyeti.com/company/groq",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Fiture",
+    "importyeti_url": "https://www.importyeti.com/company/fiture",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Injective Protocol",
+    "importyeti_url": "https://www.importyeti.com/company/injective-protocol",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Sift",
+    "importyeti_url": "https://www.importyeti.com/company/sift",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "SaltPay",
+    "importyeti_url": "https://www.importyeti.com/company/saltpay",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Capsule",
+    "importyeti_url": "https://www.importyeti.com/company/capsule",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "MOLOCO",
+    "importyeti_url": "https://www.importyeti.com/company/moloco",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Inari",
+    "importyeti_url": "https://www.importyeti.com/company/inari",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Mux",
+    "importyeti_url": "https://www.importyeti.com/company/mux",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "XForcePlus",
+    "importyeti_url": "https://www.importyeti.com/company/xforceplus",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Firefly Aerospace",
+    "importyeti_url": "https://www.importyeti.com/company/firefly-aerospace",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Augustinus Bader",
+    "importyeti_url": "https://www.importyeti.com/company/augustinus-bader",
+    "company_country": "London"
+  },
+  {
+    "company_name": "Shift Technology",
+    "importyeti_url": "https://www.importyeti.com/company/shift-technology",
+    "company_country": "France"
+  },
+  {
+    "company_name": "TensTorrent",
+    "importyeti_url": "https://www.importyeti.com/company/tenstorrent",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "Zihaiguo",
+    "importyeti_url": "https://www.importyeti.com/company/zihaiguo",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Forte Labs",
+    "importyeti_url": "https://www.importyeti.com/company/forte-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Axtria",
+    "importyeti_url": "https://www.importyeti.com/company/axtria",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Amount",
+    "importyeti_url": "https://www.importyeti.com/company/amount",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Vise",
+    "importyeti_url": "https://www.importyeti.com/company/vise",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Printful",
+    "importyeti_url": "https://www.importyeti.com/company/printful",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Matrixport",
+    "importyeti_url": "https://www.importyeti.com/company/matrixport",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "Shippo",
+    "importyeti_url": "https://www.importyeti.com/company/shippo",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Thirty Madison",
+    "importyeti_url": "https://www.importyeti.com/company/thirty-madison",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "LetsGetChecked",
+    "importyeti_url": "https://www.importyeti.com/company/letsgetchecked",
+    "company_country": "Ireland"
+  },
+  {
+    "company_name": "EcoFlow",
+    "importyeti_url": "https://www.importyeti.com/company/ecoflow",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Carro",
+    "importyeti_url": "https://www.importyeti.com/company/carro",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "Tractable",
+    "importyeti_url": "https://www.importyeti.com/company/tractable",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Xiaoe Tech",
+    "importyeti_url": "https://www.importyeti.com/company/xiaoe-tech",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Bringg",
+    "importyeti_url": "https://www.importyeti.com/company/bringg",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Claroty",
+    "importyeti_url": "https://www.importyeti.com/company/claroty",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "JoyTunes",
+    "importyeti_url": "https://www.importyeti.com/company/joytunes",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Aircall",
+    "importyeti_url": "https://www.importyeti.com/company/aircall",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Worldcoin",
+    "importyeti_url": "https://www.importyeti.com/company/worldcoin",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "SmartAsset",
+    "importyeti_url": "https://www.importyeti.com/company/smartasset",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Morning Consult",
+    "importyeti_url": "https://www.importyeti.com/company/morning-consult",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Visier",
+    "importyeti_url": "https://www.importyeti.com/company/visier",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "ShipBob",
+    "importyeti_url": "https://www.importyeti.com/company/shipbob",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "MobileCoin",
+    "importyeti_url": "https://www.importyeti.com/company/mobilecoin",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Amperity",
+    "importyeti_url": "https://www.importyeti.com/company/amperity",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pantheon Systems",
+    "importyeti_url": "https://www.importyeti.com/company/pantheon-systems",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Xiaobing",
+    "importyeti_url": "https://www.importyeti.com/company/xiaobing",
+    "company_country": "China"
+  },
+  {
+    "company_name": "dMed Biopharmaceutical",
+    "importyeti_url": "https://www.importyeti.com/company/dmed-biopharmaceutical",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Carson Group",
+    "importyeti_url": "https://www.importyeti.com/company/carson-group",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Interos",
+    "importyeti_url": "https://www.importyeti.com/company/interos",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "NIUM",
+    "importyeti_url": "https://www.importyeti.com/company/nium",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "Human Interest",
+    "importyeti_url": "https://www.importyeti.com/company/human-interest",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Bluecore",
+    "importyeti_url": "https://www.importyeti.com/company/bluecore",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Freshbooks",
+    "importyeti_url": "https://www.importyeti.com/company/freshbooks",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "Snorkel AI",
+    "importyeti_url": "https://www.importyeti.com/company/snorkel-ai",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Gelato",
+    "importyeti_url": "https://www.importyeti.com/company/gelato",
+    "company_country": "Norway"
+  },
+  {
+    "company_name": "Maven Clinic",
+    "importyeti_url": "https://www.importyeti.com/company/maven-clinic",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "PicsArt",
+    "importyeti_url": "https://www.importyeti.com/company/picsart",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "1KMXC",
+    "importyeti_url": "https://www.importyeti.com/company/1kmxc",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Cider",
+    "importyeti_url": "https://www.importyeti.com/company/cider",
+    "company_country": "Hong Kong"
+  },
+  {
+    "company_name": "Berlin Brands Group",
+    "importyeti_url": "https://www.importyeti.com/company/berlin-brands-group",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Agile Robots",
+    "importyeti_url": "https://www.importyeti.com/company/agile-robots",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Mammoth Biosciences",
+    "importyeti_url": "https://www.importyeti.com/company/mammoth-biosciences",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Orchard",
+    "importyeti_url": "https://www.importyeti.com/company/orchard",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Xendit",
+    "importyeti_url": "https://www.importyeti.com/company/xendit",
+    "company_country": "Indonesia"
+  },
+  {
+    "company_name": "TrueLayer",
+    "importyeti_url": "https://www.importyeti.com/company/truelayer",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Assembly",
+    "importyeti_url": "https://www.importyeti.com/company/assembly",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "PandaDoc",
+    "importyeti_url": "https://www.importyeti.com/company/pandadoc",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Keenon Robotics",
+    "importyeti_url": "https://www.importyeti.com/company/keenon-robotics",
+    "company_country": "China"
+  },
+  {
+    "company_name": "HAYDON",
+    "importyeti_url": "https://www.importyeti.com/company/haydon",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Ninja Van",
+    "importyeti_url": "https://www.importyeti.com/company/ninja-van",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "Vedantu",
+    "importyeti_url": "https://www.importyeti.com/company/vedantu",
+    "company_country": "India"
+  },
+  {
+    "company_name": "TrialSpark",
+    "importyeti_url": "https://www.importyeti.com/company/trialspark",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Ajaib",
+    "importyeti_url": "https://www.importyeti.com/company/ajaib",
+    "company_country": "Indonesia"
+  },
+  {
+    "company_name": "Licious",
+    "importyeti_url": "https://www.importyeti.com/company/licious",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Masterworks",
+    "importyeti_url": "https://www.importyeti.com/company/masterworks",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Chronosphere",
+    "importyeti_url": "https://www.importyeti.com/company/chronosphere",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Solo.io",
+    "importyeti_url": "https://www.importyeti.com/company/soloio",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Savage X Fenty",
+    "importyeti_url": "https://www.importyeti.com/company/savage-x-fenty",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Swile",
+    "importyeti_url": "https://www.importyeti.com/company/swile",
+    "company_country": "France"
+  },
+  {
+    "company_name": "MobiKwik",
+    "importyeti_url": "https://www.importyeti.com/company/mobikwik",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Weights & Biases",
+    "importyeti_url": "https://www.importyeti.com/company/weights-biases",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Zopa",
+    "importyeti_url": "https://www.importyeti.com/company/zopa",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Dental Monitoring",
+    "importyeti_url": "https://www.importyeti.com/company/dental-monitoring",
+    "company_country": "France"
+  },
+  {
+    "company_name": "CargoX",
+    "importyeti_url": "https://www.importyeti.com/company/cargox",
+    "company_country": "Brazil"
+  },
+  {
+    "company_name": "Fabric",
+    "importyeti_url": "https://www.importyeti.com/company/fabric",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Augury",
+    "importyeti_url": "https://www.importyeti.com/company/augury",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Moka",
+    "importyeti_url": "https://www.importyeti.com/company/moka",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Tezign",
+    "importyeti_url": "https://www.importyeti.com/company/tezign",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Vagaro",
+    "importyeti_url": "https://www.importyeti.com/company/vagaro",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Drata",
+    "importyeti_url": "https://www.importyeti.com/company/drata",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Razor",
+    "importyeti_url": "https://www.importyeti.com/company/razor",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "IGAWorks",
+    "importyeti_url": "https://www.importyeti.com/company/igaworks",
+    "company_country": "South Korea"
+  },
+  {
+    "company_name": "Contrast Security",
+    "importyeti_url": "https://www.importyeti.com/company/contrast-security",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Wrapbook",
+    "importyeti_url": "https://www.importyeti.com/company/wrapbook",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Gaussian Robotics",
+    "importyeti_url": "https://www.importyeti.com/company/gaussian-robotics",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Mensa Brands",
+    "importyeti_url": "https://www.importyeti.com/company/mensa-brands",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Heyday",
+    "importyeti_url": "https://www.importyeti.com/company/heyday",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "PLACE",
+    "importyeti_url": "https://www.importyeti.com/company/place",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Stytch",
+    "importyeti_url": "https://www.importyeti.com/company/stytch",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Owkin",
+    "importyeti_url": "https://www.importyeti.com/company/owkin",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Expel",
+    "importyeti_url": "https://www.importyeti.com/company/expel",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "NoBroker",
+    "importyeti_url": "https://www.importyeti.com/company/nobroker",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Lessen",
+    "importyeti_url": "https://www.importyeti.com/company/lessen",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Clara",
+    "importyeti_url": "https://www.importyeti.com/company/clara",
+    "company_country": "Mexico"
+  },
+  {
+    "company_name": "YipitData",
+    "importyeti_url": "https://www.importyeti.com/company/yipitdata",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Anyscale",
+    "importyeti_url": "https://www.importyeti.com/company/anyscale",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Iodine Software",
+    "importyeti_url": "https://www.importyeti.com/company/iodine-software",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "ReliaQuest",
+    "importyeti_url": "https://www.importyeti.com/company/reliaquest",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pet Circle",
+    "importyeti_url": "https://www.importyeti.com/company/pet-circle",
+    "company_country": "Australia"
+  },
+  {
+    "company_name": "Nature's Fynd",
+    "importyeti_url": "https://www.importyeti.com/company/natures-fynd",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Lydia",
+    "importyeti_url": "https://www.importyeti.com/company/lydia",
+    "company_country": "France"
+  },
+  {
+    "company_name": "SellerX",
+    "importyeti_url": "https://www.importyeti.com/company/sellerx",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "SnapLogic",
+    "importyeti_url": "https://www.importyeti.com/company/snaplogic",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Cadence",
+    "importyeti_url": "https://www.importyeti.com/company/cadence",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Noname Security",
+    "importyeti_url": "https://www.importyeti.com/company/noname-security",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Rothy's",
+    "importyeti_url": "https://www.importyeti.com/company/rothys",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "VOI",
+    "importyeti_url": "https://www.importyeti.com/company/voi",
+    "company_country": "Sweden"
+  },
+  {
+    "company_name": "Haomao.AI",
+    "importyeti_url": "https://www.importyeti.com/company/haomaoai",
+    "company_country": "China"
+  },
+  {
+    "company_name": "Kopi Kenangan",
+    "importyeti_url": "https://www.importyeti.com/company/kopi-kenangan",
+    "company_country": "Indonesia"
+  },
+  {
+    "company_name": "InFarm",
+    "importyeti_url": "https://www.importyeti.com/company/infarm",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "ONE",
+    "importyeti_url": "https://www.importyeti.com/company/one",
+    "company_country": "Singapore"
+  },
+  {
+    "company_name": "Fractal Analytics",
+    "importyeti_url": "https://www.importyeti.com/company/fractal-analytics",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Assent",
+    "importyeti_url": "https://www.importyeti.com/company/assent",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "Placer.ai",
+    "importyeti_url": "https://www.importyeti.com/company/placerai",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Pentera",
+    "importyeti_url": "https://www.importyeti.com/company/pentera",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "Darwinbox",
+    "importyeti_url": "https://www.importyeti.com/company/darwinbox",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Minio",
+    "importyeti_url": "https://www.importyeti.com/company/minio",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Fever Labs",
+    "importyeti_url": "https://www.importyeti.com/company/fever-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Esusu",
+    "importyeti_url": "https://www.importyeti.com/company/esusu",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Betterfly",
+    "importyeti_url": "https://www.importyeti.com/company/betterfly",
+    "company_country": "Chile"
+  },
+  {
+    "company_name": "Dune Analytics",
+    "importyeti_url": "https://www.importyeti.com/company/dune-analytics",
+    "company_country": "Norway"
+  },
+  {
+    "company_name": "Scandit",
+    "importyeti_url": "https://www.importyeti.com/company/scandit",
+    "company_country": "Switzerland"
+  },
+  {
+    "company_name": "Payhawk",
+    "importyeti_url": "https://www.importyeti.com/company/payhawk",
+    "company_country": "United Kingdom"
+  },
+  {
+    "company_name": "Watershed",
+    "importyeti_url": "https://www.importyeti.com/company/watershed",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Axelar",
+    "importyeti_url": "https://www.importyeti.com/company/axelar",
+    "company_country": "Canada"
+  },
+  {
+    "company_name": "CHEQ",
+    "importyeti_url": "https://www.importyeti.com/company/cheq",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Hasura",
+    "importyeti_url": "https://www.importyeti.com/company/hasura",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Timescale",
+    "importyeti_url": "https://www.importyeti.com/company/timescale",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Scalapay",
+    "importyeti_url": "https://www.importyeti.com/company/scalapay",
+    "company_country": "Italy"
+  },
+  {
+    "company_name": "Omada Health",
+    "importyeti_url": "https://www.importyeti.com/company/omada-health",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "BlueVoyant",
+    "importyeti_url": "https://www.importyeti.com/company/bluevoyant",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Veev",
+    "importyeti_url": "https://www.importyeti.com/company/veev",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Vendr",
+    "importyeti_url": "https://www.importyeti.com/company/vendr",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Gauntlet Networks",
+    "importyeti_url": "https://www.importyeti.com/company/gauntlet-networks",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Aptos",
+    "importyeti_url": "https://www.importyeti.com/company/aptos",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Glia",
+    "importyeti_url": "https://www.importyeti.com/company/glia",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "CommerceIQ",
+    "importyeti_url": "https://www.importyeti.com/company/commerceiq",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "RapidAPI",
+    "importyeti_url": "https://www.importyeti.com/company/rapidapi",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Tarana Wireless",
+    "importyeti_url": "https://www.importyeti.com/company/tarana-wireless",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "FLASH",
+    "importyeti_url": "https://www.importyeti.com/company/flash",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Electric",
+    "importyeti_url": "https://www.importyeti.com/company/electric",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "LayerZero Labs",
+    "importyeti_url": "https://www.importyeti.com/company/layerzero-labs",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "BostonGene",
+    "importyeti_url": "https://www.importyeti.com/company/bostongene",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Grover",
+    "importyeti_url": "https://www.importyeti.com/company/grover",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Genies",
+    "importyeti_url": "https://www.importyeti.com/company/genies",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Oyster",
+    "importyeti_url": "https://www.importyeti.com/company/oyster",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "NexHealth",
+    "importyeti_url": "https://www.importyeti.com/company/nexhealth",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "UPSIDE Foods",
+    "importyeti_url": "https://www.importyeti.com/company/upside-foods",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Factorial",
+    "importyeti_url": "https://www.importyeti.com/company/factorial",
+    "company_country": "Spain"
+  },
+  {
+    "company_name": "Divergent 3D",
+    "importyeti_url": "https://www.importyeti.com/company/divergent-3d",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Taxfix",
+    "importyeti_url": "https://www.importyeti.com/company/taxfix",
+    "company_country": "Germany"
+  },
+  {
+    "company_name": "Open",
+    "importyeti_url": "https://www.importyeti.com/company/open",
+    "company_country": "India"
+  },
+  {
+    "company_name": "Polarium",
+    "importyeti_url": "https://www.importyeti.com/company/polarium",
+    "company_country": "Sweden"
+  },
+  {
+    "company_name": "Opn",
+    "importyeti_url": "https://www.importyeti.com/company/opn",
+    "company_country": "Japan"
+  },
+  {
+    "company_name": "Remarkable",
+    "importyeti_url": "https://www.importyeti.com/company/remarkable",
+    "company_country": "Norway"
+  },
+  {
+    "company_name": "Habi",
+    "importyeti_url": "https://www.importyeti.com/company/habi",
+    "company_country": "Colombia"
+  },
+  {
+    "company_name": "Glean",
+    "importyeti_url": "https://www.importyeti.com/company/glean",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "CareBridge",
+    "importyeti_url": "https://www.importyeti.com/company/carebridge",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Immuta",
+    "importyeti_url": "https://www.importyeti.com/company/immuta",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "JupiterOne",
+    "importyeti_url": "https://www.importyeti.com/company/jupiterone",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Vayyar",
+    "importyeti_url": "https://www.importyeti.com/company/vayyar",
+    "company_country": "Israel"
+  },
+  {
+    "company_name": "LeadSquared",
+    "importyeti_url": "https://www.importyeti.com/company/leadsquared",
+    "company_country": "India"
+  },
+  {
+    "company_name": "FourKites",
+    "importyeti_url": "https://www.importyeti.com/company/fourkites",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "VulcanForms",
+    "importyeti_url": "https://www.importyeti.com/company/vulcanforms",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "SingleStore",
+    "importyeti_url": "https://www.importyeti.com/company/singlestore",
+    "company_country": "United States"
+  },
+  {
+    "company_name": "Unstoppable Domains",
+    "importyeti_url": "https://www.importyeti.com/company/unstoppable-domains",
+    "company_country": "United States"
+  }
+]
