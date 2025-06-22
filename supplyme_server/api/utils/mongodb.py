@@ -1,4 +1,4 @@
-from gemini import *
+from .gemini import *
 import os
 from pymongo.mongo_client import MongoClient
 from pymongo.operations import SearchIndexModel
@@ -200,6 +200,6 @@ def addToCollection():
 
 # createSearchIndex()
 # print(list(findBestCompanies("Handheld device to call and send messages with people")))
-addToCollection()
+# addToCollection()
 
-client.close()
+# client.close()
