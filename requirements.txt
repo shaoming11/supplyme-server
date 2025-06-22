@@ -10,3 +10,8 @@ aiohttp
 asyncio
 selenium
 selenium-stealth
+psycopg2
+dj-database-url
+whitenoise[brotli]
+gunicorn
+uvicorn
