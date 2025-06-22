@@ -1,4 +1,4 @@
-from .gemini import *
+from gemini import *
 import os
 from pymongo.mongo_client import MongoClient
 from pymongo.operations import SearchIndexModel
@@ -61,8 +61,7 @@ def semanticSearch(query, neighbours, limit, companyID="-1", type="company"):
         'name': 1,  # include in return
         'description': 1, 
         'company': 1,
-        'country': 1,
-        'embedding': 0
+        'country': 1
         }
     }
     ]
@@ -72,72 +71,6 @@ def semanticSearch(query, neighbours, limit, companyID="-1", type="company"):
     # for i in result:
     #     print(i)
     return result
-# def semanticSearch(query, neighbours, limit, companyID="-1"):
-#     collection = client["companyData"]["companyCollection"]
-    
-#     # DEBUG 1: Check collection has data
-#     total_docs = collection.count_documents({})
-#     print(f"Total docs in collection: {total_docs}")
-    
-#     # DEBUG 2: Check company filter
-#     company_docs = collection.count_documents({"company": companyID})
-#     print(f"Docs with company '{companyID}': {company_docs}")
-    
-#     # DEBUG 3: Check embeddings exist
-#     embedding_docs = collection.count_documents({"embedding": {"$exists": True}})
-#     print(f"Docs with embeddings: {embedding_docs}")
-    
-#     # DEBUG 4: Try without filter first
-#     pipeline_no_filter = [
-#         {
-#             '$vectorSearch': {
-#                 'index': 'vector_index', 
-#                 'path': 'embedding',
-#                 'queryVector': generateEmbedding(query),
-#                 'numCandidates': neighbours,
-#                 'limit': limit
-#                 # No filter
-#             }
-#         }
-#     ]
-    
-#     result_no_filter = list(collection.aggregate(pipeline_no_filter))
-#     print(f"Results WITHOUT filter: {len(result_no_filter)}")
-    
-#     # DEBUG 5: Check your embedding
-#     query_embedding = generateEmbedding(query)
-#     print(f"Query embedding length: {len(query_embedding)}")
-#     print(f"First few values: {query_embedding[:5]}")
-    
-#     # Now try with filter
-#     pipeline = [
-#         {
-#             '$vectorSearch': {
-#                 'index': 'vector_index', 
-#                 'path': 'embedding',
-#                 'queryVector': query_embedding,
-#                 'numCandidates': neighbours,
-#                 'limit': limit,
-#                 'filter': {
-#                     'company': companyID
-#                 }
-#             }
-#         }, {
-#             '$project': {
-#                 '_id': 0, 
-#                 'name': 1,
-#                 'description': 1, 
-#                 'company': 1,
-#                 'country': 1,
-#                 'embedding': 1
-#             }
-#         }
-#     ]
-    
-#     result = list(collection.aggregate(pipeline))
-#     print(f"Results WITH filter: {len(result)}")
-    
-#     return result
 
 def addCompany(companyName, companyCountry):
     description = generateCompanyDescription(companyName)
@@ -199,7 +132,7 @@ def addToCollection():
             addSupplier(id, supplier['name'].strip(), supplier['country'].strip())
 
 # createSearchIndex()
-# print(list(findBestCompanies("Handheld device to call and send messages with people")))
+print(list(findBestSuppliers("Coffee Beans", '6857c3cf8621971d5facdabc')))
 # addToCollection()
 
 # client.close()
