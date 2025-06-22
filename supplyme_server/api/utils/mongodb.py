@@ -1,4 +1,4 @@
-from gemini import *
+from .gemini import *
 import os
 from pymongo.mongo_client import MongoClient
 from pymongo.operations import SearchIndexModel
