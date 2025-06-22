@@ -1,5 +1,6 @@
 # SupplyMe
 
+## Description
 SupplyMe is a web app that helps small business owners find and contact manufactureres by compiling the data on manufacturers of larger companies. By searching the name of a company, users can discover their manufacturers, view details on them, and reach out. 
 This repository contains the back end of the project.
 
