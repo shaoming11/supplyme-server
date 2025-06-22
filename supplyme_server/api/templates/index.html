@@ -1,0 +1,184 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SupplyMe</title>
+    <link rel="stylesheet" href="{% static 'style.css' %}" />
+    <link rel="icon" href="{% static 'logonotext.svg' %}" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+
+  <body>
+    <nav>
+      <div class="navleft">
+        <img src="{% static 'logo.svg' %}" width="200" height="50" />
+      </div>
+
+      <div class="navcenter">
+        <a href="#download">Download</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </div>
+
+      <div class="navright">
+        <button class="purplebutton">Try For Web</button>
+      </div>
+    </nav>
+
+    <div class="columns-wrapper">
+      <div class="leftcol">
+        <h1 style="color: white; font-size: 58px">
+          Find Manufacturers <br />For Your Business
+        </h1>
+        <p style="margin-top: -20px">
+          Made by business owners, for business owners
+        </p>
+        <button
+          class="purplebutton"
+          style="
+            float: none;
+            padding: 10px 30px;
+            font-size: 18px;
+            margin-top: 30px;
+          "
+        >
+          Download
+        </button>
+
+        <div class="stars">
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+        </div>
+
+        <p style="font-weight: bold; margin-bottom: -5px">
+          A game changer for my business!
+        </p>
+        <p style="font-size: 16px">
+          Before SupplyMe, I struggled to find reliable manufacturers. <br />
+          Now I can compare options in seconds — it's like having a <br />
+          sourcing team in my pocket.
+        </p>
+
+        <div style="display: flex; align-items: center; gap: 10px">
+          <div
+            style="
+              width: 30px;
+              height: 30px;
+              border-radius: 50%;
+              overflow: hidden;
+            "
+          >
+            <img
+              src="{% static 'ryanchen.jpg' %}"
+              alt="Ryan Chen"
+              style="width: 100%; height: 100%; object-fit: cover"
+            />
+          </div>
+          <p style="font-size: 16px; font-weight: bold; margin: 0">Ryan Chen</p>
+        </div>
+      </div>
+
+      <div class="rightcol">
+        <div class="promptblock">
+          <img src="{% static 'magnify.png' %}" alt="" style="width: 20px; height: auto" />
+          <p style="padding: 10px; color: black">
+            Find me winter jacket manufacturers
+          </p>
+
+          <img
+            src="{% static 'arrow.png' %}"
+            alt=""
+            style="
+              position: absolute;
+              width: 100px;
+              height: auto;
+              left: 0%;
+              transform: translateY(120%);
+            "
+          />
+
+          <div class="tableblock">
+            <table class="styled-table">
+              <thead>
+                <tr>
+                  <th>MANUFACTURER</th>
+                  <th>HS CODE</th>
+                  <th>COST</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>SMW Mnfct.</td>
+                  <td>1</td>
+                  <td>1</td>
+                </tr>
+                <tr>
+                  <td>Rasie LTD</td>
+                  <td>2</td>
+                  <td>2</td>
+                </tr>
+                <tr>
+                  <td>Satheesh Corp.</td>
+                  <td>3</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>ZXC Providers</td>
+                  <td>4</td>
+                  <td>4</td>
+                </tr>
+                <tr>
+                  <td>WillYang Fabrics</td>
+                  <td>5</td>
+                  <td>5</td>
+                </tr>
+                <tr>
+                  <td>UWaterloo</td>
+                  <td>6</td>
+                  <td>6</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="columns-wrapper" style="overflow: auto;">
+
+    <!-- ABOUT SECTION -->
+    <section id="about" class="about-section">
+      <h2>About Us</h2>
+      <p>
+        SupplyMe empowers business owners to take control of their supply chain.
+        By leveraging real sourcing data from top brands like Nike and Gatorade,
+        we help you discover reliable manufacturers across the globe — all
+        through a single, powerful search tool.
+      </p>
+    </section>
+
+    <!-- CONTACT SECTION -->
+    <section id="contact" class="contact-section">
+      <h2>Contact Us</h2>
+      <p>Have a question or want to work with us?</p>
+      <form class="contact-form">
+        <input type="text" name="name" placeholder="Your Name" required />
+        <input type="email" name="email" placeholder="Your Email" required />
+        <textarea name="message" placeholder="Your Message" required></textarea>
+        <button type="submit" class="purplebutton">Send Message</button>
+      </form>
+    </section>
+  </body>
+</html>

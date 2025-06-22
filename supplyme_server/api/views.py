@@ -1,3 +1,4 @@
+from django.http import HttpRequest
 from django.shortcuts import render
 from rest_framework.views import APIView
 from rest_framework.response import Response
@@ -33,3 +34,6 @@ class GetResults(APIView):
                 })
         
         return Response(results)
+
+def index(request):
+    return render(request, "index.html")
