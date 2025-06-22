@@ -4,12 +4,6 @@ google-genai
 numpy
 pandas
 mongoengine
-beautifulsoup4
-requests
-aiohttp
-asyncio
-selenium
-selenium-stealth
 psycopg2
 dj-database-url
 whitenoise[brotli]
