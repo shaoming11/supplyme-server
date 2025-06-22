@@ -29,13 +29,6 @@ This is converted into a vector and semantically searched using **Google Gemini*
 
 ---
 
-## How to start
-To download the app, visit our website and click the download button.
-
-To run the app locally, clone this repository
-
----
-
 ## Tech Stack
 
 | Layer         | Technology           |
@@ -45,5 +38,12 @@ To run the app locally, clone this repository
 | Backend       | Django, MongoDB      |
 | AI            | Google Gemini        |
 | API Data      | ImportYeti API       |
+
+---
+
+## How to start
+To download the app, visit our website and click the download button.
+
+To run the app locally, clone this repository
 
 ---
