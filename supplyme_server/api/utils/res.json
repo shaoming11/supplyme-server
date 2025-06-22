@@ -1,0 +1,19 @@
+
+
+
+
+[
+    {
+        "name": "Mcdonalds",
+        "country": "United States",
+        "suppliers": [
+            {
+                "name": "Haining High Point Furniture",
+                "country": "China"
+            }
+        ]
+    }
+]
+
+
+
