@@ -33,14 +33,14 @@ def findProductName(text):
     )
     return response.text
 
-def generateCompanyDescription(companyName):
+def generateCompanyDescription(companyName, companyCountry):
     response = client.models.generate_content(
-        model="gemini-2.5-flash", contents=f"Could you describe the company listed below (only list what this company does by providing a brief description) \n\n[\n{companyName}\n]?"
+        model="gemini-2.5-flash", contents=f"Could you describe the company listed below (only list what this company does by providing a brief description) \n\n[\n{companyName} ({companyCountry})\n]?"
     )
     return response.text
 
-def generateSupplierDescription(companyName):
+def generateSupplierDescription(supplierName, supplierCountry):
     response = client.models.generate_content(
-        model="gemini-2.5-flash", contents=f"Could you describe what products the company listed below supplies (only list products) \n\n[\n{companyName}\n]?"
+        model="gemini-2.5-flash", contents=f"Could you describe what products the company listed below supplies (only list products) \n\n[\n{supplierName} ({supplierCountry})\n]?"
     )
     return response.text

@@ -57,7 +57,7 @@ def semanticSearch(query, neighbours, limit, companyID="-1", type="company"):
         }
     }, {
         '$project': {
-        '_id': 0, 
+        '_id': 1, 
         'name': 1,  # include in return
         'description': 1, 
         'company': 1,
