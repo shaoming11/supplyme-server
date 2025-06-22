@@ -132,7 +132,7 @@ def addToCollection():
             addSupplier(id, supplier['name'].strip(), supplier['country'].strip())
 
 # createSearchIndex()
-print(list(findBestSuppliers("Coffee Beans", '6857c3cf8621971d5facdabc')))
+# print(list(findBestSuppliers("Coffee Beans", '6857c3cf8621971d5facdabc')))
 # addToCollection()
 
 # client.close()
